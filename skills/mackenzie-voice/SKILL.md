@@ -31,7 +31,7 @@ This skill guarantees:
 
 ## Phases
 
-1. **Load context.** Read `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.1.manifest.json`, the relevant corpus snippets, `mackenzie-price-style/training/grading-schema.md`, and calibration notes under `mackenzie-price-style/training/feedback/`.
+1. **Load context.** Read `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.2.manifest.json`, the relevant corpus snippets, `mackenzie-price-style/training/grading-schema.md`, and calibration notes under `mackenzie-price-style/training/feedback/`.
 2. **Clarify the artifact.** Identify audience, sender, format, goal, required facts, CTA, length, and any canonical Alpha phrases. Ask only if a missing fact would make the draft materially wrong.
 3. **Draft in MacKenzie voice.** Use parent/founder voice: concrete, direct, warm, opinionated, practical. Prefer real parent stakes and kid-centered examples over launch hype or generic brand language.
 4. **Run self-critique.** Grade against the schema: sounds_like_mackenzie, clarity, conviction, parent_resonance, alpha_accuracy, not_generic, too_salesy, too_corporate, forbidden_phrases, keeper_phrases.

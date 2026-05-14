@@ -4,7 +4,7 @@ Status: usable but not locked. Built from Tier A corpus v0.1 plus initial review
 
 ## Source base
 
-- `processed/mackenzie-tier-a-master-corpus-v0.1.md`
+- `processed/mackenzie-tier-a-master-corpus-v0.2.md`
 - 3 Tier A sources, 16,803 direct MacKenzie words
 - Feedback ledger and calibration notes under `training/`
 

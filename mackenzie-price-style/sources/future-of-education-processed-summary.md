@@ -1,8 +1,26 @@
 # Future of Education processed transcripts
 
+- **s2e285** — S2E285: Audience Q+A: Honest Answers to Your Biggest Questions — 4474 words
+  - `transcripts/future-of-education-podcast/cleaned/s2e285.cleaned.md`
+  - `transcripts/future-of-education-podcast/cleaned/s2e285.mackenzie-only.md`
+- **s2e286** — S2E286: Debunking the Nonprofit Fantasy — 2275 words
+  - `transcripts/future-of-education-podcast/cleaned/s2e286.cleaned.md`
+  - `transcripts/future-of-education-podcast/cleaned/s2e286.mackenzie-only.md`
+- **s2e290** — S2E290: 11 Things Your Kid’s Brain Actually Needs — 3042 words
+  - `transcripts/future-of-education-podcast/cleaned/s2e290.cleaned.md`
+  - `transcripts/future-of-education-podcast/cleaned/s2e290.mackenzie-only.md`
+- **s2e291** — S2E291: (Part 2) 11 Brain-Based Principles That Actually Make Learning Stick — 3225 words
+  - `transcripts/future-of-education-podcast/cleaned/s2e291.cleaned.md`
+  - `transcripts/future-of-education-podcast/cleaned/s2e291.mackenzie-only.md`
+- **s2e296** — S2E296: What Parents Are Really Saying: Alpha’s End-of-Year Survey Results — 7701 words
+  - `transcripts/future-of-education-podcast/cleaned/s2e296.cleaned.md`
+  - `transcripts/future-of-education-podcast/cleaned/s2e296.mackenzie-only.md`
 - **s2e307** — S2E307: MacKenzie's Advice Column: Answering Your Questions (Part 1) — 3050 words
   - `transcripts/future-of-education-podcast/cleaned/s2e307.cleaned.md`
   - `transcripts/future-of-education-podcast/cleaned/s2e307.mackenzie-only.md`
 - **s2e308** — S2E308: MacKenzie's Advice Column: Answering Your Questions (Part 2) — 2491 words
   - `transcripts/future-of-education-podcast/cleaned/s2e308.cleaned.md`
   - `transcripts/future-of-education-podcast/cleaned/s2e308.mackenzie-only.md`
+- **s2e331** — S2E331: Why We Don't Say the Pledge: Keeping Politics Out of Education — 3875 words
+  - `transcripts/future-of-education-podcast/cleaned/s2e331.cleaned.md`
+  - `transcripts/future-of-education-podcast/cleaned/s2e331.mackenzie-only.md`

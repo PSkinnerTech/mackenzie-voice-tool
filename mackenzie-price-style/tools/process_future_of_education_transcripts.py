@@ -27,7 +27,7 @@ if sel_path.exists():
         feed_rows[r['slug']] = r
 
 INTRO_START = 'Welcome to the Future of Education podcast'
-INTRO_END_RE = re.compile(r'All right, first question\.?', re.I)
+INTRO_END_RE = re.compile(r"All right, (?:here(?:'s| is) the )?first (?:one|question)\.?", re.I)
 
 def clean_text(text: str) -> str:
     text = text.replace('\r\n','\n').strip()
@@ -40,9 +40,11 @@ def clean_text(text: str) -> str:
         before, rest = raw.split(INTRO_START, 1)
         m = INTRO_END_RE.search(rest)
         if m:
-            raw = (before.strip() + '\n\nAll right, first question. ' + rest[m.end():].strip()).strip()
+            raw = (before.strip() + '\n\n' + m.group(0).strip() + ' ' + rest[m.end():].strip()).strip()
         else:
-            raw = before.strip()
+            # If the intro format changed, do not discard the episode. Keep the text and
+            # remove only the known intro marker sentence.
+            raw = (before.strip() + ' ' + rest.strip()).strip()
     # Put question transitions on paragraph boundaries.
     raw = re.sub(r'\s+(All right, (?:next|first) question\.)\s+', r'\n\n\1 ', raw, flags=re.I)
     raw = re.sub(r'\s+(Question number \w+\.)\s+', r'\n\n\1 ', raw, flags=re.I)

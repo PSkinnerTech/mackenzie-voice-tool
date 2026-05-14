@@ -1,5 +1,40 @@
 [
   {
+    "slug": "s2e285",
+    "title": "S2E285: Audience Q+A: Honest Answers to Your Biggest Questions",
+    "words": 4474,
+    "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e285.cleaned.md",
+    "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e285.mackenzie-only.md"
+  },
+  {
+    "slug": "s2e286",
+    "title": "S2E286: Debunking the Nonprofit Fantasy",
+    "words": 2275,
+    "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e286.cleaned.md",
+    "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e286.mackenzie-only.md"
+  },
+  {
+    "slug": "s2e290",
+    "title": "S2E290: 11 Things Your Kid\u2019s Brain Actually Needs",
+    "words": 3042,
+    "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e290.cleaned.md",
+    "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e290.mackenzie-only.md"
+  },
+  {
+    "slug": "s2e291",
+    "title": "S2E291: (Part 2) 11 Brain-Based Principles That Actually Make Learning Stick",
+    "words": 3225,
+    "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e291.cleaned.md",
+    "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e291.mackenzie-only.md"
+  },
+  {
+    "slug": "s2e296",
+    "title": "S2E296: What Parents Are Really Saying: Alpha\u2019s End-of-Year Survey Results",
+    "words": 7701,
+    "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e296.cleaned.md",
+    "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e296.mackenzie-only.md"
+  },
+  {
     "slug": "s2e307",
     "title": "S2E307: MacKenzie's Advice Column: Answering Your Questions (Part 1)",
     "words": 3050,
@@ -12,5 +47,12 @@
     "words": 2491,
     "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e308.cleaned.md",
     "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e308.mackenzie-only.md"
+  },
+  {
+    "slug": "s2e331",
+    "title": "S2E331: Why We Don't Say the Pledge: Keeping Politics Out of Education",
+    "words": 3875,
+    "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e331.cleaned.md",
+    "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e331.mackenzie-only.md"
   }
 ]

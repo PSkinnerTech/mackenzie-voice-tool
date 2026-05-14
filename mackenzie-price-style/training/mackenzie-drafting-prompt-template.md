@@ -16,7 +16,7 @@ Use this when generating review drafts.
 
 ## Drafting instruction
 
-Draft in MacKenzie Price's voice only, using `voice-guide/mackenzie-voice-guide-v0.1.md` and `processed/mackenzie-tier-a-master-corpus-v0.1.md` as source context. This is a draft for human review, not a final send.
+Draft in MacKenzie Price's voice only, using `voice-guide/mackenzie-voice-guide-v0.1.md` and `processed/mackenzie-tier-a-master-corpus-v0.2.md` as source context. This is a draft for human review, not a final send.
 
 Before returning the draft, revise once against:
 

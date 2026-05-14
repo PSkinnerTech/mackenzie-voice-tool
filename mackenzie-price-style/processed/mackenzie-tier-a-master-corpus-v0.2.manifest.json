@@ -1,0 +1,79 @@
+{
+  "version": "v0.2",
+  "total_words": 41395,
+  "training_media_minutes": 234,
+  "sources": [
+    {
+      "id": "modern-wisdom-981",
+      "title": "Modern Wisdom #981 \u2014 MacKenzie Price: Alpha School: A New Approach To Education",
+      "tier": "Tier A direct MacKenzie voice; transcript mirror cleaned and speaker-labeled",
+      "status": "usable draft corpus; verify against YouTube/audio before final lock",
+      "path": "transcripts/modern-wisdom-981/modern-wisdom-981.mackenzie-only.md",
+      "words": 11262
+    },
+    {
+      "id": "future-of-education-s2e285",
+      "title": "Future of Education \u2014 S2E285: Audience Q+A: Honest Answers to Your Biggest Questions",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e285.mackenzie-only.md",
+      "words": 4474
+    },
+    {
+      "id": "future-of-education-s2e286",
+      "title": "Future of Education \u2014 S2E286: Debunking the Nonprofit Fantasy",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e286.mackenzie-only.md",
+      "words": 2275
+    },
+    {
+      "id": "future-of-education-s2e290",
+      "title": "Future of Education \u2014 S2E290: 11 Things Your Kid\u2019s Brain Actually Needs",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e290.mackenzie-only.md",
+      "words": 3042
+    },
+    {
+      "id": "future-of-education-s2e291",
+      "title": "Future of Education \u2014 S2E291: (Part 2) 11 Brain-Based Principles That Actually Make Learning Stick",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e291.mackenzie-only.md",
+      "words": 3225
+    },
+    {
+      "id": "future-of-education-s2e296",
+      "title": "Future of Education \u2014 S2E296: What Parents Are Really Saying: Alpha\u2019s End-of-Year Survey Results",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e296.mackenzie-only.md",
+      "words": 7701
+    },
+    {
+      "id": "future-of-education-s2e307",
+      "title": "Future of Education \u2014 S2E307: MacKenzie's Advice Column: Answering Your Questions (Part 1)",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e307.mackenzie-only.md",
+      "words": 3050
+    },
+    {
+      "id": "future-of-education-s2e308",
+      "title": "Future of Education \u2014 S2E308: MacKenzie's Advice Column: Answering Your Questions (Part 2)",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e308.mackenzie-only.md",
+      "words": 2491
+    },
+    {
+      "id": "future-of-education-s2e331",
+      "title": "Future of Education \u2014 S2E331: Why We Don't Say the Pledge: Keeping Politics Out of Education",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e331.mackenzie-only.md",
+      "words": 3875
+    }
+  ]
+}

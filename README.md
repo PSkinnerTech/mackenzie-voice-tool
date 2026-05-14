@@ -48,7 +48,7 @@ Then create a new Perplexity Space:
 7. Also upload these files if your plan/file limits allow it:
    - `skills/mackenzie-voice/SKILL.md`
    - `mackenzie-price-style/voice-guide/mackenzie-voice-guide-v0.1.md`
-   - `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.1.md`
+   - `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.2.md`
    - `mackenzie-price-style/training/grading-schema.md`
    - `mackenzie-price-style/training/feedback/2026-05-13-sales-director-feedback.md`
    - `mackenzie-price-style/training/examples/miami-founding-family/review-scorecard.md`
@@ -91,7 +91,7 @@ Research notes: Perplexity Spaces are the right target because they support proj
 
 Source-backed MacKenzie Price voice drafting and review-loop tooling for Alpha School communications.
 
-Status: **v0.1, usable but not locked**.
+Status: **v0.2, expanded usable draft but not locked**.
 
 This repository contains:
 
@@ -102,6 +102,16 @@ This repository contains:
 - scripts for capturing feedback and turning it into training data
 
 The goal is not to impersonate MacKenzie or send unsupervised messages. The goal is to generate high-quality drafts for human review, then improve the drafting system from MacKenzie’s actual edits.
+
+
+## Current corpus version
+
+Status: **v0.2, expanded usable draft but not locked**.
+
+The v0.2 Tier A corpus contains **41,395 words** from **9 sources**, representing approximately **234 total minutes** of video/audio transcript material:
+
+- Modern Wisdom #981 video/podcast: 71 minutes
+- Future of Education podcast selected episodes: 163 minutes
 
 ## Is this a “true skill”?
 
@@ -117,8 +127,8 @@ Do **not** copy only `SKILL.md` and expect full performance. The skill instructi
 - `skills/mackenzie-voice/SKILL.md`  
   The skill definition and workflow.
 
-- `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.1.md`  
-  The v0.1 Tier A MacKenzie corpus.
+- `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.2.md`  
+  The v0.2 Tier A MacKenzie corpus.
 
 - `mackenzie-price-style/voice-guide/mackenzie-voice-guide-v0.1.md`  
   The current voice guide.
@@ -223,7 +233,7 @@ You are using the MacKenzie Voice Tool. Target voice is MacKenzie Price only. Ne
 
 - skills/mackenzie-voice/SKILL.md
 - mackenzie-price-style/voice-guide/mackenzie-voice-guide-v0.1.md
-- mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.1.md
+- mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.2.md
 - mackenzie-price-style/training/grading-schema.md
 - mackenzie-price-style/training/feedback/
 
@@ -374,7 +384,7 @@ Minimum required facts for a good draft:
 
 ## Current limitations
 
-- The v0.1 corpus is usable but not locked.
+- The v0.2 corpus is expanded and usable but not locked.
 - Modern Wisdom should be verified against original audio/video.
 - Future of Education transcripts are Whisper-based and need spot checks.
 - The voice guide needs MacKenzie’s direct calibration before broader team rollout.

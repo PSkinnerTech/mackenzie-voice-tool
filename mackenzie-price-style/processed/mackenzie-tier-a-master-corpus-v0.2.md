@@ -1,0 +1,1185 @@
+# MacKenzie Price Tier A Master Corpus v0.2
+
+This corpus is for drafting/review support and voice analysis, not deceptive impersonation. Outputs built from it should be framed as drafts for human review.
+
+Status: expanded usable draft. Modern Wisdom should be verified against original audio/video; Future of Education Whisper transcripts need spot-checks for proper nouns and listener-question wording.
+
+Training media represented: approximately 234 minutes of video/audio transcript material across 9 sources.
+
+Sources: 9
+Total words: 41395
+
+## Source manifest
+
+- **modern-wisdom-981** — 11262 words — `transcripts/modern-wisdom-981/modern-wisdom-981.mackenzie-only.md`
+- **future-of-education-s2e285** — 4474 words — `transcripts/future-of-education-podcast/cleaned/s2e285.mackenzie-only.md`
+- **future-of-education-s2e286** — 2275 words — `transcripts/future-of-education-podcast/cleaned/s2e286.mackenzie-only.md`
+- **future-of-education-s2e290** — 3042 words — `transcripts/future-of-education-podcast/cleaned/s2e290.mackenzie-only.md`
+- **future-of-education-s2e291** — 3225 words — `transcripts/future-of-education-podcast/cleaned/s2e291.mackenzie-only.md`
+- **future-of-education-s2e296** — 7701 words — `transcripts/future-of-education-podcast/cleaned/s2e296.mackenzie-only.md`
+- **future-of-education-s2e307** — 3050 words — `transcripts/future-of-education-podcast/cleaned/s2e307.mackenzie-only.md`
+- **future-of-education-s2e308** — 2491 words — `transcripts/future-of-education-podcast/cleaned/s2e308.mackenzie-only.md`
+- **future-of-education-s2e331** — 3875 words — `transcripts/future-of-education-podcast/cleaned/s2e331.mackenzie-only.md`
+
+---
+
+## SOURCE: modern-wisdom-981
+
+- Title: Modern Wisdom #981 — MacKenzie Price: Alpha School: A New Approach To Education
+- Attribution: Tier A direct MacKenzie voice; transcript mirror cleaned and speaker-labeled
+- Status: usable draft corpus; verify against YouTube/audio before final lock
+- Source file: transcripts/modern-wisdom-981/modern-wisdom-981.mackenzie-only.md
+- Word count: 11262
+
+## MacKenzie chunk 1 — source turn 2 — 145 words
+
+Oh boy. I don’t know how long your podcast is, but let me tell you the fundamental issue. The teacher in front of the classroom model of one person trying to educate many kids who are at wildly different levels of understanding just fundamentally doesn’t work. And that would be the summary. There’s a lot of sub points in there.
+I think the other thing that we really want to fundamentally change in our culture is the attitude about school. I think people think school is like spinach – it’s good for you, but you kind of just have to get it through and do that. And what I truly believe is that kids should love school. Because when kids love school, it opens up the possibility. It opens up the possibility to do so many incredible things. And that’s what we’re doing at our schools.
+
+## MacKenzie chunk 2 — source turn 4 — 314 words
+
+Yeah, well, you know, if you want to go back in history, think a thousand years ago when Socrates was tutoring Plato, who tutored Aristotle, who tutored Alexander the Great, who went on to go take over the known world at the age of 22. That tutoring system was phenomenal, but it was reserved for the very, very elite and education was not given to the masses.
+Fast forward many years to the 1800s with the industrial revolution, we had to figure out a way to educate the masses. How could you get education to as many people as possible? But there was also another goal in mind at that point. How could you raise up compliant citizens who would listen to instruction and do as they’re told so that they could go to work in the factories and make industry work?
+And so that system of education, a teacher leading a group of students in a classroom came out in the 1800s. And you think about all of the industry changes across the board, except in the area of education. And if you went and visited a rural school in India or you went to the most posh boarding school in the east coast, you would really see the same thing. You would see a teacher leading a group of students in a time based classroom.
+You know, the building’s nicer in one versus the other, but otherwise, you know, our education system has not changed. And we’re seeing all of the kind of bad fruit that is coming from that. Especially in recent years where our world is changing so quickly and we fundamentally need to create a different type of citizen that’s able to have critical thinking skills, is able to develop life skills, and you know, we’re not even in the traditional system developing great academic skills at this point.
+
+## MacKenzie chunk 3 — source turn 6 — 335 words
+
+Well, you know, one of the things about the teacher in front of the classroom model, and, you know, just to be clear, Chris, I think teachers are heroes. You know, it’s an impossible job to take, you know, 15, 20, 25 kids who show up in a classroom, and some of them, you know, barely know how to read, and others, you know, are super advanced.
+You know, if you think about a teacher having, let’s say, a group of fifth graders come in and she’s got to explain a concept, and some of those fifth graders, before she’s even opened her mouth, they already know the concept, and they’re sitting there just bored to death. And after she’s explained the concept, there’s a huge percent of the class that it has gone right over their head. They have no idea what’s happening. And in either case, you’re forced to just move forward and do that.
+And so, as a result, the learning system in a traditional classroom is wildly inefficient. Right? So kids are spending, you know, six hours a day and then add homework as kids are getting older, starting in, like, second, third grade to try to learn in this way. It just doesn’t work.
+And so these schools only have so much time in the day, and they’re trying to get, you know, 50 minutes of math and 50 minutes of English and language and social studies and history, all of that stuff kind of crammed into a day. And what that results in is a bunch of kids who are chained to their desks all day doing academics.
+And again, either learning how to play the game and jump through the hoops and study for the tests to get the A’s on the report cards, or they choose to rebel and kind of disengage, like, “Yeah, I’m not playing this.” What were you, Chris? Were you – did you know how to play the game or were you a rebel?
+
+## MacKenzie chunk 4 — source turn 8 — 7 words
+
+You were a good boy. All right.
+
+## MacKenzie chunk 5 — source turn 10 — 485 words
+
+Yeah, well, I was a great student as well. But I will tell you one thing about me. I hated school. Growing up, I was always that kid who would sit in the classroom and I’d raise my hand and I’d be like, “I’m sorry. Why do I need to know this? Like, why is this something I’m having to spend my time learning?”
+And so I think that’s always an interesting combination of, like, I was motivated to do well in school because I really wanted to go to this great college, but I didn’t enjoy the experience.
+And I remember when I graduated, I was so excited to finally be done with school and have that be over.
+And, you know, I do think that there are, you know, the thing about the traditional education system, it does do a good job of training kids to be compliant, do as they’re told, and, you know, that’s kind of what it is.
+But, you know, let’s think about the motivation problem. I’ll tell you what, Chris. Fundamentally, there’s two things that are required for a student to be able to learn well. The first is they have to have the right level and pace of instruction that meets them where they’re at, right? But that’s only about 10% of what creates a great learner. 90% of what creates a great learner is they have to be motivated. They have to have a motivation to do that.
+And, you know, you think about the motivation structure that we give to kids in traditional world is we take a kindergartener and we say, “All right, little buddy, you know, at age five, you are going to go to school each day for about seven hours a day, five days a week, nine months a year. You are going to learn how to sit still. You’re going to learn how to raise your hand, how to ask permission to go to the restroom, you know, how to listen to your instructions. You’re going to, within a couple years, start also doing work at home at night. You’re going to do this for 13 years. And if you are really good at grinding it out, if you’re a good little boy or good little girl, like I was right, if you’re really good at grinding it out, you might get to go grind it out for four more years at university, right?”
+Isn’t that true? That is our motivation structure right now. And, and you know, I can’t even necessarily get excited about something that’s way down the road. You know, imagine these five or six year olds, you know, doing this, and then it just kind of goes.
+In fact, you know, they’ve done research that shows the highest level of enthusiasm between kindergarten and 12th grade. Can you guess what year students have the most enthusiasm?
+
+## MacKenzie chunk 6 — source turn 12 — 188 words
+
+That is close. It’s actually the second highest. The highest level of enthusiasm is in kindergarten because kids show up and they’re excited and curious and interested in learning. Kids are little sponges, right?
+And then what happens is every year that enthusiasm goes down, down, down, down until their junior year of high school when they finally start to see the light at the end of the tunnel and they’re like, “Oh my gosh, I’m almost out of here.” Right? And you just think about what a sad state of affairs that is. You know, how kids are just hanging out.
+And so, you know, fundamentally we have a motivation problem, and that’s one of the things we’re out to change. Schools don’t have time to teach what I think most parents really care about, which are real world life skills, right? The things that are going to help them. And, you know, you talk to anybody, what do you wish you’d learned in school? You know, everyone’s going to say, “Gosh, I wish I learned how credit cards work. I wish I learned how to balance…”
+
+## MacKenzie chunk 7 — source turn 14 — 71 words
+
+“I wish I learned how to do my taxes.” Exactly. All those things.
+And, and you know, here’s the thing. There is this really exciting event that has happened recently, and that is the advent of artificial intelligence. And it is allowing us to completely change the game of education. And I’ll tell you, Chris, there’s never been a more exciting time to be a five year old than right now.
+
+## MacKenzie chunk 8 — source turn 16 — 323 words
+
+Well, you know, Covid did a really good job of exposing just how sad of a state our education system is. But we are so entrenched in the way things were. And the thing that’s interesting about education is pretty much everybody had our own personal experience with being educated, right? Like, we knew what it was like to go to kindergarten and go to school and do all the things, go to football games, do all the things.
+And I think parents often kind of look back on their journey and when it’s time to educate their own kids, they’re kind of like, “Well, my kids should be educated the way I was educated,” right? That’s why you see people are like, “I went to Catholic school, my kids go to Catholic school, I went to private school,” or “I went to public school.” I did that. I was the same way. I was a public school kid, my husband was. And when it was time for our girls to go to school, we put them on the bus and said, you know, “Go to the local public school.” So we have this idea.
+And the other thing that I think happens is we often will have a little bit of a mis-memory of what our experience was like, because we’ll be like, “Well, I turned out fine,” right? “I turned out well. And I got my best friends from high school.” You know, I just did a girls trip with my best friends from high school a couple months ago. Like, I have great memories from high school. But we kind of start to forget about, you know, the average day to day thing.
+And you know, same thing with teachers. You know, one of the things that I believe is every adult has one or two teachers that change their life for them. Would you say that’s true for you?
+
+## MacKenzie chunk 9 — source turn 18 — 138 words
+
+Yeah, well, and actually we’ll get into that. Like at our school, what we do is, you know, we’ve transformed the role of the teacher to be more of a coach and a mentor because coaches really are phenomenal at impacting kids. Right. Think about sports and how good of a job a sports team and a coach does at motivating a child. But we don’t take that into the school situation, right? We don’t take that into the education part.
+And so again, what’s kind of happened in the last five years is people did realize, “Wow, this product of school isn’t great,” but how do we change it? What do we do? And it seems like a huge hurdle to get over. And you know, the good news is there is a way to change it.
+
+## MacKenzie chunk 10 — source turn 20 — 224 words
+
+Well, I mean, here’s the state of affairs. A third of students can do math or reading at grade level. So it’s an incredibly low amount. And guess what? That got even wider as a result of COVID. There was such a big difference during the COVID experience.
+So academically we’re in a terrible state. In fact, a high school senior who graduates in the 50th percentile – your average high school senior – they know the same amount of math as a third grader who’s in the 99th percentile. So when you think about that, half of our students in the country that we graduate don’t know as much math as a 99th percentile third grader. It’s absolutely crazy.
+In fact, when you think about inequality in the world and you think about in the United States, the inequality between a 50th percentile kid versus a kid in the 99th percentile when it comes to education – math, reading – it is a huge difference. In fact, for kids that are just average kids, you could really look at four years of high school as basically a waste of time for them. They barely improve at all.
+And now part of the reason… Yeah, well, I can tell you the reason why. I like to think about playing the game of Jenga. Have you ever played Jenga?
+
+## MacKenzie chunk 11 — source turn 22 — 479 words
+
+Okay, so you’re building a tower, right? You go to kindergarten and you start learning that 1 plus 1 is 2 and 4 plus 4 is 8. And how to spell your words and start reading, right? But as you’re getting information, you’re basically creating this Jenga tower. And if you don’t understand a concept, that’s like taking a little wood block out of your foundation.
+So as you go up and pretty soon you go from addition to subtraction to multiplication to division to fractions, to pre-algebra to algebra to calculus. If you don’t have a strong foundation in some of your more basic concepts, it’s going to be really hard to understand those more sophisticated concepts. That’s why a lot of people will fall off of what I call “the math cliff.”
+I was a victim of it. In about ninth grade, I started getting into more advanced math classes and I was like, “I have no idea what I’m doing. I don’t understand this.” Well, the reason is because I didn’t really have that strong mastery-based foundation of some of the lower level concepts that we needed. And so it’s really impossible to learn based on that. So the problem exacerbates as time goes on.
+And then you think about these poor teachers who get kids delivered into their classrooms, who are missing knowledge from the year before, two years before, three years before, and yet they’re expected to take a kid and get them through a sixth grade curriculum between September and May and do that for 20 plus kids, right? It just can’t be done.
+And that’s part of the reason we’re seeing teachers leaving the industry in droves, right? They’re underpaid, they’re overworked, they’re underappreciated, they’re trying to deal with all of this stuff – lesson planning and lecturing and grading papers and homework and dealing with parents. It’s a really thankless job.
+And so it is a sad state of affairs. We’re not getting the results that people want to see academically and teachers aren’t happy. And the other thing that’s really changed too is teachers are leaving, we’re not getting new people coming in. And the people that are coming into traditional education tend to be in the bottom 25% of their graduating classes in college. And so we’re not attracting the people that are going to make that difference.
+And one of the things I’m a huge believer in is we’ve got to make teaching a noble profession again. Because anybody who says, “I want to dedicate my time to impacting young people,” those people should be honored and revered, right? It’s a tough state. And so that’s been the issue. But you think about, we’re having to educate a billion kids. How do you do that? How do you change this fundamentally? And that’s what I’m tackling now each day.
+
+## MacKenzie chunk 12 — source turn 24 — 281 words
+
+Yeah, I mean, teachers have been given a bucket with holes in it and told to empty the ocean. And it just doesn’t work. And that’s why it’s time to reinvent and reimagine education.
+And for me, I had this personal experience for my daughters when it was time for them to go to school. I live in Austin, Texas. I sent them to our really excellently rated public school system. And very quickly my daughter just hit this wall of not being able to have personalization, being bored in class, things like that.
+And halfway through second grade, my daughter came home from school and she looked at me and she said, “I don’t want to go to school tomorrow.” I said, “What do you mean? You love school?” And she just looked at me and she’s like, “School is so boring.”
+I mean, I just had this moment of like, “Oh my gosh, in two and a half years, they’ve taken a kid who’s tailor made to love school and be interested and want to learn, and they’ve wiped that passion away.”
+And I went and met with our principal of the school, who’d become a friend of mine. She was a great administrator. And she looked at me and she’s like, “MacKenzie, this is like trying to steer the Titanic. It just can’t be done.” And I knew at that point, this is my call to exit. But I also knew this wasn’t about just finding a different public school or moving to a private school. That’s when it made me realize that model of education is fundamentally broken. And it was time to reimagine what was possible.
+
+## MacKenzie chunk 13 — source turn 26 — 471 words
+
+I think the thing that’s interesting is a lot of parents would say they’re dissatisfied or just okay with their kids’ school, but they don’t really recognize that there could be another option. And again, we look at our experience and say, “Well, we got through it and our kids have to get through it.”
+And I think that’s one of the things that happens with kids in general in our society today – I really believe fundamentally that kids are limitless. They are so capable of doing big things. They are so interested and they are so curious. They can do so much. And in society they’re underrated, right? And that absolutely comes across in school with the way that they’re treated and the lack of ownership and autonomy that they’re given. It’s kind of like teachers are wrangling the prisoners up every day.
+And I think parents see that, but it’s like, “Well, what is another option? What can you do?” And the teacher in front of the classroom model is so embedded in our experience that they don’t see another option. So what is it to do?
+Now I will say we’re seeing kids are leaving the public schools like crazy. And homeschooling has become a more common thing. And one thing that homeschoolers have known for a long time is it doesn’t take all day to educate your kids because they are mimicking or actually providing that one-to-one tutoring experience.
+And universities like Stanford and Harvard and Oxford have done research for 40 years since I was in elementary school that says a kid can learn 2, 5, 10 times faster when they’re in a one-to-one mastery-based learning environment. All of those learning science papers start or end with the same thing, which is, “Unfortunately, these results are not possible in a traditional classroom.”
+And that’s what’s so cool about what we’re doing, which is artificial intelligence is finally enabling us to provide that precise measurement tool that allows us to give every single kid that one-to-one mastery tutoring experience. And as a result, kids can crush their academics and they can do it in a fraction of the time.
+So at our schools, our classes are performing in the top 1% in the country and we’re doing it in only two hours a day. And when you realize this as a parent, like, “Wait, kids can crush their academics in only a couple of hours a day?” The natural question that comes from there is, “Well, what do you do with the rest of the day?” If it only takes a couple hours, what do you do with the rest of the day? And I can tell you one thing, Chris, that parents don’t want is they don’t want their kids to come home after two hours.
+
+## MacKenzie chunk 14 — source turn 28 — 653 words
+
+Exactly. It’s like, hey, you got to go to school all day. And really school is a bundle, right? It is a daycare. It’s a socialization environment there. It’s a place where they’re doing all kinds of different activities after school. It’s a community anchor.
+So that’s where I looked at this back in 2014 when we decided to take our kids out of school and start a new school. I really thought about this. Okay, if kids are limitless, then it is a school’s job to build an environment that unlocks their potential. That unlocks what they’re capable of doing.
+So how are we going to reimagine school? Well, if you can provide a one to one tutoring experience, which is made possible through technology, then you can crush academics in a fraction of the time. What are we going to do with the afternoon? Well, let’s give kids the skills that they need, life skills. Let’s teach them entrepreneurship and financial literacy, leadership and teamwork, public speaking and storytelling, giving and receiving feedback, dealing with failure, all of those kinds of communication things, socialization, all of those skills.
+We can actually do that during the day in that time, which are often skills that kids are trying to learn in maybe sports or after school activities. But instead we can create the school day where kids can get their academics not just done, but do it really well. And that’s across the board. Kids who are behind, kids who are advanced, there’s really no ceiling and the floor can be raised for them. Then provide them with real life skills and we can do that.
+And then here’s the other key that I really truly believe is that kids thrive when they’re in an environment where they have high standards and they have high support. And what’s really cool about using artificial intelligence and technology is that it allows us to increase human intelligence, both from an academic perspective for a kid, but also by transforming the role of the teacher in the classroom so that instead of having to try and figure out how they’re going to finish this herculean task that we talked about earlier, instead their job becomes focused around motivational and emotional support and mentorship and holding kids to high standards while also connecting with these kids.
+And you said your ex was a teacher. I’m sure that she got into that job because she wanted to make a positive impact on young people’s lives. And now we can finally take the humans in our classroom and allow them to focus on what only humans can do well, which is that connection and finding out every single kid’s why, what makes them tick, what do they get excited about when they’re challenged? What is the thing they say to themselves? And how can we incorporate growth mindset strategies? How can we help them build confidence and competence?
+And that’s what’s so exciting and why I keep saying, like, being a five year old in this new world is a really exciting thing to do. And I actually think teachers are going to love the changes that they’re going to see when they’re enabled to be able to focus on the kid and spending time there.
+Those are kind of the key components that can make such a huge difference. And school is such a fundamentally critical time where we help kids develop. Who do they see themselves as? What is their identity? And when you can give them incredible competence and knowledge, you can then combine that with real world life skills and the ability for them to go do things that no one thinks a kid can do. Running a business, or giving huge TED talk type things. Doing teamwork exercises, learning how to use AI tools to give them superpowers. That’s where the magic happens.
+
+## MacKenzie chunk 15 — source turn 30 — 493 words
+
+Absolutely will do. So the schools that we run are full time in person schools. So kids show up 8:45 in the morning. They always start out in a group activity together. We call it a “limitless launch.” Think Tony Robbins for kids, right? This is a time when kids get together, they get excited. They usually do some sort of a physical challenge that maybe almost seems impossible. Gets their blood going, gets them moving. And then we incorporate some sort of a growth mindset strategy that’s going to help them when they go into the next part of their day.
+So at 9am our students sit down at their computers and they start working on their core academics. We practice something called pomodoro technique where our kids will go in and spend 25 minutes on math, 25 minutes on reading, 25 minutes on language, 25 minutes on science, a 20 minute block at the end for whichever subject they want to spend some more time on, and they get breaks in between.
+And what you’ll see if you walk into one of our classrooms is you’ll see groups of kids in similar age, right? You can have two 7 year olds sitting right next to each other, but one 7 year old might be working on algebra while the other seven year old is working on their multiplication table. You can have personalized learning for every single student and they’re hanging out. You’re not having to send the kid up to the classroom three grades higher just because they’re advanced or pull a kid out who needs remedial help, they’re able to be in the classroom.
+One of the things I love when you’ll have to come visit our school sometime, but I love going into one of our classrooms, especially like our kindergarten, first grade classroom, because invariably what you’ll see is there’ll be one kid kind of sitting over in a corner and he’s got his feet perched up, he’s like laying on his back, he’s got his laptop kind of upside down. But what that shows is that kid knows how to get his work done and hit his academic goals and he’s earned that kind of like more autonomy. Because not every kid does well just sitting in a desk being told, “sit straight up and do this.” I mean, I know for me, I do some of my best work when I’m like sitting on the couch with my laptop, being able to do that.
+And so our kids basically get breaks throughout that morning and then by lunchtime they’re done with their academics for the day. So they put their computers away, they get a ton of just like unstructured outdoor playtime, which by the way, schools should have. Did you know that the average amount of recess per day in schools in the U.S. can you guess how many minutes they get?
+
+## MacKenzie chunk 16 — source turn 32 — 53 words
+
+22 minutes a day. 22 minutes of recess. When you think about what kids like about school, usually you’ll get the same kind of few comments when you say, “do you like school? What do you like about it?” They’ll say, recess, PE, lunch, and my friends, right, that’s kind of all of…
+
+## MacKenzie chunk 17 — source turn 34 — 428 words
+
+The classroom, that aren’t to do with the classroom. And so it’s like, okay, how about in this world, these kids are getting 90 minutes of day of unstructured recess time, which is good.
+And then in the afternoon, that’s when things get really exciting around our schools. Kids are learning life skills through these project based, really collaborative kind of team oriented workshops. So that’s everything from our kindergarteners who are completing a five mile bike race as a team or climbing a 40 foot rock wall, to our second graders who are building a business together that raises $5,000 for a charity. To our fifth and sixth graders who ran a food truck in Austin this year and made over $4,000 of profit from that, to our middle school students who are able to do history trivia workshops and combine it with weightlifting to increase their bench press over a six week period.
+And so there’s always some sort of a physical workshop activity that kids are doing. There’s something that might have to do with coding or art or music that they’re creating something and they’re using tools. We love the idea of kids getting out and doing storytelling.
+I’ll tell you one of my favorite workshops. So I personally, I love getting in front of an audience. I like talking to people. And public speaking is like most adults’ number one fear, right? They absolutely hate it. Well, here’s what we do with our kids. We take our fifth graders, for example. We did a workshop called “Public Speaking in the Wild.” And what we tasked them with was come up with like a compelling seven to ten minute narrative that has an emotional appeal.
+And so they write out their speeches, so they’re getting writing experience on that. Then we have them get feedback from an AI tool on how they can make their talk more compelling and engaging. We give them AI tools that help them practice in a really unintimidating way. It’s just them with this AI tool that says, “here’s how your intonation could get better. Here are the number of filler words that you’re using. Here’s how you could change the structure.”
+Then we take the kids to the Humane Society and they gave their talks in front of cats because cats are like a pretty unintimidating audience. It’s kind of a fun way to practice your talk. After that, they went to an assisted living facility and they gave their talk to some old people there.
+
+## MacKenzie chunk 18 — source turn 36 — 695 words
+
+I would say so. You know what’s actually interesting about that? There’s another life skill that the kids learn when they’re at the assisted living facility, which is how to redirect because a lot of people will start asking them other questions or telling a story or whatever. So these kids are getting out in the community. They’re getting to talk to people in multiple generations above them. They’re getting to share and provide entertainment.
+Then we took them to our local Book People bookstore and they did an open story time and they got to practice there. And ultimately our kids ended up flying to New York City and they did open mic night with a bunch of strangers. So you can take a kid who maybe is a little nervous about getting up in front of an audience and you stair step their progress and make it fun. It’s exciting.
+Now I will say I did have some parents call and complain because they said “my kids were begging me to adopt a cat and we do not want to adopt a cat.” But hey, there’s worse things that could happen from that. And so there’s just so much creativity that can go into teaching life skills in a way that kids love.
+Fundamentally, that’s what I believe is when kids love school, you get to do all these cool things. And we take that very seriously. In fact, we survey our students every six weeks and we ask, “would you rather go to school or do you like school?” 95% of our students say they love school, but we actually even take it further. We’ll say, “would you rather go to school or go on vacation?”
+Did you ever want to go to school more than vacation growing up? You were a good boy. I certainly didn’t. Well, guess what? We get about 60% of our students will say they’d rather go to school than go on vacation.
+In fact, we had a totally crazy thing happen this year in the spring of 2025. Our high school students came to us and they said, “hey, we want to keep school open this summer because we want to keep working on our projects and we’ve got stuff to do.” So their teachers, we call them guides, looked at each other and said, “okay, I guess we’re going to coordinate our vacation schedules.”
+So if you go to Austin, Texas this summer, you will see a thriving campus with kids that are there. They want to hang out with their friends and work on these projects that they’re doing during the day. And that’s the kind of thing school should be, because when kids are excited about showing up and they’ve got a fire in their belly, then so much more is possible.
+ALSO READ:
+The Dark Side of Self Improvement: Suzanne Eder (Full Transcript)
+And again, the other thing that makes all of this work, obviously, getting personalized learning is really awesome. And there’s so many cool things that AI is enabling. You can take not just the knowledge graph and understand exactly what a kid knows and doesn’t know, but you can overlay it with their interest graph. So you can suddenly take that kid who’s learning math and combine it with their interest in fashion, design or baseball.
+But when you have our teachers who are supporting these kids and holding them to high standards and helping them go do big things, they get so excited. And so that’s another thing we survey our students on. “Do you love your guide? Yes or no? And do you believe your guide is changing your life?” Getting back to that, every adult has one or two teachers, and the numbers that we have there are staggering because these teachers are given the time and the space to focus on helping kids.
+We’re excited about the results we’re seeing. And we’re seeing this with kids across the board. Wherever they come to us, it’s all about turning on that motivation lever and doing whatever we need to do to get them excited about it.
+
+## MacKenzie chunk 19 — source turn 38 — 635 words
+
+Actually, it is not. So we use various LLMs to create personalized learning plans, and then we also use a vision model. What we do not use in our schools is a chatbot interface. And here’s the reason: you give a kid a chatbot, they will cheat with it. As much as we would love to imagine that they’re going to get on with ChatGPT and engage in a Socratic discussion, they don’t. They copy the question, paste “what’s the answer?” and there you go.
+So if you talk to one of our students at school and you say, “tell us about your AI tutor that you use for your academics,” they’re not going to talk to you about some cartoon character or Einstein avatar that pops up and teaches them science. What they’re going to say is that they log into a dashboard, and when it’s time for them to go into their core learning block, let’s say for math, they’ll click on a button and it will take them directly to whichever adaptive app is right for that student based on the level, the subject that they’re at.
+And so that could be anything from third party apps like Alex or Math Academy or IXL that are out there in the market to apps that we built. We’ve got Alpha Math and Alpha Read and Alpha Write. So it’s whatever app is working for that student.
+And then during that time, what the AI tutor is doing, in addition to creating the personalized lesson plan, it’s also making sure that the student is learning effectively and efficiently. So it can actually analyze what’s the level of accuracy a student has, how long is it taking them to answer a question. If it’s taking them too long and their accuracy level is not high enough, that could be a sign that they need to go back and revisit a concept and fill a hole.
+Or maybe we can say, “hey, we’re noticing you’re not reading the explanation or you’re not watching the video explaining the concept.” One of the things we teach our kids is that often the fastest way forward is to slow down or go backward and fill holes.
+And ultimately what we’re doing with these students is we’re wanting to create self driven learners who have the skill of learning how to learn. And so when they’re working in their core academics, if there’s a concept that they don’t understand, after the first reading, they can go into one of our resource libraries and watch a video or read a different concept. Actually our students are able to upvote, “hey, this was a video that was really helpful when I was learning this concept.”
+Their guides are there to support them and help point them towards finding those resources, but they’re not teaching them the academic subjects. You’re not going to see one of our guides teaching a kid how to carry the one. You’re going to see our guide saying, “hey, were you able to look at this? Did you read this explanation?” And kids are able to go through this.
+So our AI tutor does provide coaching to a student as far as saying, “hey, take a little bit of time and reread this concept or learn about this.” And that’s what that looks like. Another thing that’s a great example when you think about reading. Obviously reading is such a critical skill for academics, for life in general. And what we can do is we can give them reading that’s tailored to their lexile level, basically whatever grade level they’re capable of reading. And then we can match it also with some of their interests and we can use it to teach history and social studies as well.
+
+## MacKenzie chunk 20 — source turn 40 — 1 words
+
+Absolutely.
+
+## MacKenzie chunk 21 — source turn 42 — 761 words
+
+There is a huge difference between doom scrolling TikTok or playing a video game and getting a one to one learning experience where you are totally engaged at the exact right pace that your brain can handle. You’re not so challenged that you’ve shut down and you’re not bored because it’s too easy. So getting that connection, I would argue receiving this type of education that happens to be delivered on a computer is so much more engaging than sitting in a classroom glossy eyed looking at a teacher.
+I personally, myself with my kids, I was a screen free mom when they were young as well. And there is a huge difference on that. And the other thing that you’ll see is if you look in a traditional classroom today, kids are spending about the same time and actually even more once they get to middle school in school on screens. It’s just being delivered like “here’s a textbook on the screen, here’s a worksheet to do on a screen,” something like that.
+So our kids are actually spending less time looking at screens than kids in a traditional classroom. And the time that they are getting this one to one tutoring experience on a screen is just totally different.
+Creating Contributors, Not Consumers
+But the other thing that brings up such a good point around one of the other life skills we’re teaching our young people, which is how to be a creator and a contributor as opposed to a consumer. And what we find is kids want to be creators, they don’t want to just be a consumer.
+So when we have time in the afternoons for kids to pursue their interests and their passions and say, “you know what, you like playing video games, how about learn to code a video game, how about learn how to host your own tournament.” Instead of just watching TikTok, how about you create an audience on TikTok and deliver a message that’s positive.
+In fact, we have a student who, at the beginning of her freshman year of high school, she sat down with one of our guides. And the guide said, “so what are you interested in? What do you like to do?” And she said, “I don’t know. I’m not really sure.” The guide said, “well, if you’re just hanging out, what is the thing that you’d want to maybe work on or do as a project?” The girl shook her head, “I don’t know.”
+And she asked her another question, “so when you’re at home, you’re not doing anything, what do you do?” And she looked very honestly, and she said, “I scroll TikTok and I think about boys.” And that’s a pretty typical teenage girl response. “I scroll TikTok and I think about boys.”
+Well, guess what that girl has now done. Two years later, she has created a safe teen dating advice chatbot that teenagers can go to to get vetted, clear advice. She built an audience on TikTok for this, and she is out there changing the game around how teens date. And I’ll tell you what, there are some scary statistics, that’s a whole different podcast, around what a mess teenage dating is now.
+And she is out there doing research studies with Stanford and University of Texas professors on how to improve this. She’s working with therapists to understand how do you make sure you’re providing good, healthy advice and habits for young people to be able to do. And so it’s a great example of our guide helping a girl take the interest and the passion she has and turning it into something real that she is creating and contributing to.
+And I think that’s one of the things that’s exciting. And by the way, that is something that we have to have developed as a skill for this next generation. The world is totally different than it was certainly when I was growing up and even probably when you were growing up, too. And it’s no longer just about the three Rs of reading, writing, and arithmetic.
+Now it’s about what I call the four C’s. It’s critical thinking, communication, creativity, and collaboration. Those are the skills that our people need to be awesome at and figure out how they’re going to always stay. How can we stay smarter than AI? And part of that is living in that gray frontier where you’re saying, “all right, let’s bring the creativity into what’s known in the world and go build stuff.”
+
+## MacKenzie chunk 22 — source turn 44 — 626 words
+
+Yeah, well, from an academic perspective, we’re really big fans of showing objective data and transparency that shows kids really know their material. So we do standardized testing, and that’s how we can show these kids are performing so well, learning twice as fast, and that the classes are 99th percentile, top 1% in the country. So that’s one thing.
+Then you get into some of the more practical aspects, like how do you do on the SAT getting into college? And an example of that, our median SAT score for our senior class this year was 1530 out of 1600. It’s insane how kids are doing. Our high school, I think our average for our freshmen is like 1410. So kids are learning all this academics and doing it in such a more efficient way that helps with that. They’re taking all the normal curriculum that kids are taking in traditional class. They’re just doing it in far less time.
+But the other thing that’s really interesting when you think about how do you measure what kids are learning? Where that gets really interesting is when you think about life skills. Like, how do you measure life skills? And the answer we’ve come up with is every workshop that we have that is teaching a life skill. We have what’s called a test to pass that kids go through at the end.
+So I’ll give you an example of that. I think grit is a really important life skill for people to have the ability to stick to something even when it’s hard. The ability to have the discipline to keep showing up day after day to learn something. Well, how do you teach grit? Well, at our schools, we don’t just hand kids the book by Angela Duckworth, “Grit,” and say, read this book and write a book report on it. Does that really teach grit?
+Instead, what we do, and you’ll see this with, for example, our third and fourth graders, they participate in a triathlon. And the triathlon consists of three things. They have to be able to solve a Rubik’s Cube. They need to juggle three items for 30 seconds, and they need to run a mile without stopping.
+So at the beginning of this workshop, when we tell kids, “All right, this is the triathlon,” you’ll get kids go, “No way. There’s no way I can solve a Rubik’s Cube. Or how am I possibly going to run a mile? I’m 8 years old. How am I going to do this?”
+And it’s a perfect chance for our teachers to incorporate some growth mindset strategies like the power of yet. You can’t do this yet. But it turns out if you learn that there’s an algorithm to solving a Rubik’s Cube and you practice and practice, pretty soon you’re doing that. And if you start by juggling scarves, eventually you’re juggling balls. And if you incorporate atomic habits and walk a mile and then walk and run a mile, and then pretty soon you’re running a mile, you can do that.
+And when you can see a group of third and fourth graders who start at the starting line of a triathlon, which is, “All right, Rubik’s Cube, boom, boom, boom, juggle.” And they go run a mile and they finish that. Guess what? Those kids have grit. That is such a great example of seeing that they’ve learned grit. And it’s something that we incorporate into all of our workshops we do.
+And that’s the other thing is when kids are able to do these cool things and see, “Wow, I actually was capable of that.” It again, it builds confidence. That’s based in reality of really being great.
+
+## MacKenzie chunk 23 — source turn 46 — 699 words
+
+So we’re seeing our kids that graduate and move on to college are crushing the college experience. First of all, they’re getting into their first choice schools and they’re doing very well there.
+I will tell you this, though. I talked to our graduates of Alpha School who are at universities like Stanford and Vanderbilt and Howard University and Parsons, all over the place. And they do kind of say, “You know what, some of these lectures from these professors are pretty boring and inefficient,” but it doesn’t stop them from saying “You know what? I have the skill of learning how to go learn on my own, and I can do this well.” And, of course, they’re getting a lot of other fun experiences.
+But I actually spoke to almost all of the students that graduated a year ago who just finished their freshman year of college, and I think there was one out of all of them who’d gotten a B plus in one class. Otherwise, they were looking at 4.0s. So they’re crushing it.
+And the other thing that I think is really interesting is my daughter is an example of this. She just finished her freshman year of college at Vanderbilt, and she called me up a few months into her freshman year, and she said, “Mom, one of the things that I’m having a renewed appreciation about my educational experience is that I feel like I was really encouraged to go try and do the things that were interesting to me and develop my passions. And so now that I’m at college, I’m continuing to engage in that.”
+“And a lot of my friends have sort of said, ‘Oh, I hit the finish line. I got into the good school, so now I don’t have to do all that stuff,’ because they looked at just adding to their resumes. It was like, ‘What do I have to do to check the boxes to kind of get ahead?'” And I think that’s something that traditional school kind of breeds in kids, especially kids like you and I who want to do well in school. It’s like, what do you do to get the grade or get into the college?
+And I think that’s one of the things that is such an important aspect of what a young person going through school should be able to figure out. What is that intersection of their talents? We run our students through an IGUAI values workshop where they figure out, what do they love, what are they good at, and what does the world need? And then we teach them how to develop those skills.
+And so an example of that, as kids get into high school and they’re interested in maybe building a business, you have to build an audience, because you’ve got to get feedback from an audience. One of the things we often talk about is helping our kids work on pursuits that are as impressive as being an Olympic athlete. And as part of that, you can’t be the world’s fastest runner running in your own backyard.
+And so how do you help kids get out there in the real world? And that example of our kids who end up at an open mic night in New York City, that audience is not their parents who are going to clap no matter what. They’re out in an audience in the real world and they’re getting real world feedback. And they’ve got the support from their guides to be able to say, “Hey, you’ve got the ability to do this and you can be high quality and do great.”
+And I think if I could wave a magic wand and help parents understand three things, it would again. Number one, kids should love school. And there should be a world where if your kids don’t love school, something’s got to change. Two, they can crush their academics in a couple hours a day. And three, high standards are the key to a happy, healthy kid. When you couple that with high support.
+ALSO READ:
+Closing the Leadership Gender Gap: Susan Colantuono at TEDxBeaconStreet (Transcript)
+
+## MacKenzie chunk 24 — source turn 48 — 205 words
+
+Yeah, I think the criticisms that we get usually come out early based on kind of lack of understanding of the model. So, for example, you’ll see people like, “Oh, you’re that dystopian AI robot Terminator school with no humans.” And they think of kids standing in or sitting in a classroom with a robot teacher at the front of the classroom and as soon as they take a second and understand the model, it’s like, “Okay, that’s not at all right.” We have elevated the importance of the human connection in our classrooms by using technology. So that’s one thing.
+Another criticism that certainly comes up is right now we operate as a private school and we’re doing these insane workshops where kids are doing things like they learned an adaptability and teamwork exercise where they learned to sail, and they ultimately sailed from Florida to the Bahamas over five days. These are kids manning a sailboat and figuring out how to do that.
+So we do these super cool life skills workshops. We also pay our teachers very well. They start at six figure salaries because these guys deserve it. And as a result, we’re expensive. We are a high end private school.
+
+## MacKenzie chunk 25 — source turn 50 — 88 words
+
+Schools are anywhere between $25,000 and $75,000, depending on the city and depending on kind of the model of the school and what it is. And they’re operating in the private world. So we haven’t been able to break into the public system yet. Which I think that’s another fundamental right that we’ve been raised to believe is that education should be a free thing. And public schools are providing it for free. They’re just, they’ve got a crappy product. It’s just not a good product.
+
+## MacKenzie chunk 26 — source turn 52 — 508 words
+
+So here’s what I would do if you allowed me to take over K through 12 public education and said, “Do this.” What I would do is I would implement a personalized learning program. I would shift the role of teachers and make them more like coaches, which, by the way, public schools already have a lot of those. And then when kids are getting their academics done in the morning, that would earn them the ability to get out and do all the things that they love to do and usually start doing it about 4 o’clock in the afternoon at lunchtime.
+So get those kids out on the football field or doing band or robotics or speech and debate, or theater, or arts, whatever. Those extracurricular activities that kids spend their time on later doing, they could be spending the second half of their day doing. And the vast majority of public schools have those types of activities and they’ve already got the coaches who are working on those things. So it just requires a mindset.
+And you mentioned about the insane amount of cost that goes into public schools. A lot of times people will look at what’s the budget and how much is getting into a classroom. They don’t count administrative fees, they don’t count real estate fees, all those things. But you’d be actually shocked at how much money per student is really going into public school systems. And I think that could be reallocated.
+Now, I’m not going to pretend it’s easy to change the minds of millions of teachers to realize you don’t have to be teaching a subject matter. Instead you need to be focusing on the connection and the motivational aspect of it and helping see that reimagination.
+But I think that’s the other cool thing when you really look at like, “Okay, if your whole day doesn’t have to be spent on academics, how do you spend your afternoons?” And for example, we have a sports academy where starting at noon, our students are out learning life skills via sports. So that’s doing everything from getting on the field and playing sports and practicing their craft to doing things like negotiating their NIL contract, writing the press release officially announcing their affiliation with a team designing their Nike ad campaign, giving the post game press conference, giving feedback to one of their players as a coach, you can do all these cool activities that kind of hit kids where they’re at.
+We even have a wilderness school that we’re opening this fall where in the afternoon kids are going to spend time out there fishing and learning how to build fires and all those cool things that they can do. And there’s just really no end to the ways that we could engage kids in the afternoon. At Alpha, we spend a lot of time on entrepreneurship because I’ll tell you what, you learn so many life skills when you’re doing entrepreneurial activities, it’s a lot of fun.
+
+## MacKenzie chunk 27 — source turn 54 — 341 words
+
+Hey, there’s no question that there are selection effects. Any private school has selection effects. And so I think a lot of times people in an aim for criticism might say, “Well, you’re getting these great results, but that’s because you’re in this private school and you’ve probably got families that are different than public.” But I’d be curious then, what’s the answer for why are other elite private schools not getting quite the same results? Right. There’s something there.
+And that’s when I think you look at it. Now, there’s a couple things. First of all, there’s not that many private schools that release their data around how their kids are doing. In fact, a lot of what they use to judge how kids are doing are report cards, which is a teacher saying, “You got an A, you got a B plus.” Right. And curving a test. Right. And so it’s not real data necessarily.
+In fact, standardized tests in a traditional school environment have a bad reputation for a reason. And it’s because when a kid takes a standardized test, the results of that test don’t actually change anything for that child because they can’t really go back and do anything. So a school doesn’t really share the detailed report on how a student does because it might make the parents say, “Well, how are we going to fix it?” And the answer is, they can’t.
+In our environment, we can take all the information that comes from a standardized assessment and we can feed it back into our AI tutor to create lessons to go fill those holes. And that’s one of the things that’s exciting. But sure, there’s certainly selection effects. And I think any parent who kind of raises their hand to say, “Hey, I want to do something different,” right? And that’s the kind of parents that we are attracting at our schools around the country. And the demand that’s come is parents who are like, “Hey, I want something better for my kid.”
+
+## MacKenzie chunk 28 — source turn 56 — 452 words
+
+Yeah, yeah. And I’m not out there trying to convince the world that this has to work for everyone. But what we’re seeing is it is working for these kids. They are loving their experience. They’re learning like crazy. They’re absolutely growing. And when we talk about love of school, well that doesn’t mean that every day is Disneyland. Right.
+We actually believe that providing kids with a rigorous, challenging experience where they get opportunities to fail. In fact, we teach kids “failure is fuel.” There are so many incredible lessons that you learn when you fail. And contrast that with traditional school, which is for a kid like you or I were when we were growing up who wanted to do well and be good. You actually get trained to stay away from anything where you might fail. Right.
+So don’t take that class that you’re interested in in case you were to get a bad grade because you’re not sure if you’re great at it. Right. Like, go do those things. And so it will create with kids that are engaged in trying to do well in school. It’s like, stay away from anything where you might show that you’re not good. Here we’re like, go learn from these challenges. Go try something hard. Fail and have our teachers be able to sit down with you and figure out like, okay, what happened? What went wrong, what you can change.
+I was in a classroom with a kindergarten classroom last fall and a little boy gets up at the end of the school day. We always come together for closing shout outs, which is a time to really celebrate each other’s wins. Look back on the day and in this kindergarten classroom, this little boy had stood up and he said, “Well, today I only got one of my four math goals and two of my four reading goals. And the reason I didn’t hit more of my goals was because I was distracted. And tomorrow I’m not going to sit next to Gus.”
+And the fact that you’ve got a five year old who’s clear on goals that he had, what, how did he do on those goals? Why did he not achieve the goals and what’s he going to do differently tomorrow? That shows you’re taking ownership in your learning experience. You’re not just getting on the train of education and saying, “Hey, I’m going to sit, I’m going to learn whatever it is the teacher teaches me today. And if the teacher’s not a good teacher, that’s not my fault.” Instead, we’re really helping kids kind of take ownership. And that right there is a fundamental skill.
+
+## MacKenzie chunk 29 — source turn 58 — 1 words
+
+Yeah.
+
+## MacKenzie chunk 30 — source turn 60 — 664 words
+
+I am such an optimist. That’s why I just think a five year old is really lucky because we are going to see a huge change in education in the next five years. Because I think what’s going to happen is there’s going to get to be so much clarity around the fact that artificial intelligence and adaptive learning is so much more possible, just like when the invention of the microscope catapulted what was possible in biology.
+Artificial intelligence is that tool that is going to allow us to make learning science a hugely impactful science in the classroom. It allows us to take all of these incredible learning science principles and truly apply them to all students, not just smart students, not just the students that need help. All students are going to be able to get that. And I think that the data is going to get there. And as we go out and share this kind of new way of thinking, it’s going to be exciting.
+I also think the cost of AI is going to go down rapidly. I believe there’s going to be a world where kids are going to be able to learn amazing education through video gaming, right? Where they’re going to be as addicted to an educational game that helps them perform well as they were to Fortnite. Right? And so it could be a good thing. They’re going to get more chance to do life skills.
+And I also think, as I mentioned, a lot of our schools, Alpha School, is redefining what parents expect from their kids’ private school education. And we put a ton of resources into our workshops, but there will be so many more models that will open up. In fact, we’re getting ready to open a model in Texas that’ll be basically $15,000 a year of tuition. And in Texas, they recently passed School Choice, which will give families about ten grand a year. And that’s going to get tuition down to $5,000 a year. That becomes a much more accessible tuition payment.
+And all of these kids will be able to get the same academic experience and still get to go out and learn life skills in the afternoon. And what we’re doing is we’re giving kids back their most valuable resource, which is time to go do all these fun things, right? And do fun things, learn skills, and how about just be a kid and play and hang out with your friends and hang out with your family. Right. And not have to deal with homework and being exhausted and trying to pursue this thing and learn skills.
+And the other big part of this is when you help kids use AI tools in the afternoon to do stuff, that’s the kind of thing that they’re going to want to take out in the workforce. So I’m very, very bullish on the future. And I think we’re going, rapid change in education that we have been waiting for for a couple hundred years. I think we’re going to see it in the next five years.
+So, yeah, I’m thrilled. Maybe I should go try to have more kids. My kids are old, but maybe I should run it back, do it again. Yeah, exactly. Nothing like a 48 year old pregnant lady would be really fun, right? Probably not. I guess I’ll have to pour more into all these other students that I’m helping along with grandkids.
+So, yeah, it’s a fun time. It’s an exciting time in education. And this is something that for me, I started out as just a mom who wanted something better for my kids. And now I believe that it’s certainly my life’s purpose and it is going to impact millions of kids. And I think if we can serve as inspiration for other educators to see what’s possible, I think this is going to spread like wildfire.
+
+## MacKenzie chunk 31 — source turn 62 — 237 words
+
+We’ve been getting a lot of attention for our schools, Alpha School, and we’ve been excited about that future of education on social media. If you go on Instagram or Facebook, Facebook or YouTube, you can go to Future of Education and learn more or you can go to Alpha School.
+Demand’s been so huge. So we’re opening. We’ve actually got 15 campuses opening across the country, all over. I’ve been on a very fun kind of summer tour. I’ve been everywhere from California to Florida to North Carolina to D.C. to Colorado. You name it, I’ve been there. And that’s the thing that’s really exciting is families are getting so excited about what’s possible.
+And actually, Chris, let me tell you this, this is such a cool part of this is when you can take your academic personalized learning with you because you’re not beholden to a classroom that’s in a time based system, or we’re going to have Alpha families that will say, “Hey, I live in Austin, but I want to go spend a month in New York City,” and they can plug into the Alpha in New York, and they don’t miss a beat on their personalized learning. And then they get to go plug into the afternoon workshops. It’s something that I think is just so exciting for students to kind of be able to have that national almost exchange experience.
+
+## MacKenzie chunk 32 — source turn 64 — 5 words
+
+Thank you for having me.
+
+---
+
+## SOURCE: future-of-education-s2e285
+
+- Title: Future of Education — S2E285: Audience Q+A: Honest Answers to Your Biggest Questions
+- Attribution: Tier A direct MacKenzie voice; audio-backed Whisper transcript
+- Status: usable draft corpus; needs audio spot-check before final lock
+- Source file: transcripts/future-of-education-podcast/cleaned/s2e285.mackenzie-only.md
+- Word count: 4474
+
+You all know I love a good question, and I get so many great questions from Future of Education on my social media, so I decided we are going to create a special Future of Education episode dedicated to answering your questions. We're diving into questions about our two-hour learning, time-back model, parenting, school, whatever else that you've decided to throw my way.
+
+All right, here's the first one. At g.depalmademers, that's quite a name. I love that last name, De Palma Demers, asks the question, how did you start your very first school? Did you have any money to do this? So this is an interesting question.
+
+We actually did a podcast episode probably a year and a half ago with my co-founder. My co-founder's name is Brian. He is really the person who led the charge on the school. And the way that we started our first school was out of an Acton Academy school. Acton Academy is a network of schools that are all over the world, and Brian was one of the first people to go and start an Acton Academy in the Austin area.
+
+He had two kids that he was going to put in the program. I met with him. I got connected via a friend who we had in common, said, I know you guys are each interested in doing something different. I said, OK, great. I got my two girls.
+
+He's got his two kids. And from there, we went and found a total of 12 other students from probably nine different families who were interested in doing this program. Now, back then, what we did was it was a private school. So it was a tuition-based model. We were doing it super, super, super cheap.
+
+And it was just basically started out of a house. Brian's garage is actually where he started the school. And we did that. Over time, what happened is we started growing more and more parents. We left after the first year.
+
+We left the Acton Academy system and started it as a separate school completely that had nothing to do with Acton. Here's what I would generally say. If you are somebody who's thinking about starting your own school, it is challenging. There's going to be a lot that you have to do, but it's not as hard as you think. Here's the biggest advice that I would give is go find other like-minded families who are interested in something different and say, let's come together and figure out what is the philosophy?
+
+What do we care about? And here's what we decided at Alpha School. And this has been true from the beginning. We've always felt that kids are limitless. We believe it's a school's job to build an environment that unlocks their potential.
+
+And we got really clear about our commitments that we were going to give to families. And for us, the commitments are that kids will love school. That is something that from the very beginning, Brian, who I call him the OG, he was the original guide. He was adamant that kids should love coming to school and should be excited about school because when kids love school, it enables them to do so many hard things because they've got like this fire and excitement to build. Our second commitment that kids will learn twice as much in only two hours a day.
+
+And then our third commitment that kids would learn life skills. So if you're thinking about starting a school, just get clear about what your philosophy is going to be and what you're going to deliver. And if you want to use our academic platform, we have that opportunity. You can do that. You can basically get our time back platform.
+
+And when I think back on what we did back in 2014, starting the first school, that idea that we're going to totally turn what I think so many people have thought of school of on its head is probably pretty revolutionary. And the idea that kids should love school, people don't really think about that. Like it sounds great, but I think so many people think, you know what? School's like spinach. It's good for you.
+
+And it's just something you have to do. And I think it was pretty revolutionary actually to have this idea that we would create a place where kids love being. And when I talk about love school, it doesn't mean that every day is Disneyland. It doesn't mean that we're always just making sure the kids are having the best time no matter what and that there's no, you know, rigor or standards or anything they're being called to. Our environment is very rigorous.
+
+We challenge kids. We hold them to very high standards, but we also combine it with high levels of support. And we believe that that environment ends up being one where kids are excited about being there and they love school. At Faith Temple asks, what inspires you most? I will tell you, when I first started this endeavor almost 12 years ago, I was just inspired to find a better experience for my own two daughters.
+
+It was a very selfish motivation. I wanted my two girls, Peyton and Sloan, to have a great school experience. But over time, and as my girls have had that experience and they're growing up and launched into the world, what's really inspired me now is I know that we can replicate this for millions of other kids, not just my two daughters. We can do this for so many other students. And we're going to do that through the alpha model, through other schools.
+
+But we've also got a lot of other things that we're doing that are going to be able to impact kids around the world that will never step into one of our schools. But we believe that the learning platform that we have created is going to be able to make its way out into a lot of different people. And it's going to be able to impact people around the world. So that's what inspires me. I do think that this is really like what I was put on the source to do.
+
+Um, and so it's a mission that I am just so tied into and excited about. Megan Schoen asked this question, what are your aspirations and goals for education in the next 10 years? Here's what I will tell you. I don't think there's ever been a more exciting time to be a five-year-old than right now. So much is going to change in education.
+
+We finally have the opportunity to revolutionize education and change the teacher in front of the classroom model to instead allow the adults who work in our classrooms to be able to focus on motivational and emotional support. We can provide personalized learning experiences that meet kids where they're at. And, uh, I think it's going to be such an exciting time. I think that in the next 10 years, we're going to see an incredible increase in our ability to deliver phenomenally rigorous academic knowledge into kids' brains and do it in so much less time that's going to free up time for them to go and learn life skills. And that's the question that our society is going to have to figure out the answer to.
+
+When kids have time to go do these things, what are we going to help them develop? Here's a question from AJ Zerl, the swinging drummer. That sounds like a very exciting username. What do you think is the biggest issue with the current education system? We are teaching kids in the most inefficient way possible.
+
+A time-based one teacher in front of a classroom of students in an age grade system is inefficient. There has been learning science for 40 years that have talked about how kids can master academics when they get a one-to-one tutoring mastery-based education system. And we haven't been doing that. We finally have the opportunity with AI to provide that learning environment. And I am excited for our education system to change.
+
+We are not going to replace teachers, to be clear, but teachers will have a different role in the classroom. At CharlieTheMiniPalm asks this question, do you allow smartphones at your schools? Why or why not? Here's the story on smartphones. We do not allow phones in kindergarten through fifth grade.
+
+There's no phones anywhere during the day with our students. Starting in middle school, what we want to do is start helping kids learn how to use these phones as tools. So they check their phones in in the morning for academic time, and then they have the ability to earn privilege time on their phones in the afternoons and using it for the right way. At high school, if they show that they can't manage their phones responsibly, then they have to turn them in. So our guides work with our students on a daily basis to understand how are they using their phones, and are they being a distraction, or are they being a tool for good?
+
+And if they're a distraction, they take away. But we want to teach kids how to use these phones well and as a good tool. But overall, I think that we have been pretty ahead of the curve when it comes to phones in schools. We believe that, you know, phones are often a distraction, and what we need to do is help our kids focus on learning how to maintain focus and how to get their academics done, and then learn how to use phones as good tools later. So our kids will check their phones in in the morning.
+
+At Jen Franco-Diaz asks this question, how do you augment networking and social skills in such a small school? Here's the thing about that question. I think everybody thinks that socialization is equated to quantity, and I actually have a very different attitude about it. I actually think that quality is way more important than quantity, and also actually teaching kids skills around relationship building and socialization that you don't necessarily get. So this is a very common question that parents will say, hey, I've got my student in, you know, a school with 300 kids, and that must be better than a school with 20 kids.
+
+And my answer is not necessarily. In our environment, what we do is we help kids learn skills around socializing, how to interact with each other, their peers, how to interact with adults in a way that is helpful, and then, you know, relationship building. Relationship building and socialization is one of the core life skills that we teach, and there are so many ways to help kids become adept and successful at that stuff, and I actually think traditional school doesn't really do that. They kind of throw kids in and say, good luck. I hope you figure out how to swim in the deep end of the pool.
+
+I hope you find your place in the pecking order. And I think there's a lot of things that could be done better in that. And so what we find is our students are so excited about having a much, much richer social experience, even though it might be smaller. And Rue Texas asked this question, do you teach foreign language? It's a very common question we get.
+
+Here's the answer is at high school, our kids all take the four years of foreign language that they need in order to be able to get into college. Um, then we also have other opportunities in middle school and elementary school where kids can learn foreign language, but it's always part of some sort of bigger thing that they're doing. So for example, we had a bunch of students who went to Poland to train Ukrainian refugee students on our time back to our learning platform. And one of the things that our students had to do was they had to take some basic Ukrainian so that they could be able to converse with a kid their age in that subject. Um, I do think that in general, in K through six, uh, foreign language is not particularly helpful unless you're learning it in an immersive environment.
+
+And so it's not something we do a lot of focus on in K through six. That said, we do afterschool programs with foreign language. We got another question from Andrew, Texas that says, do you teach history in class? Um, and so, yes, the answer is we absolutely teach history. Um, we teach a lot of our history through reading comprehension in elementary school.
+
+And then of course, in high school, students are taking AP US history, AP world history, European history, those types of courses. Um, but we find that you can teach so much of history through reading. Uh, and that's where we do a lot of it. Uh, we get another question. Aaron O'Dionisio asked this question, do your students read books?
+
+This is always such a common question because they think, oh, kids are on computers. Do they read books? Absolutely. Our kids read books. They read physical books.
+
+They read books online. They read all kinds of books. There's actually two aspects of reading that are really important. One is learning to read, learning to read well, which you actually don't learn to read well by reading books. We have found that you can learn to read so much better by breaking it up and helping students be able to, uh, read short sentences, words, sentences, paragraphs, and longer reading comprehension stuff, um, through apps.
+
+It's one of the reasons that very, very quickly in kindergarten and first grade, our students are reading so much faster than in traditional school environment. And our kids are 99th percentile in reading. Uh, but there's a second aspect to reading. There's learning to love to read and learning to love to read is actually done very well through books. And we've taken it a step further.
+
+We have the ability to create content based on the interests of a student. And so you take that little boy who maybe doesn't love to read, but he loves the Avengers and his best friends from his soccer team. And he and his best friends from his soccer team can suddenly become the main characters in a choose your own adventure, save the world style book that is delivered at exactly the right lexile level, which is the reading level that a student needs. Not too hard, not too easy. So at our schools, we help kids learn to love to read and also learn to read well.
+
+If you walk into one of our classrooms, you're going to see books. You're going to be seeing kids reading books as part of their check chart progress or reading books as part of academics. They're absolutely reading books. But I actually think we teach reading in a way better way than traditional classrooms are doing it. Here's a question from O'Brien Kimberly A.
+
+How does your approach to education support students who are neurodiverse? This is such a common question. I get kids who are dyslexia, dysgraphia, ADD, ADHD. They're on the spectrum. And here's the answer of what our schools do.
+
+Our schools are able to provide a phenomenal, personalized academic learning plan that hits so many of these kids exactly where they need to be. It gives them the ability to have visual and auditory support as they're learning. They can go at the timing that they need to be able to learn. And most importantly, they're able to go at the pace and the level that is right for them. So it's a very helpful thing from an academic perspective.
+
+For kids who have ADD or ADHD, what we're basically looking for is can kids spend a certain period of time in focus being able to, you know, concentrate for 20 minutes at a time. And we find a lot of kids can do that. In the afternoons, we spend our afternoons engaging in life skills workshops. So these are project and group-based workshops where kids are learning life skills. And what we find is as long as a kid is able to actively engage with their peers and they don't need one-to-one support from an adult to stay engaged or be able to be emotionally regulated, then it works really well.
+
+What we are not, though, we are not a school that has one-to-one adult to student guidance throughout the day to keep kids on task. So if a student needs that level of support to be able to stay on task or to be able to stay emotionally regulated or kind of in control, then it doesn't work great. Here's another question. We are getting so many questions about where are we coming to, what are the locations, and how are we going to be expanding? And I've had questions from everywhere, from are you opening in Seattle to New Jersey to across the world?
+
+So you can continue to be on the lookout because we are going to expand. The other thing that we're going to be doing is we're going to be expanding our other schools that we have besides our Alpha School. We have all kinds of other schools, and eventually those will be moving. The one that's coming most quickly is our Sports Academy. We've got numerous sports academies opening up around Texas, and we're going to be opening up nationally.
+
+Now, for those who are interested in international, I wish I had better news, but it's going to be a little while before we're going international. We're definitely very focused on the United States right now, and so it'll be a little while, but we'll get there eventually. Here's another just group of questions that I very regularly get is like, how do you go and start a school? And let me tell you the way that you can do that. So if you're interested in starting a school, you can use our time-back academic model as your base for academics, and then in the afternoons, you can do whatever it is that you want to focus on.
+
+Maybe you want to focus on general life skills, or you want to do entrepreneurship, or you want to do performing arts, or sports, or whatever it is. You can do that. And so you can basically license our time-back platform in the morning. So if you're interested in starting a school, you can take our two-hour learning time-back academic model, and you can build off of that. In fact, I just visited a school in California a couple weeks ago where the woman had decided to start a school based on this.
+
+As part of the program, we do require that one of our guides comes and spends a year with you at your school. If you are interested in starting a school, going the private route is definitely going to be the easiest way to go forward. That way you can start a school, grab the families that are interested in your model of education, and get going. If you're interested in bringing an alpha to your city, we are going to have this awesome dashboard, if you go to alpha.school, that's going to show you who else in your city is interested in starting an alpha school. I've also been getting so many questions about our homeschool program.
+
+What is your homeschool program? Right now, we have a homeschool program called Alpha Anywhere. It's for third through eighth grade students, and it focuses on the academic platform. It's the academics. We are eventually going to also offer life skills in the afternoon.
+
+So if you're interested in doing something online, and maybe you don't live near us, or maybe you're a family that wants to have the flexibility of homeschooling, Alpha Anywhere is the program that we have. Here's another general question I get, which is around the cost. Risa Loves Life asks, why is tuition so high? Where does the money go? And I think this is a very understandable question because you are absolutely correct.
+
+Alpha school is a high price. It's a very high-end, expensive private school. And where we're putting the tuition for those is we have a very low guide-to-student ratio. In fact, in our kinder through second grade, it's one guide for five students. Across the board, it goes one to 15.
+
+But the other thing we do is we put a lot of money and resources into our life skills workshops. So our kids are doing things like learning teamwork and adaptability by having a sailing workshop where they eventually sail from Florida to the Bahamas over five days. They do these really big things. We also have other schools that are at different tiers of pricing. And here's what I generally believe is that eventually they're going to become more and more affordable school options that are leveraging our technology.
+
+We're really even hoping maybe they'll eventually go into the public system. And, you know, when we think about how to bring this model into the public system, we have tried to get virtual charter schools approved in several states. That would mean that they would be free to students. Unfortunately, we have really been hitting our head against the wall when it comes to that. We've had several rejections.
+
+It has been an uphill battle, but I believe that we are starting to make more progress. And eventually we're going to see this get rolled out to more and more families. It will become more accessible. There's one other group of questions that I love answering, which is all about our teachers. We call them guides, and one of the questions we get is, are you hiring more?
+
+And I'm going to tell you, we are hiring like crazy. In fact, I have a huge goal for 2026. I want to hire 1,000 guides to work in our schools by summer of 2026. So there's a few things that we can talk about there. First of all, how do we select these people?
+
+We go through a process. It's on crossover.com where people who are interested in working as a guide go through a lot of different things. They do have to take a cognitive aptitude test. They get to go through some exercises around showing how they would create a motivation plan for a student, what they would do when it comes to teaching growth mindset. We do a lot of different exercises to figure out how somebody would approach motivating and supporting a child while holding high standards.
+
+The big thing that we're doing at our schools is we're transforming the role of a teacher in a classroom. Instead of focusing on teaching subject material to a group of kids, our guides are focused on that one-to-one connection in terms of getting to know the kids and then helping them develop life skills. We are hiring like crazy, and we're looking for great, great people. So if you are interested in being a guide, go to crossover.com, and you can see all the different positions we have. To be a guide at our schools, you do not have to have been a teacher.
+
+We do absolutely take people who were in traditional teaching environments, but we're also finding that there are so many people who are totally stoked about the idea of working with young people, of motivating and supporting them to greatness, who come from all different backgrounds. So if you are somebody who really loves the idea of working with kids, of holding high standards and providing high support, we are absolutely looking for people to come join the team. So, again, if you want to apply to be a guide at any of our schools around the country, schools that we currently have and schools that we'll be opening, go to crossover.com, and you can learn more. Here's the final question that I got that I love. How do you join me in revolutionizing education?
+
+I will tell you the list is extremely long in ways that you can get involved. First of all, the fact that you're even listening or watching Future of Education, that you're engaging with me on social media, you are part of the group that is starting to see that education can be done so much better. So thank you for being a part of that. If you want to come work with me on what we're doing, we have so many different things that we need help with. So you can go to crossover.com and see all the different job listings that we have.
+
+If you're interested in sending one of your kids to one of our schools, go check out the schools that we have. We've got alpha schools all over the country. If you live in Texas, we've got a lot of schools in our area. And come see what that's all about. We're hiring learning scientists.
+
+We're hiring coders and developers. We're hiring people who work with students. There are so many different ways to get involved. The other thing that is so helpful is when you share what the future of education looks like with your network, that is super helpful. So I love when I see you share posts on future of education on Instagram or you tweet about it or leave a podcast review for future of education.
+
+I think the big thing is just getting the word out that there is a better way to do school and that kids should love school and that they should be able to crush their academics and have time back to go do all these fun things and learn life skills. Okay, so that was a very, very quick dive into just some of the questions that I get on a regular basis. I will do another one of these episodes soon. And here's my puppy. He says goodbye and he's wearing booties because his paws are broken.
+
+For more info about the show and our guests, you can always visit futureofeducationpod.com. Lastly, if you're loving what you're learning, please leave a review wherever you listen to podcasts. We'll be back in your feed soon. But until then, remember, kids are limitless and it's our job to unlock their potential. We'll be back in your feed soon.
+
+---
+
+## SOURCE: future-of-education-s2e286
+
+- Title: Future of Education — S2E286: Debunking the Nonprofit Fantasy
+- Attribution: Tier A direct MacKenzie voice; audio-backed Whisper transcript
+- Status: usable draft corpus; needs audio spot-check before final lock
+- Source file: transcripts/future-of-education-podcast/cleaned/s2e286.mackenzie-only.md
+- Word count: 2275
+
+Hey, everybody. I'm really excited to dive into a topic that has been coming up so often in these education conversations I'm having, whether it's with parents who are interested in our school model or administrators or educators or philanthropists. This is the interesting question. We're going to dive into it. This is also a new format that I don't normally do.
+
+It's going to be me just talking to you. So DM me or write a comment if you like this format, and maybe we'll do more of them. , hosted by Mackenzie Price. Mackenzie is the founder of a revolutionary new school model that's disrupting education through AI. Join us as we discuss the latest in education innovation.
+
+The nonprofit fantasy. Let me tell you what that means. Everybody always thinks of education as being something that should always be not-for-profit. I think we get that from, you know, the government takes care of education, and public education is huge. Everything should be doing, you know, something for the good of others.
+
+And we often think when it's for the good of others, education, that means it should be nonprofit. And let me tell you why. I actually think that nonprofit has been a major factor for why we haven't seen more innovation and better outcomes in education. We're going to dive into that. I know this can be, like, probably a little bit of a spiky point of view.
+
+That's actually something we teach our kids at Alpha is to have a spiky point of view that's backed by evidence and information. But I actually think that capitalism, which I know it's a four-letter word to some people. I see it in my comments all the time on Future of Education. But I think that capitalism, when done right, is actually going to be key to transforming education and making things happen. So we're going to dive into that conversation.
+
+Now, just to start, full disclosure, Alpha School is a for-profit company. I am not a nonprofit. And so people often will say, oh, well, I just don't like that. You know, if you're not a nonprofit, then that's a problem. But let me tell you the reasons.
+
+Actually, let me first start by saying some of the problems I see with nonprofit. One of the issues with nonprofit is that one really relies on people to join the movement based on very altruistic reasons. And guess what? Altruistic reasons are an important thing. But there seems to be a limit for that.
+
+And let me give you an example. There are some charter schools in our country that are very successful. They're doing really well in terms of delivering good academic outcomes. As a result, they have a waiting list that is a mile long, like many thousands of kids who would like to get into the school. And so I have these conversations with these educators and administrators.
+
+And I say, OK, your education model is working really well. You've got so much demand. Why are you not scaling? Why are you not serving more of students? And they always come back with, well, we don't have the money that we need to scale.
+
+We are waiting for more donations to come in before we can serve all of these other students. And I think it's so sad if you've got a school system that's delivering good results. There's customers who are dying to get in the doors. And they literally just say, I'm sorry, we cannot accommodate them because we are limited, because we don't have the capital that we need in order to build more facilities, hire more teachers, do all of those kinds of things. Now, let me compare that to if they were a for-profit model.
+
+If they were for-profit, they would be saying, OK, we've got this great product. We've got a long list of customers. Let's go and serve those customers. Suddenly, the investment money would be coming in because other people would be saying, oh, my gosh, you're showing me that you've got the product and you've got the customer base. Let's go serve those customers.
+
+Instead, what's happening is these schools are just saying, you know what? We're just going to take care of the students that happen to get in our doors. And we're not really going to go beyond that. So that's just a very classic example of why there's an issue there. Let me tell you the other thing that's happened is there's been very little innovation in education.
+
+And one of the reasons that I believe for that is that a lot of very high-talent people, they want to go into the private sector. They want to go and figure out, OK, how can I go make money for my ideas? No bash on the people that are in education currently. There's a lot of talented people. There are a lot of really smart people doing that.
+
+But I believe we could attract more people if we were offering them the opportunity to, like, say, hey, let's make money. Let's talk also very specifically about just the idea of capitalism in general. If you have a really great product, you're going to be able to attract more customers. And I actually think that a for-profit model will demand a better quality product because if you're not serving students well, if you're not providing a great school experience, then they're not going to stay. The customers aren't going to stay.
+
+And that's going to go away. And when you're actually thinking about, OK, how can we make sure we're delivering a product that is then going to make money, I think a focus on quality, a focus on innovation, a focus on differentiation is really important. So that's a couple of the reasons that I just think that, you know, a for-profit model works better. And, again, I understand this is like a spiky point of view because we think that means we're always going to be doing better. And let me just talk a little bit about the other side of it, which is people will say, OK, well, if you're for-profit, you're just out to go make money.
+
+You're not really out for the students. And I think that's, again, that's very much something that I disagree with. I think that the goal is to deliver a great experience that allows more and more customers to want to come and use that. And school in general has not been viewed as a product. It's been viewed as just a stage of life that all kids go through.
+
+And it's never really been held up to a rigorous quality standard. You know, when my co-founder and I started Alpha back in 2014, we did it because we had kids, our kids, that we wanted to have a different school experience. Brian, who's my co-founder, he had this vision of, like, I need to create a school environment that is going to serve my kids, that's going to teach them the life skills that they need. I was so excited about his vision that it was like we have to jump into this. Now, what's happened all these years later is I've realized this isn't just for my two kids.
+
+This is going to be something that is possible for so many kids. And I think one of the reasons that we're seeing the scale and the growth of Alpha is because I'm like, oh, I'm not just going to create this little school for the certain kids that happen to be in my little community. Instead, I'm realizing, like, this is something that should go out to more and more people, and we're going to be getting more and more interest and investment in this for-profit model than if it was a nonprofit where, again, there's some sort of limit to, hey, there's just not enough philanthropy out there. There's not enough interest in expanding this great school model if it's not done in a way that encourages people to want to put capital into it. So it's one of the things I'm excited about with Scaling Alpha.
+
+Now, the other thing I always tell people is at Alpha, we're never going to sacrifice quality for quantity. I am laser focused on making sure that we're always delivering the three commitments to the students that are at the school because, again, when students are happy and having that experience and getting the three commitments of loving school, learning twice as much in two hours a day, and spending the afternoon developing life skills, then families are happy. They want to go tell their friends, and we want to grow from this. The other thing I think is just an important thing to note. We talked about how charter schools have this struggle where they've got a long wait list, but they don't have the money.
+
+But the other place where I think we see this is in a lot of private schools. Private schools will get so much interest. They have, you know, again, huge application pools, and they're taking a very small percentage of students. And it's very exclusive. It's extremely exclusive.
+
+And it's very much reserved for, like, those that are privileged to be able to do this. And if they're really doing such a great job with their education to the point that so many people are dying to get in the school, why, again, would you decide to put a cap on it and say, sorry, only these 350 students get to access this. Let's grow it from there. And there's just no motivation to do that when you're in a nonprofit world. There's no reason.
+
+There's nobody who's sitting there going, oh, I know what we should do. Let's build another campus. Let's add more. They're like, hey, we're happy with our little thing, just serving our little customers. So I actually believe if we are going to really make a big dent in terms of innovation and quality in education, I think bringing in a for-profit structure is going to be key to doing that.
+
+So it's a conversation I love having with people because, again, they do come in with this idea of no education should always be free. Education should always be a nonprofit. Nobody should be profiting. And also, if you had any idea how many people are profiting from our public education system, that is delivering horrendous results. There's just no sense of accountability in this nonprofit model, which is government paid, where then they're not thinking about what are suppliers charging and what are the results that are doing?
+
+What are the outcomes that are happening? I think when you are able to go in, again, kind of a private model, there's still ways to make this more accessible for students. One of the things we're doing at Alpha is making sure that students can have access to their educational savings accounts in states that have school choice, opening up new models that are at lower price points so that more families can get. So accessibility is always one of the things that people will say is a problem in a for-profit or a private model. And I think there's a lot of ways that we're going to be able to combat that, too.
+
+And I also want to be clear, I think nonprofit does have a huge place in education. There are so many good things that do come about from nonprofit. There are so many philanthropists that are doing incredible work and so many students who are served via that. But what I want people to kind of understand, and I hope this episode does, is to open up the line of thinking that there is room for both and that a for-profit model is also going to bring a lot to the table that can also be done in nonprofit. And just because something is for-profit doesn't mean that it can't be accessible for students.
+
+In fact, we're doing something really exciting that I haven't announced yet, but this is going to be something that I think is going to allow so many students to have access to our education platform for free and simultaneously is also going to be profitable for people who invest in it. And it's going to be fun, so I can't wait to share that with you later. But anyways, that's my quick hot take about the nonprofit fantasy. Go ahead and send me a DM. Let me know what you think about this.
+
+Let me know also if you like me just talking to you or if you'd prefer to get someone else in the room. Maybe I need to find out. Where's Jay? Jay? Jay, where are you?
+
+Maybe they want you. Anyways, thanks for listening. Thanks for listening to Mackenzie Price and the Future of Education podcast. If you haven't hit that subscribe button, now is the time to do it so you can stay up to date on all our episodes. You can connect with Mackenzie on social media and be part of our daily conversation over on Instagram at futureof underscore education.
+
+For more info about the show and our guests, you can always visit futureofeducationpod.com. Lastly, if you're loving what you're learning, please leave a review wherever you listen to podcasts. We'll be back in your feed soon, but until then, remember, kids are limitless, and it's our job to unlock their potential.
+
+---
+
+## SOURCE: future-of-education-s2e290
+
+- Title: Future of Education — S2E290: 11 Things Your Kid’s Brain Actually Needs
+- Attribution: Tier A direct MacKenzie voice; audio-backed Whisper transcript
+- Status: usable draft corpus; needs audio spot-check before final lock
+- Source file: transcripts/future-of-education-podcast/cleaned/s2e290.mackenzie-only.md
+- Word count: 3042
+
+Hey everybody, so in this episode, I'm sharing the learning science that explains how kids truly learn, how their brains focus, remember, build skills, and stay motivated. Think of it as a crash course in what actually makes learning stick. We're going to run through 11 principles that have informed our strategy at Alpha to help students to learn faster and remember more. And really what it does is help them feel confident in their abilities. So, class is in session.
+
+Are you guys ready? hosted by Mackenzie Price. Mackenzie is the founder of a revolutionary new school model that's disrupting education through AI. Join us as we discuss the latest in education innovation. So, first up, let's talk about learning science just really quickly.
+
+What is learning science? Learning science is a cocktail of cognitive psychology, neuroscience, and pedagogy. You know what's funny? I barely ever even use that word, pedagogy. That kind of shows you I'm a little bit of a rebel when it comes to the education world.
+
+But cognitive psychology reveals how memory, attention, and motivation impact learning. Neuroscience helps us understand the brain's plasticity and what the optimal conditions for learning are. And then, of course, pedagogy is the method and practice of teaching. Spoiler alert. I believe you need two things to educate a child.
+
+A motivated learner and the material at the right level of difficulty. So, when done right, learning science supercharges learning for kids and elicits just incredible results. And why wouldn't it? It's an intentional, science-backed approach to educating kids. Put very simply, it's how you know what your kid's brain actually needs in order to learn.
+
+Now, here's the problem. Learning science has not been able to be incorporated in a traditional classroom. And we've known for 40 years, there's all these different learning science principles that show kids can learn two, five, ten times faster. But every one of those research papers starts or ends with, unfortunately, these principles can't be put into a teacher-in-front-of-the-classroom model of education. And this is, I think, where Alpha has really risen above the rest, is that we have created a model that allows such personalization for students that we can incorporate all of these incredible principles.
+
+So, we are going to jump into 11 learning science principles that you're going to want to know about. First of all, personalized learning is twice as effective as standardized learning. In 1984, there was an educational psychologist named Benjamin Bloom, and he dropped a bombshell research study. He found that students who received one-on-one tutoring performed two standard deviations better than students in a traditional classroom. Now, adding to that, he found mastery-based learning is what made a huge difference.
+
+So, just very simply put, he found that when you get personalized instruction and you're learning the mastery, students outperform 98% of their peers. That's the difference between a C-plus student and an A-plus student. Now, there are some challenges that go along with that study, and it's not exactly right, but here's the key takeaway that you want to understand. When you give a student a one-to-one mastery-based tutoring experience, kids can learn so much better than, of course, a student who is learning in a classroom with 20 other kids in a time-based system. Now, since that study came out, many more studies have been revealed that show the same result.
+
+The data is definitely unmistakable. Personalized learning is not just a nice-to-have, it should be the gold standard of academic instruction. There's just one minor problem with that. How do you scale personalized learning to billions of kids? For decades, we haven't really had an answer to do that.
+
+That's why it's known as the Bloom Two Sigma problem, because that's exactly what it's been, a problem. But now we finally have the technology to make it possible to teach this way at scale. AI tutors are what have revolutionized education by making this personalized instruction scalable and accessible for every student. That right there is the alpha difference that has been such a breakthrough in education. So, at Alpha, our students are receiving academic instruction from these AI-powered learning platforms.
+
+And that means every child has a personalized learning path. An AI tutor adapts to the student's response in real time faster than any teacher ever could. And our guides, our teachers, basically, they fine-tune the experience with a lot of coaching, a lot of motivation, a lot of empathy, basically. It's like each student has this custom-made jetpack for learning. Every student at Alpha learns their standard Common Core curriculum.
+
+Just they're doing it at their own pace and on their own kind of level and schedule. Here's the second principle. We don't move on until it's mastered. Traditional schools operate on a fixed timeline. Math is at 7.30 a.m.
+
+and goes till 8.25. History is at 9 a.m. and goes till 9.55. Social studies is after lunch. It doesn't really matter if a student understands the material or not.
+
+Once that hour is up, sorry, time to move on. You know, we've got a schedule to keep up with. Chop, chop, gotta go. Now, unfortunately, this is where so many kids fall through the cracks. Students develop what we call kind of Swiss cheese gaps in their knowledge.
+
+They're blind spots of knowledge that very quickly will compound over time. If you don't understand something when a teacher has gone over it, guess what? You've got to move on to the next concept no matter what. And that's really the problem with the traditional classroom experience. Here's an example.
+
+A student who doesn't master third grade multiplication tables is going to really struggle in seventh grade algebra. And guess what? The worst time to learn algebra is when you're in your chemistry class. They then grow up believing, you know, I'm bad at math or I'm just I'm not as smart as other kids. And here's the thing, guys.
+
+That is a lie. It makes me want to scream from the rooftops because I think that the connotations of what happens with this kind of limiting belief are so serious. It totally affects our psyche. It feeds us lies that last for life. In fact, you may have some for yourself and I can tell you something I'm going to admit here.
+
+I also was one of those students. I grew up just believing I'm bad at math. I can't do math. I'm not a math person. I'm not a math girl.
+
+And I will tell you one other thing. There are a lot of research studies out there and there's not a single study that says girls can't do math. So this is lies that are put into kids brains because they're not getting this mastery based education experience. And so, of course, when you move on before you've got the foundational knowledge, it's going to make those more complicated concepts really hard. Hence the belief of, you know, we're not bad on something.
+
+So here's the thing, though. The good news, it's very avoidable to not fall into this if you follow learning science. And so mastery based learning is that solution to the Swiss cheese gaps. It's rooted in decades of research from Bloom's two sigma problem to John Carroll's model of school learning and Guskey's work on competency based progression. The goal isn't to finish the lesson.
+
+It's to learn the concept. Somehow this has totally gotten lost in translation in schools today. If a student needs more time, they should get it. No big deal. If they've mastered a topic in half the time, they should move on.
+
+No big deal. Of course, you guys all know what I'm going to say. That's just not possible in a traditional classroom when a teacher has to figure out how to take 25 students through curriculum in a certain period of time. So at the end of the day, all students can master all concepts given the right amount of time and support. And at Alpha, our students don't move on just because it's week three and it's time to go.
+
+They move on because they've demonstrated mastery. And if they're not there yet, they're able to get that targeted help they need through the AI tutor. When new students enroll in Alpha, in fact, they go through a series of assessments, basically testing to understand where are they when they come to us? What do they know? What don't they know?
+
+Based on those results, we can see where their blind spots are, where their Swiss cheese holes are. And then we move them into the right sweet spot that kind of matches what they need. Now, I will tell you guys something. This is kind of crazy. We had hundreds of new students come into Alpha at the beginning of the 25, 26 school year.
+
+And we were able to do these testing to understand where they're at, where they were assessed. Here's the thing that's really crazy. What we found is students who came into Alpha and in their past, maybe they were A students on their transcripts from their previous school. Here's what we found. If they were an A student at their previous school on a subject, that showed they were anywhere between one year ahead and three years behind.
+
+Now, if they were a B student, if they had a B on their report card, our assessments showed they were between three and seven years behind. Isn't that crazy? Here's the really blatant thing. I believe so many schools are lying to parents about where their kids are. They give A's and B's out like candy.
+
+It's really kind of gone are the days of getting C's and D's and F's. You know, schools aren't even allowed to fail kids or not allow them to pass. And so that's a problem. So, you know, as I mentioned, that's something that Alpha is really good at doing. We're able to see what a kid knows, what they don't know.
+
+So let's say take a 10th grade student who joins at Alpha School. After doing the assessments, we realize that he's got some blind spots in third grade math. So does this mean he gets like an educational demotion? Does he have to go jump back in time and go sit in a classroom full of all our eight year olds? Kind of like it's Christmas time.
+
+Like like Buddy, Buddy the Elf. I love that movie, by the way. That's a good movie. No, of course not. But here's the thing.
+
+Thanks to our AI tutor, this 10th grader can just get personalized curriculum. He can go back and learn those concepts from third grade that he needs to kind of brush up on. He can go catch what he needs in fourth, fifth, sixth, seventh, eighth, ninth. And eventually, he is able to quickly and very effectively fill the gaps in his knowledge. And then he can continue progressing forward.
+
+And this is the way that we kind of work with students at Alpha. And here's the other good news. We often tell our students the fastest way forward is often to go back. Go back and fill those holes. And then it makes the concepts that you're learning as a 10th grader much easier.
+
+And again, this is what we tell parents when they come in and are shocked to realize they're a student is years behind in a grade level. We say, here's the good news. It doesn't take years to catch up. It can be done so much faster when kids are getting that personalized, mastery-based learning experience. Principle number three.
+
+Memory grows stronger the harder that you push. So most of us, I think, envision memory more like a filing cabinet. Like store it once, it's filed away forever. But memory is more like a muscle. It only gets stronger if you continue to work at it.
+
+So in cognitive science, there's a concept called retrieval practice. It's also known as the testing effect. And it's been studied for decades. It basically means that the act of pulling information from your memory strengthens that memory far more than simply rereading or reviewing material. There's a lot of work that shows kind of why this works.
+
+There was a 2006 study. Researchers kind of found that students who practice recalling information perform 50% better on tests weeks later than those who only went and reread the material. And, of course, why is this? Well, because struggling to remember versus just like rereading your notes or something that you have, it forces the brain to rebuild and really reinforce the neural connections for that new knowledge. So just like a muscle, you've got to work your memory to make it stronger.
+
+So alpha doesn't just let students passively skim content like, oh, I've read it once and then I'm done. Instead, every lesson ends with students having to retrieve the ideas they had and make sure they've really got these concepts and then apply that knowledge. So our AI tutor basically will design these challenges that require active recall that make sure that the kids are learning. So every lesson is like a mental gym. It's rewiring their brains to make them stronger.
+
+It's making our students go back and recall the information they had. Again, contrast this with a traditional classroom where a student will learn the material, take it on a test, and then they never see that concept again. Our apps are constantly going back and incorporating this testing effect into students so that they've really got this core and strong in their memory. Okay, principle number four, review smarter, not harder. I think one of the more tragic elements of the human condition is how easily we forget things, although my husband would argue I sometimes don't forget things I should.
+
+But, you know, for real, it's called actually the forgetting curve, and it was coined by a psychologist, Herman Ebbinghaus, and the forgetting curve just shows how quickly we'll lose information if we don't revisit it. Sort of like what I talked about in the last section. The solution is something called spaced repetition. So this was also coined by that same psychologist and researcher. Spaced repetition is basically the process of recalling information at increasing intervals.
+
+So you might learn something, and then one day later you review it. Three days later, a week later, two weeks, three weeks. And it may just be the most effective way to actually learn something. There was a study that really has confirmed that spaced repetition, it outperforms all other review strategies. So, you know, any student can cram the night before a test and just kind of scrape by like, oh, I got as much information as possible.
+
+I will tell you, I have to say I was pretty good at cramming when I was a kid. I did a lot of cramming. So I'm basically doing all the – I'm trying to incorporate in our schools all the things that I didn't do when I was a student. I guess there's a reason I hated school is because I wasn't doing all these learning science principles. But basically, you know, a student can cram the night before and scrape by.
+
+But then if you go ask them the same questions a week later, they're just going to look at you blank face like I have no idea what's going on. And instead, students who actually practice the spaced repetition, they are able to remember what they learned for life. You know what we've actually done with alpha students? We've had them test this out themselves because I think it's actually really important for them to learn this lesson for themselves. We'll have students do a cramming session and take a test and they're like, yep, okay, I did well on that.
+
+And then we'll say come back and do, you know, the same test two weeks later and they forget it. We'll also have students say, okay, now let's do something where you study over time, do a little bit of studying each day and then go back and take the test two weeks later. And we really think that's an important thing for students to understand and learn. Because, again, you can tell kids like crazy, don't cram, don't cram, don't cram. You can tell adults that.
+
+But often we do. And so it's one of the other things we do at Alpha is help these students really understand what these learning science principles are and why they're very helpful. So to students, I always say, look, you've got to learn the material either way to pass the test. You might as well carve it into like cognitive stone and remember it for life. Otherwise, it's just a waste of your time.
+
+And that's the thing that's really cool about what we're doing at Alpha is our personalized mastery-based AI-powered learning. It's baked all of these concepts into the platforms. So as a result, these kids are getting the space repetition that they need in their lessons to make sure that they're challenged and that they're pushed towards growth and that they're going to remember the things that they learn. That wraps up part one of this episode. But don't worry, there's a part two coming soon.
+
+Thanks for listening to Mackenzie Price and the Future of Education podcast. If you haven't hit that subscribe button, now is the time to do it so you can stay up to date on all our episodes. You can connect with Mackenzie on social media and be part of our daily conversation over on Instagram at futureof underscore education. For more info about the show and our guests, you can always visit futureofeducationpod.com. Lastly, if you're loving what you're learning, please leave a review wherever you listen to podcasts.
+
+We'll be back in your feed soon. But until then, remember, kids are limitless and it's our job to unlock their potential.
+
+---
+
+## SOURCE: future-of-education-s2e291
+
+- Title: Future of Education — S2E291: (Part 2) 11 Brain-Based Principles That Actually Make Learning Stick
+- Attribution: Tier A direct MacKenzie voice; audio-backed Whisper transcript
+- Status: usable draft corpus; needs audio spot-check before final lock
+- Source file: transcripts/future-of-education-podcast/cleaned/s2e291.mackenzie-only.md
+- Word count: 3225
+
+There are so many incredible principles in learning science that are finally made possible to incorporate when we're using AI and adaptive app technology to give kids learning at their own pace and their level. hosted by Mackenzie Price. Mackenzie is the founder of a revolutionary new school model that's disrupting education through AI. Join us as we discuss the latest in education innovation. Number five, learning is a contact sport.
+
+So imagine trying to learn how to play soccer just by watching a YouTube video. Even if you understand the rules of the game, you still have to learn how to actually embody those rules and get out and play. At some point, you have to step on the field. And that's where the real learning happens. Now, I will say, I can't really talk from major experience.
+
+I was a terrible soccer player growing up. And here's my problem with soccer, actually, is I was like, wait, you're telling me I got to run into a crowd of kids trying to kick a ball where we're probably just going to kick each other's shins. And it just seemed, no, I was never a big contact sport person when it comes to soccer. I just, no, I wasn't. I am much better actually as an athlete.
+
+I'm much better at individual things that have to do with like balance versus any sort of hand-eye coordination. You know what? Fun note. This is really interesting. There's an NFL football player, Demario Davis, who is a friend of Alpha.
+
+And Demario has like six kids. And he told me, put a kid at age four on a soccer field for one game and I can tell you exactly what kind of athlete that child will be. And I was like, really, you know, what is it? He said, well, first of all, and he gave examples of his six kids. He's like, we have one kid, you put her on the soccer field, she's picking flowers on the corner of the field.
+
+She's not even interested in sports at all. Like she's not doing that. You have another kid who jumps in and goes right into it. And you can tell like, okay, they like contact team sports. They like that.
+
+You'll have another kid who maybe isn't there, but is great at kicking the ball, you know, something there. And you can say, okay, this is going to be a kid who's great at individual sports like tennis, you know, something or golf, something that's individual. And then you can also tell kids who don't have like hand-eye coordination, but maybe they're really good at balance. They're good at something. So for me, as an example, I was talking to him about this.
+
+I always consider myself a bad athlete because I wasn't good at like soccer or contact sports, but I'm actually like a really good water skier. I'm a really good snow skier. I'm good at a lot of stuff like that. And I just realized like my athleticism just wasn't appreciated in the way that DeMario Davis appreciates my athleticism. And if you want to go actually listen to that episode with DeMario, it's episode number 228.
+
+So school is no different than having to get out on the soccer field. Standard classrooms, they're like learning how to play soccer just via watching YouTube. It's totally passive. What students really need is they got to get out on the field. They got to scrape up their knees.
+
+They got to get kicked in the shins. They got to learn by doing the actual work. And that is called active learning. It's how kids actually retain knowledge by doing, not just absorbing, by putting in the output, not just inputting. And I think active learning may seem a little bit like a buzzword, but it really is a proven accelerator for how students can achieve more.
+
+And the stats completely back it up. Students will retain up to like 90% of what they have if they're teaching someone else compared to just 5% of what they hear in lectures. There was actually a study done in 2014. It was a big meta-analysis of a bunch of different research that showed that students who are doing active learning in those kinds of environments, they perform basically much higher grade level than those who are in traditional lectures. And even more strikingly, students in passive settings were 1.5 times more likely to fail.
+
+And so active learning really forces the brain to do something with the acquired knowledge. It's information that's actually applied, kind of like stepping onto that soccer field where the learning really becomes embodied. And it transfers knowledge just from the kid's brain into actually doing something and becomes a lot easier. So this is part of the reason that at Alpha, our students aren't just sitting in class getting lectures in the time-based system. Instead, the time that they're engaging in the apps is very much active learning time because it's keeping them engaged at the level and pace that they need.
+
+They're actually learning, you know, based on where they're at. They're going at the pace they need to be faster or slower if they need time. This also gets into another part. I get a lot of people will say, well, what about screen time? Screen time is, you know, bad.
+
+And here's what I say to the people on that is our students are getting this super active learning experience that's keeping them really engaged at what we call kind of the level of proximal development, which is basically it's not too hard, it's not too easy. And I will tell you, there's a huge difference between doom scrolling TikTok and playing video games all day and getting this one-to-one mastery-based tutoring experience that's happening on screens. I also will tell you, and if you're not watching this on video, you're probably going to miss my incredible acting skills. But there is a huge difference between getting that one-to-one mastery-based tutoring experience and sitting in a class like this, completely bored, listening to a teacher drone on. And that's where I just say, I'm like, there's no comparison for what the way kids are able to actively learn.
+
+So this is also something that I think in Alpha we're helping with is active learning too, is students are building big things. They're doing these startups. They're writing, you know, persuasive essays and sub-stack articles and tweets and things that helped do that. They're doing scientific experiments and research and work on that. They're publicly presenting their findings.
+
+They are really the epitome of creators, not consumers. Okay, principle number six. Are you guys ready? Too much information at once shuts the brain down. Of course, I don't think that's super shocking to think of, but let me go into a little bit deeper what I mean by that.
+
+So people have what's called working memory. It's basically how much information your brain can juggle at one time. And it's a form of memory that allows a person to basically temporarily hold a limited amount of information that's at the ready for immediate mental use. Think of tabs in Google Chrome, except unlike the 25 tabs that you probably have open right now, which, by the way, you should probably clean up your desktop, close those. Your working memory is strictly limited to only a few tabs at once.
+
+And this kind of discovery, it's called cognitive load theory. It's basically how much you can have in your brain immediately without overloading it. So let's put it in perspective. The average adult can juggle basically three to five things in their working memory at once. And it makes sense then that multitasking has pretty much been disproven.
+
+The more information that you try to juggle in your mind at one time, the more you're going to forget, the more frazzled you'll become. And flooding the system just inevitably causes it to crash. So for kids especially, it's really vital to focus on one thing at a time. One topic, one lesson, really simple, clear instructions. Master that and then move on to the next subject.
+
+What this looks like in practice at our schools is that students typically work for a couple hours total in 25-minute sprints. And each lesson focuses on one clear topic. The entire academic experience is structured to respect the brain's processing limits and push understanding deeper, not just wider. So students use our Pomodoro method daily. And we actually covered that in a full episode recently.
+
+So check that out if you want to go deeper. Again, when we think about working memory and how many slots a student has, here's what's a challenge and an example of where a kid can get overwhelmed. Let's say a student is learning how to solve an algebraic equation. And they're working on trying to learn that concept. But maybe they're having to spend time remembering what 5 times 6 is or what 12 divided by 3 is.
+
+That is something that can go in and clog up. Basically, it takes one of the working memory slots. And so when you're having to spend time trying to remember, like, some basic multiplication tables while you're trying to learn algebra, you're basically overloading your cognitive, you know, working load and your mental slots that you have. And so it's really important to make sure that we're always keeping kids' slots basically open, those 3 to 5 slots that somebody can understand while they're learning a concept and that you don't overload that. Number 7, multisensory learning builds brain power.
+
+There was a research that was done in 2008 that shows that multisensory instruction enhances both learning speed and durability. When students will engage multiple senses, they activate more brain regions and create more neural connections and improve retention. And I think that makes sense, right? If you are passively listening to a lecture, that's super unstimulating. Basically, it's as boring as it kind of gets.
+
+But if your kid is actively participating and building and creating and engaging multiple different senses at the same time, then their brain is literally, like, firing on all cylinders. And it's going to be a lot more difficult to forget that lesson. And this is why so many of our workshops at Alpha also involve a lot of tactile experiences. So learning grit is doing things like an ice bath challenge, building a bridge out of spaghetti, learning how to change a tire. There's just so many ways that when you incorporate a lot of the different senses that kids have, they are really learning whatever that skill is.
+
+And sometimes that's academic stuff, and sometimes it's our life skills that we go. Number 8, keep kids in the stretch zone. Now, there's something called the Zone of Proximal Development. And it basically describes the range between what a student can do on their own and what they can do with support. And the Zone of Proximal Development is where learning is most effective.
+
+It's, like, just beyond the current ability where it's challenging, but not so far that it causes frustration. And so effective teaching really keeps students in this zone until that new skill becomes independent. For us at Alpha, we believe that is able to be seen when you have, like, an accuracy level of between 80% and 85%. If a student is getting more than, you know, 85% of the answers correct, that's a sign that the material is too easy for them. They're moving too quickly through it.
+
+So, they are outside of their Zone of Proximal Development. Now, if they are getting a lot of questions wrong, let's say they're getting 70% of their questions correct, that's a sign that maybe the student is being a little bit overwhelmed. And, again, they're outside of their Zone of Proximal Development. So, the key here is that we want to keep kids in lessons that are not too hard, not too easy. Our AI tutor really keeps students in this Zone of Proximal Development, that space where that material is not too hard, not too easy.
+
+And the space repetition principles that we use also are included into this process. And that way, the student is reviewing just enough to keep knowledge fresh without ever burning out or being bored. And personalized academics mean that every lesson gets optimized to this. Number nine, fluency unlocks flow. Fluency is the ability to retrieve knowledge on the spot without even having to think about it.
+
+It's your brain operating just on autopilot. For example, reading. When you first learn to read, every word is like its own mountain to climb. You have to scale. You got to climb it.
+
+You got to figure out how to sound it out. But eventually, you can read these words and then piece together a phrase and then a paragraph. And soon, you're reading a whole novel. And those words that used to be so challenging, now your brain just processes them subconsciously. It allows you to basically have the mental capacity to discover whole worlds, whole characters.
+
+It allows you to basically find flow, that reading flow. And so whether it's decoding words or manipulating numbers, fluency reduces the cognitive effort that's needed for basic tasks. It then frees up brain power for the more critical thinking and comprehension that you need to do. As you know, everything at Alpha is done to mastery. And students don't progress based on age or semester or just it's time to move on.
+
+They progress when they fully grasp that material and their brains are able to slip into fluency. And then they learn it even better from there. Okay. Number 10. We are almost done.
+
+Less is almost always more effective. Chunking is a learning science term that's used to group information into more manageable units. And this is a principle that was grounded in something called Miller's Law. And it's supported by a lot of modern psychology and cognitive kind of theory. Chunking basically helps students hold more in their working memory and see patterns and structure and meaning in more complex material.
+
+So ultimately, it's the process of compressing learning into these manageable components to basically reduce demand on that working memory that a student has. And guess what? It is wildly effective. In one experiment, learners who were taught to chunk chess positions, musical phrases, or sentence structures learned four times faster than those who weren't incorporating this chunking technique. So Alpha students will set yearly and weekly and daily goals with their guides.
+
+And the goal is to effectively chunk their workload, too. And they've got, like, a coach who basically is helping them set these goals and holding them accountable. Chunking also happens on a more granular level during the two-hour learning block that students are doing. So there's one lesson. It's one topic.
+
+There's one goal that's, again, mastered before moving on to the next. And chunking is really kind of the perfect way to reduce overwhelm and build clarity. Number 11. I think this is our last one. New ideas stick better to old ones.
+
+So what do the best teachers in the world have in common? Well, they'll use analogies. They'll basically take a concept that your kid already understands, and they'll relate it to a new concept that they're trying to teach. And so, again, if you kind of already understand something and then it's like, let me explain something else, you know, you're able to kind of connect versus something new. And this is called schema theory.
+
+And it basically shows that when new knowledge is absorbed with a connection to something a student already knows, it's more easily learned. But how would you do this at scale? How do you make sure that, like, all 25 kids in a classroom are going to understand the same analogy? Well, again, you can't. The analogy is going to maybe stick with one student, completely go over the head of the next one.
+
+So even the best teachers who have the best analogies, they can struggle to make things click for every single student. But that's where AI comes in. Let's say a third grade student at Alpha loves Taylor Swift but struggles with writing. Our AI tutor can personalize her academic curriculum so that she can become fluent in language through Taylor Swift lyrics. Obviously, that's kind of a stretch.
+
+But basically, there's a lot of things that you can do where you're able to connect something that a student already knows to a new concept and that helps them understand it versus something separate. So basically, that was kind of our last learning science principle for this episode. There's so much more and I really butchered a lot of this. But suffice it to say, there are so many incredible principles in learning science that are finally made possible to incorporate when we're using AI and adaptive app technology to give kids learning at their own pace and their level. I also just want to throw this in here at the end.
+
+You don't need to be a learning scientist expert to find better education options for your kid. You just you need to ask the right questions. Does this school use active research based teaching methods? Are your kids being rushed to material or are they supported until they master it? If they don't understand something, is there a way for them to catch up?
+
+Does this system align with how the brain actually works? And here's the thing, guys. We don't need to reinvent the wheel of learning. We just need to take what we already know to be true and actually implement it into the classroom. And if you're inspired by any of these principles, I encourage you to try to implement them at home.
+
+There are ways to do that. I know it's tough after school, weekends, everything's busy, but there are ways that you can help kids learn better by incorporating some of these principles. And when we give kids the right environment, they totally will rise. And I think every family can take like a step towards that today. So, all right.
+
+I'm going to wrap things up. If you want more episodes like this, definitely let me know. Thank you for listening and I'll see you next time. Thanks for listening to Mackenzie Price and the Future of Education podcast. If you haven't hit that subscribe button, now is the time to do it so you can stay up to date on all our episodes.
+
+You can connect with Mackenzie on social media and be part of our daily conversation over on Instagram at futureof underscore education. For more info about the show and our guests, you can always visit futureofeducationpod.com. Lastly, if you're loving what you're learning, please leave a review wherever you listen to podcasts. We'll be back in your feed soon. But until then, remember, kids are limitless and it's our job to unlock their potential.
+
+We'll be back in your feed soon.
+
+---
+
+## SOURCE: future-of-education-s2e296
+
+- Title: Future of Education — S2E296: What Parents Are Really Saying: Alpha’s End-of-Year Survey Results
+- Attribution: Tier A direct MacKenzie voice; audio-backed Whisper transcript
+- Status: usable draft corpus; needs audio spot-check before final lock
+- Source file: transcripts/future-of-education-podcast/cleaned/s2e296.mackenzie-only.md
+- Word count: 7701
+
+We're halfway through our 25-26 school year, and I want to go over some of the results we got from our parent surveys. Are you ready for this? You want to hear what our lowest scoring survey question was? Yes, I do. Our very lowest scoring.
+
+Here's the question that got the most negative response. It's also the one I was absolutely the most surprised by. , hosted by Mackenzie Price. Mackenzie is the founder of a revolutionary new school model that's disrupting education through AI. Join us as we discuss the latest in education innovation.
+
+Happy 2026. This is our first podcast back in the year of 2026, and I thought nothing better than to invite my favorite producer in the entire world, Jay. But anyways, I thought it would be fun to come on here, and I want to go over something that we do every session, but it's sort of a recap for the end of 2025. We're halfway through our 25-26 school year, and I want to go over some of the results we got from our parent surveys. Are you interested in hearing about this?
+
+I am totally interested in hearing. Yeah. So, I'll tell you a little bit more about what we do. So, every six weeks, we have what we call sessions, and think semesters, but these are shorter periods of times. And we send out student surveys at the end of every session for students to give their feedback.
+
+We also do the same thing with parents. And part of the goal here is we're really trying to build the best school in the world. We want the school experience that our families have to be 10x what they've ever experienced in any other school. And the best way for us to be able to build towards that is to make sure that we are getting feedback from parents on a regular basis. Wow.
+
+It's pretty revolutionary to even think that way. No other school is doing surveys like this magnitude. I wonder if they do. I'm not sure how often it is. I know certainly in the public education system, there's not as much choice.
+
+Other private schools, maybe they have that. But we really very much are, you know, customer first, and the customer is the child, right? How are we doing? And so, the way we break this out is kind of interesting. But the other reason this is important for us to kind of talk about is that we've been growing a lot this year.
+
+We've added like 13 new school campuses to our portfolio of schools this fall alone. And one of the questions that I think people always have is, can we maintain our quality as we scale? One of the things that we will never do is we will never sacrifice quality for scale and expansion. So, we're going to go into some of these results. I'm excited.
+
+You like set it up very nicely. Let's hear these questions. And I'm a parent of two children that went through school, one in New York, one in California. So, I feel like I'm a good person to be sounding board for. So, we ask several questions, but where we kind of frame them is, again, around the idea of how are we doing against delivering the three commitments?
+
+And so, do you remember what our number one commitment is, Jay? What is it? That a kid is going to love school. Kids will love school. And so, here's what we found.
+
+First of all, from the student perspective, we had 90%, just a little over that, of students say they love school. And that's, for us, generally anywhere between 90% and 97% of our students will say they love school. So, that's kind of where we landed here. So, you ask the parents, does your kid love school? Is that the first question?
+
+We ask a parent, does your kid love school? Okay. Now, we also ask the students, but that's a different survey. I'm going to tell you just what the parent's perspective was. And so, as part of the survey results I want to go over, because we're curious about how we're doing at these new campuses, we've onboarded hundreds of new families into our schools around the country.
+
+What I want to understand is, what are new families saying about this experience at Alpha? And so, the first thing we asked was, does your student love school? And we got a resounding 90-plus percent said, yes, my student loves school. Now, here's actually a really interesting thing. We actually had a higher percentage of the students say they love school than the parents think.
+
+So, like, the actual what the student thinks versus what a parent thinks, but it's, you know, pretty high on that. So, within our first commitment about kids loving school, first I'm going to tell you what the kids said. 90-plus percent of our students said they love school. When you asked the student. Yeah, when we asked the students.
+
+So, we are delivering on that. Our kids are loving school. 90-plus percent of students also said they love their guide. Then we asked this question. It's a yes or no question.
+
+Here's a statement. My child's guide is truly connecting with my child, motivating them, and providing meaningful emotional support. And we always tell parents at the beginning of the survey, if you're even kind of waffling, then you should answer no. If you're not totally sure it's yes or you're like, well, kind of, then go ahead and say no. And the answer there, can you guess what it might be?
+
+I'm going to say it's 85%. 95-plus percent of our parents say that their child's guide is connecting with them, providing motivational support and emotional support, which, you know, that is so what it's all about. That's a high bar. It's not like 95% like their guide. That survey question is tough.
+
+No, it's got to be. Yeah, I mean, it really is. And, you know, there's just some very cool things around just what I think parents are experiencing where they're suddenly like, my kid now tells me he loves school. Like, he never said that before. My kids would rather be at school than on vacation.
+
+They don't even want the breaks. You know, that's another bar that we have is would you rather go to school or go on vacation? The reason I'm really proud of the fact that 95% of parents believe that their child's guide is truly connecting is that really goes to show the reason our model is so successful is because of our guides. It's the adults in our classroom that are making all of this magic happen, and they're fantastic. They are key to delivering love of school.
+
+Now, here's an interesting fact, too. And, Jay, you've met so many of these people. Do you know that we hired over 100 new guides this past school year? 100 new guides. Here's the other thing that's interesting.
+
+Do you know how many people applied to be a guide at Alpha this year? Oh, my gosh. 500. 80,000 applicants. 80,000?
+
+We've had over 80,000 people apply to be a guide, and that's since, like, last spring. So, when we think about the 100 guides that we have hired, these are truly, like, the best of the best. And the other thing that we're noticing, and this all comes back to the idea of, you know, can we maintain quality at scale? Here's what that answer about the kids loving their guides and the parents believing their guides are connecting. This is showing that our new guides are just as loved as our old-timer guides.
+
+You know, the new guides who come into an Alpha school and have started this fall, they're able to jump in. They're getting the training and the experience, and they are making that impact with kids that are guides from before we're doing. Well, and it also goes back to the number one commitment. When your number one commitment of your school is that a kid should love school, you've already turned the whole education model upside down. And then a guide comes in and says, hey, my number one job, among other things, but my number one job is to make sure that this kid loves school.
+
+So, how do they do that? They support them emotionally. They connect with them. They find out what motivates them. They become friends with them.
+
+They hold them accountable. Like, all the things, all that favorite teacher energy, it's like, that's what I see. And I've heard you mention that, but that sums it up. It's like favorite teacher energy from all the guides. Well, what we are calling it kind of is that whole mentor mindset.
+
+It's the high standards with high support, and you combine that with super high standards for our hiring process, we're getting just phenomenal people. When you think about the favorite teacher, and everybody listening, if they think about their favorite teacher growing up, I think about one of my choir teachers that I really loved. He challenged us so much, but he also supported us. We knew that he cared about us, but he challenged us. So, you think about that, and that's what all the alpha guides do.
+
+They challenge the kids to high levels, but they're still cool, and they're still their friends. Do you think if I'd had your choir teacher, I would have become a better singer? No. No hope for you. But your enthusiasm in karaoke would still be the best.
+
+I mean, you're the best karaoke partner in the world. Yeah, no, I'm pretty much, yeah, I've crushed it on my karaoke. When you show up for karaoke, it's like a good time. Okay, do you want to hear what we scored the lowest of in terms of our three commitments? It was actually our second commitment.
+
+Do you know what our second commitment is? Second commitment is that students will learn two times as fast than they would at a regular school. Yeah, they learn 2x, 2x more in two hours a day. Now, that was actually the lowest parent score on our three commitments. Half of our parents are worried that their child is not learning 2x.
+
+Fifty percent of parents are concerned, like, my kid's not learning 2x. So, they're worried about it, or the test scores didn't show that? Well, so there's, now you've just figured this out. We actually haven't had our MAP assessments come in. They take them in January.
+
+And so, what we do is we do NWEA MAP assessments three times a year, and that's how we measure our 2x results. We basically take the RIT score, and whatever is the idea of a kid in this percentile, in this grade level, is expected to grow X number of points. And so, at Alpha, our commitment is that your child will grow X times two number of points. So, if, you know, your kid would be expected, based on MAP, to go up four points in a given year, we see that they're going to go up eight points. That's kind of what it is.
+
+But just to be clear, the parents are saying they're concerned about it, not that the results are bad. We haven't gotten the results yet. And, by the way, Jay, this is one of the things that's really interesting. This comes up every single year around this time. And I think what happens is parents are like, oh, I don't know, this almost seems too easy, or my kid's not doing work at home, or, you know, I'm not seeing that, you know, as much.
+
+So, are they really learning? Does this really work? And remember, these are new families who are coming in the Alpha system who are like, I'm trying something that's different than anything I've known. You know, does this work? We have to point that out.
+
+To be fair to the parents, it's such a radical change and a radical shift. So, they're naturally skeptical because we've all grown up with this school model, the old school model. So, then it's like, wait a minute, you can do all these awesome things and less the time? So, it takes a lot of... Yeah, they get a little worried.
+
+Like, is this really the way that this is going? You know, they're hearing from their friends at their other schools who are like, well, my kid got this, you know, test and did this, you know, report card or whatever, and what is it doing? And so, this is very much a consistent, every year this worry comes up, and every year it proves unfounded. And it's part of the reason that we always tell parents, look at the third-party assessments that are going to really hold us to the second commitment. And so, we have our academic assessments coming up in January.
+
+We'll have the results in February. Our principal, Joe, is going to do a big academic talk to share what those results are and how it is. But I will tell you that our internal data from sessions one and two, basically from August through December, are showing that our kids are absolutely on track to be over 2x in their learning. So, we believe it's looking good. But right now, in the school year, parents are just like, they're really going to be excited to see what their MAP assessments look like.
+
+So, let's get to some more questions. Yes, exactly. More survey questions. Now, here's something else that's kind of crazy. Here's some data on our new students.
+
+So, we had hundreds of students who joined Alpha this year. They were students who were A and B report card kids at their old schools. They were getting A's on their transcripts, B's on their transcripts. And these are high-end private schools that a lot of these kids are coming from. And here's what we found.
+
+When those students arrived, our assessment showed something very surprising, but it's pretty consistent. On average, these students are 2.2 grade levels behind. Wow. Yeah. Wow.
+
+2.2 grade levels behind. And these are A students. Just to put it in perspective, an A or B student who is in the fifth grade transfers in to an Alpha school. And your test shows that they're in the third grade knowledge. Second grade.
+
+They're actually doing second grade. And where it gets more drastic, think about an eighth grade student who's coming in and is doing fifth grade work. So, today, what we can tell you based on the data that we've got, those same students, they're on track to be ahead of grade level by the end of the school year. So, they came in two and a half behind. And then by the end of the year, they will have completed two and a half years plus a little more.
+
+Plus the grade level they need to complete and a little bit more. So, we're going to be able to catch these kids who came in at the beginning of the year 2.2 grade levels behind. And we're going to get them above grade level by the end of the year. Now, I will say some of these students do require an extra one hour of work. On average, our kids, so far for the school year, our kids are spending 120 minutes a day on the school work.
+
+That is the average. It's the two hours. But some of these kids are needing to spend an hour of extra. And just to be clear for the listener, all of your schools have two hours of academics per day only in the lower grades. Yeah, K through 8.
+
+That's the goal is that they can get their 120 XPs done in 120 minutes. XP is their... Experience points. It's how we measure this. And this is, again, data that we're going to go into more detail on when Joe does an academic talk after we've had our winter map assessment.
+
+So, look out for that in February. But things are going really well. And, you know, we saw in the fall, too, we're still... Our classes, our subjects, our grade levels are all 1% across all grades, all subjects nationally. Top 1%.
+
+Yeah, top 1%. And we believe that our January map story is going to be the same. On top of that, our SAT scores are crushing it at the high school level. And colleges are responding. In fact, we had really good news in December.
+
+We already got two early acceptances to Stanford University, my alma mater, go card. And so, that's been exciting. It's something, though. So, that's really making sense. And here's something else that's really crazy.
+
+Jay, I don't know if you've heard of this publication. It's called Nature. Have you ever heard of it? Not really. So, Nature is the number one science publication in the world.
+
+It's the number one science research journal. And they came out in, I believe it was in November, talking basically about what AI could look like at the university level. And they cited Alpha as the blueprint for what an AI education-based model can look like, which was a huge thing. But here's the other thing that's really crazy. One of our high school students just submitted her own research to Nature.
+
+And it has advanced to the preprint stage. And that's going to be something super exciting because if she goes into print, she'll be the only high school student in history to be published in Nature. And she'll be the youngest female. Yeah. So, we'll see.
+
+We'll talk more about that later. Here's another thing that happened just in terms of kind of updates that have happened so far this school year since the fall. We released TimeBack, which is basically the education platform, the AI tutor that we're working. And it's basically allowing us to scale Alpha a lot more effectively and then keep that high quality and just continue to improve our learning outcomes. So, we basically moved to that XP-based measurement system.
+
+And that's going well. By the way, the kids love the XP every time you talk to them because it speaks their language. It's gamified learning, right? It's adding that gamification in there where they're like, I can get my XPs in doing this. And here's the other thing we're seeing kind of internally, and we'll continue to show this in our map results too.
+
+What we're seeing is that our students are getting faster learning in even less time. So, TimeBack is allowing us to do even more than the 2X in even less than the 2Rs. So, it's pretty cool. There's a few specific kind of things that we've done in terms of building out our apps that are helping deliver our TimeBack platform. So, first of all, Jay, did you know that the state of the world in terms of, like in the United States, the reading-writing crisis that is happening?
+
+Of course. I mean, it's terrible, right? You can't open, you know, I was going to say you can't open a newspaper, but you can't open, you know, the internet and go to a news site without seeing some new headline about how awful our performance is, especially in the United States. Yeah. Well, and it's really, it's a crisis in terms of long-form reading and writing.
+
+Kids aren't reading books anymore. Kids are using AI to write their papers. And we're taking a very different approach, which is we're using AI to fight AI, right? And so, we're doing that. And so, we've, we created two new apps that came out this year, AlphaRead and AlphaWrite.
+
+It basically takes students who are struggling to write even basic grammatically correct sentences to now being able to master sentences, paragraphs, outlines, essays. So, AlphaRead and AlphaWrite, those are apps that, you know, all of our schools are using. And we're going to start in 2026, we're going to start making these available on a wider basis so that people outside of Alpha can even use these apps. And just so parents know, like the demand and requests from the world for the software that you are using is off the charts. I mean, it's just like the whole world wants in on this.
+
+So, we're working on getting that ready to do. Now, here's another thing. When we talk about math, did you know that standard school has stopped teaching a lot of basic math principles like, for example, memorizing multiplication tables? I did not know that. Yeah.
+
+So, you know, so many schools have just stepped away from that. They just believe that memorization is bad, that you don't need, you know, to have memorization, which is crazy. What we have found is that we're using AlphaMath, which is an app we created, and what we notice is that kids who do AlphaMath in third grade, they end up completing fourth grade math in half the time. So, if you have strong, fast math and, like, some of the basic math proficiencies that you learn in third grade, fourth grade math takes half the time that it normally would. I'll just give some numbers on this because I think it's important to understand.
+
+And in third grade, to get math fluency, which is things like multiplication tables, division tables, know those basic things, what's, you know, 10 plus 10, what's, you know. Nine times four. 36. 12 times 12. 144.
+
+I need to go back and do AlphaMath. But basically, you only need about 11 hours on average to do the math fluency part of third grade. And when they do that, they end up saving over 30 hours in fourth grade math if they've done that. Yeah. So, I mean, it's crazy.
+
+And that actually gets into kind of the next part of what has happened this year is we have been able to build the best learning science team in the entire world. And we've been able to take all of these things that I just mentioned about how we're seeing better math improvement, better reading and writing is because we're finally taking all these learning science principles that we've known for 40 years can result in kids learning better. And applying them. And we can apply them. And here's what's been incredible about building this team, this learning science team.
+
+Here's what makes them different. They're not here to just publish papers and research about things. They're here to really make sure that the research that is out there gets incorporated and applied into our schools to result in real learning for students. So, that means a parent listening can know that the most current and cutting edge research on learning science is being applied in the apps that you are giving to every student. Exactly.
+
+And, you know, the challenge in education and research in education in general, they've always had this like last mile problem, which is like there's all these ideas that make their way onto paper, but they never end up in the classroom. They're not implemented. Right. And what we have basically said is like, okay, all of these ideas you have, you are going to make sure kids are learning. And so, we basically, everything we do at Alpha starts with this belief, which is that if a student's not learning, it's not the student's fault.
+
+It is the system's fault. Something is wrong with our system and we have to go and figure out what's happening in our system that is creating this challenge and how do we fix it so that we can deliver this learning outcome for a student. And so, we're measuring basically mastery and time it takes. We want to make sure kids are fully learning to mastery and that they're doing it in less and less time. And I think it's important to call out just for the parents listening.
+
+The reason why it's important to learn faster is because that gives you time back to do X, Y, Z. Go engage in the passions that you're excited about. Go spend time with your friends. Go do sports. Go hang out with your family.
+
+How about get a good night's sleep? Like all of those things. And that's actually why we've called this, our platform, Time Back. We're giving kids their most valuable resource, which is time back to go do these things they love. And I think one of the things we're seeing too is when parents finally see that moment of like, wait, it's really possible to learn better and more in only two hours a day.
+
+It kind of makes you question, well, then why are we making kids sit for six hours a day in class when they could get better learning done in two hours and then free up time to do all the other things? With no homework. Exactly. Now, that leads us into the commitment number three. Which is you will learn life skills.
+
+You will learn life skills. So, life skills that we're teaching, leadership and teamwork, storytelling and public speaking, financial literacy and entrepreneurship, relationship building and socialization. Doing hard things. And grit and hard work. Exactly.
+
+So, those are things. So, here's some survey results that come in there. By the way, we just have to say it. The life skills are amazing. Like, as a grown person who gets to see them in action, every time I see these workshops that these kids are doing, I think, I need to learn that now.
+
+So, like, it's hard to describe to the listener. And if these are parents of Alpha Schools, they know. But it's just mind-blowing how cool these workshops are. There's a whole team of people that plan these workshops, which is awesome as well. Well, so here's what the parents said.
+
+85% of the parents said that they were impressed with the life skills workshops. 85 plus percent said their child accomplished something they didn't think was possible at their age. So, that's everything from, you know, our kindergartners were doing the five-mile bike race over the Golden Gate Bridge, right? And learning how to ride a bike. You know, our kids were doing survival, you know, skills out in the ocean and, you know, out on camping trips.
+
+All kinds of things. They were coding unbelievable programs and projects. So, there's just a lot of great examples. And I think this was one of the fill-in-the-blanks that a parent from a parent survey said that I thought was just really cool. The test to pass felt like the Olympics.
+
+Life-changing for our daughter and our family. Life skills are the most impressive part of Alpha, in my opinion. Academics are great, but life skills are so important and were never taught when I was growing up. So, I'm blown away at all the incredible life skills the kids are being taught. It's amazing and beautiful.
+
+And the test to pass is so cool because what that is is the life skills are measured. So, it's like, okay, we're going to work on teamwork. Okay. So, then you have to have a way to measure that and all the ways that they measure it. Like, okay, they mic the kids up while they're doing an escape room and then, you know, monitor all of their interaction with each other through AI and then judge, was this person actually working on their teamwork?
+
+And so, that's how cool it is. The measurement with the test to pass is what always impresses me. Yeah, absolutely. So, now we're kind of going to go into the next section, which is something we take really seriously. Just like we encourage our students that the best way that they can get better is to seek out critical feedback, we want the same thing.
+
+So, even if you're scoring 90%, 95% on stuff, it's like, where can we do better? And so, now we're going to jump into kind of the section of where we need to improve. Are you ready to hear that? Ba-da-da! Yeah.
+
+So, the first thing is kind of relating back to that first commitment around 50% of parents just like being uncertain, is my kid actually learning? Like I said, our data is showing that they absolutely are, and we are super confident in our January results. So, what we have to do is a better job at helping parents understand kind of their students' academic progress and maybe having more touch points throughout the year that can just help them be comfortable with like, okay, this is working. And so, as part of it, we're going to do the February academic talk that will go through this, and we just want to figure out how can we share more progress in between the map test windows. We had progress reports when we were kids, you know, so maybe that's kind of what you're talking about implementing?
+
+Absolutely. We haven't really had that view created yet, and so we need to do a better job of figuring out how to help parents understand throughout the weeks and the months, like, here's how your kid's progressing. And that's why you have the dashboard, which a lot of parents, I know, access it every day. Yeah. So, you know, our time back dashboard, we don't have the parent view yet, and so right now the way that parents can go in is they access under their kid's view.
+
+They can see the dashboard that shows the learning summary, shows what their kids are working on on a daily basis. You know, it gives a lot of information. We just have to work on making that more accessible so that parents really can see it. And maybe we're sending something out to them, you know, as opposed to them relying on, you know, logging into their student's account to see it. So it's that one.
+
+We did have in our Austin Alpha location, we have a pre-K program for four-year-olds. And we had kind of an outage in that at the end of the semester. We didn't have a great test-to-pass event, and we just had some poor communication with families. And so that's something that actually I spent a lot of time with the parents there. And we've got a session three plan that we are really excited about.
+
+The parents are excited about. The guides and us are excited about. The kids are excited about. So that's one place where we just saw, okay, we've got to work on this pre-K program, especially around communication. Okay.
+
+Another spot where we really need to work to improve. We had about 20 families at Alpha who basically said they preferred last year's workshops and test-to-pass events to this year's. And so basically what's happening is our deans of parents are going to be reviewing workshops and test-to-pass both internally and with families at the start of our session three, now in January, just to make sure that everyone is very aligned. I think in general what we're seeing, though, is that our greatest competition is really ourselves, right? I think a lot of new Alpha parents come in and they're like, well, this is clearly way better than maybe at my old school.
+
+But both new and old alike might say, well, but maybe this workshop wasn't as good as the one I did last year or the one I saw on Instagram that you guys did, right? The one I've heard about, like where's the food truck workshop, where's the Airbnb workshop, where's the sailing to the Bahamas workshop, whatever it is. And so that's the biggest thing is that we just need to continue upping our game on our life skills workshops and making sure that these life skills workshops are really teaching the life skills that we want to be taught and that the kids love them and that they're super impressive. Okay. You ready for this?
+
+You want to hear what our lowest scoring survey question was? Yes, I do. Our very lowest scoring. Here's the question that got the most negative response. It's also the one I was absolutely the most surprised by.
+
+So as I mentioned, and Jay, you've visited a lot of these campuses with me, we opened a bunch of new schools throughout the fall all over the country. And one of the statements we had was growing Alpha, their little school, is one of my top priorities. Because we've got schools that have, you know, 15 kids in them, you know, 10 kids, 20 kids, whatever it is. We've got schools that are very, very small. Almost 50% of new families at the new campuses responded, no, it's not my priority.
+
+Huh. And here's why I think that's so interesting is when parents are thinking about choosing Alpha, like when we have info sessions and parents are interested, their top concern is the size of the school. Like how many kids are going to be in my child's class? How big is the school? But five months in, nearly half of these parents are no longer, you know, they're like, whatever, my school's fine.
+
+I'm not concerned about it. What does that mean? Like how do you translate that? Well, so I'm really curious to learn more when I have conversations with parents I'm going to be asking about this. But here's my best guess.
+
+So I believe that this is really a function of the fact that their kid is thriving in the Alpha environment because school size is such a concern because socialization is really what parents want from a school. And I think parents equate socialization with quantity of students. So you think, oh, you're going to get more socialization with the more kids you have. And the other thing is, and this might be a spicy take, you tell me, friends are often the only bright spot in a kid's school day. Yes, true.
+
+In just traditional school. It's like, well, and so we get parents that'll come looking at Alpha and they're like, well, but how big is it? Because, you know, my kid needs their friends and they love their friends part. And how are you going to make sure of socialization? Now, here's what happens at Alpha.
+
+There's a couple of things. First of all, we really focus on the quality of interaction and we also focus on teaching socialization and relationship building skills so that we're really actively developing a culture where kids feel connected and seen and they're making friends. And then the other part of it is at Alpha, we're kind of widening the bright spots of what kids have so that in addition to their friends and socialization, they're like, and all these other things are so fun about school. And so that's kind of my hypothesis is that parents are less concerned about growing their kid's school because they're like, my kid comes home every day and is loving school and loves the kids they're hanging out with and is having a great time. And also one thing that can't be overstated is the mixed age aspect of it is really cool.
+
+And a lot of parents love that. So when you have 20 students at your school and they're all mixed age groups. So, you know, that really works well. And I've seen it in action, like the spirit of the school and the camaraderie between the older kids and the littles is really cool. It's a very sweet dynamic.
+
+So, yeah. And so I think that's absolutely true. Kids are getting more interaction. They're having more time to interact with each other and their guides are connecting with them more. And so I think it just sort of is starting to turn the definition of what parents believe socialization is.
+
+And the idea of how many students it takes to feel like you're in this well-socialized environment. But here's the other part of this. We actually believe that scale and growing the size of the schools is key to helping us deliver the three commitments. So, you know, when I started this podcast, it was the question of do we believe that we can continue delivering quality while growing? And I actually think that the answer is also that scale is what is going to enable us to do an even better job of delivering these three commitments.
+
+Are you curious why? Yeah. What we've seen, and we saw this from the survey results, some of which we went through and others that we saw, but basically our newest campuses, they're matching our more established campuses. Our Miami and Austin and Brownsville campuses that have been around for a couple of years or more. Our new campuses are matching that on every metric that matters.
+
+Now, here's what scale really unlocks for us. The things that we couldn't do small. First of all, the learning science team that we have created and recruited, you can't get the best learning scientists to work on something where it's like, oh, come into our little school and maybe help these, you know, 400 kids. These scientists want to help millions of kids, right? They want to do large-scale work and see it going to practice.
+
+So that works. The other thing that I think is really cool is all the cross-campus workshops that our students are able to partake in, you know, just wouldn't be available in a single campus school. So, for example, our San Francisco students went and spent a week in New York City working with our New York kids on a big AI presidential challenge, and they did a hackathon, and they coded video games, and they did a school lock-in where they were building this. That's fun. We've had a lot of kids go from, you know, our alpha schools to our Waypoint Academy and do the survival workshops and activities like that.
+
+And there's tons of these workshops that we're going to be able to do that are cross-campus where, you know, kids are going to be able to go spend time in Scottsdale, Arizona, or in Miami, or, you know, all over. And then same thing happening with just, you know, not to mention, I don't know if you've heard this, Jay, but one of the things that I'm so excited about is that, you know, families can choose to go spend a session in another campus. Yeah, that is really cool. You know, like if you're in Austin and you want to go spend the winter session in Santa Barbara, boom, you can do that. How cool is that?
+
+It's pretty cool. I wish I had been able to do that. The other thing is, when we talk about all these incredible guides that we've been able to recruit and hire, getting the best people both in and outside of education, they want to come work for a growing school organization that's doing cutting-edge, innovative things. You know, you think about in the traditional school world, teachers are leaving the field in droves. Right.
+
+And our ability to recruit these people is because we are the future of education. We're growing. And so, really, we're not scaling despite quality. We are literally able to maintain and increase quality because of our scale. Wow.
+
+Okay. Makes sense. So, that's cool. So, basically, here's another question that we ask. You know Alpha gets a lot of hype, right?
+
+We get a lot of attention. We get a lot of podcasts. We get a lot of news stories. Our Instagram does really well, future of education, all that. But here's the real question that we always are asking ourselves.
+
+Are we really delivering? Right? It's one thing to get hype, but are we delivering? And the answer from parents is very clear. So, 80-plus percent of new families say that Alpha is exceeding their expectations.
+
+Exceeding. The most common no response for the people who ask no is, I already had super high expectations. Like, I came in thinking you guys got to be the best. You're meeting my super high expectations. Wow.
+
+And then the other thing is, 85-plus percent of families in new cities are referring friends and family. That's key. That's key. Yeah. Right?
+
+And that's one of the things we really believe. We can have all the hype in the world, but you need to talk to a family who's got a student in the school that's seeing a difference in their kid's life. And, like, this is the real deal. And so, I'm very excited about that. Wow.
+
+It sounds like this survey was kind of a home run. It's very cool. Actually, we had one of the quotes that I thought was cool was, we thought it would be great, but it has far exceeded that for our family. It has been life-changing. And I don't think there's been a week that has passed that I haven't found myself in tears of utter gratitude.
+
+Wow. I know. It's so cool. So, basically, they're super excited about what's going on, which I am very excited about this. But, here's what we're doing in 2026.
+
+Can you guess what our focus is going to be in 2026? I have no idea. You should absolutely know. Here's what we do. Every day, everybody in our organization wakes up and says, how do we make sure we're delivering the three commitments to every single kid?
+
+Because if we can focus on delivering the three commitments for every kid, the rest will all fall into place. Number one's always my favorite. Kids love school. Love school. Yep.
+
+And they do. The kids do love school. I mean, I see these kids in all the cities. They love school. And it really is because of the guides.
+
+They make it fun. It is absolutely because of the guides. They make it so much fun. The guides are so great on that. And so, yes, it is love school.
+
+And it's learn 2X in two hours. Learn life skills. And then develop life skills. And so, I'm really excited. Now, 26 for me is actually kind of a big year because this is going to be my last year as an alpha parent myself.
+
+My daughter is going to head off to college next year. But, you know, that's, I think, what makes this so special is, like, I firsthand have seen the results of this environment in my two girls. It has been truly life-changing for our whole family. And it's so awesome to see. And so, now what's so fun is to see all these other kids and to meet kids from all over the country that are getting to experience this.
+
+And it's so exciting. And so, I'm super thrilled with, you know, the families that have entrusted us to be a part of this venture, right? And to be a part of the future of education. It's really fun. And so, I think 25 was a really great year.
+
+And I think the first half of the school year has shaped up to be really good. And I'm super excited about all the things that we are delivering in the second half and the places where we're going to continue to improve. That's amazing. But I also have something that's amazing. That's a fun random fact.
+
+I was just talking with Kara, who is admissions. Yes. And it just dawned on me, like, there seems to be so many people moving just to Austin or to Miami or to New York just to go to these schools, your alpha schools. And I was like, where are the places that people have actually moved from just to attend a school? Oh, did you find out?
+
+And so, she started rattling off. She said, off the top of my head, she goes, and this is just the high school here. Yeah, just the high school. Australia, Mexico, Jordan, Switzerland, Canada, Germany, Singapore, Florida, Kentucky, New York, California. No way.
+
+And I was like, that's pretty cool. And I actually know we had someone move from Colorado, someone moved from South Carolina. Yeah. No, it's absolutely insane. So, 2026 is going to be a great year.
+
+We're also getting ready to announce some new campuses. So, people that are listening from other cities where we're not there yet, your city may be next. They're excited about it, I can promise. Jay, you and I have a lot to do. We've got a lot of campuses to visit.
+
+We've got a lot of social media stuff to do. We've got to figure out how we're going to get to 10 million followers. Yep. And so, we've got a lot to do this year. Are you ready?
+
+I'm ready. Let's go. Woo-hoo! Thanks for listening to Mackenzie Price and the Future of Education podcast. If you haven't hit that subscribe button, now is the time to do it, so you can stay up to date on all our episodes.
+
+You can connect with Mackenzie on social media and be part of our daily conversation over on Instagram at futureof underscore education. For more info about the show and our guests, you can always visit futureofeducationpod.com. Lastly, if you're loving what you're learning, please leave a review wherever you listen to podcasts. We'll be back in your feed soon, but until then, remember, kids are limitless, and it's our job to unlock their potential.
+
+---
+
+## SOURCE: future-of-education-s2e307
+
+- Title: Future of Education — S2E307: MacKenzie's Advice Column: Answering Your Questions (Part 1)
+- Attribution: Tier A direct MacKenzie voice; audio-backed Whisper transcript
+- Status: usable draft corpus; needs audio spot-check before final lock
+- Source file: transcripts/future-of-education-podcast/cleaned/s2e307.mackenzie-only.md
+- Word count: 3050
+
+Today, you just get me for a solo episode. I have taken a lot of the questions that have come in from listeners and from people on Instagram and I'm gonna spend some time just answering questions. By the way, I just love the fact that you take such an interest in what you can do to help your kid on their education journey. I know that there's people who listen from all over the world who are never gonna set foot in an alpha school because we're not in that many places. But what I wanna do is hopefully give you a little bit of advice and maybe some ways that you can put some of the spirit of what we do at alpha school into your own homes and classrooms.
+
+So let's go. Are you guys ready?
+
+All right, first question. How can I help my brilliant and bored son who is in third grade until an alpha school opens up here? Well, first of all, I have so much empathy for this question because that is exactly where I was at when I started getting frustrated with the education system. My two daughters were both really bright and they were so bored. And so that's really when people asked me like what made you start the school?
+
+I was like, I just can't watch kids sit and be bored. That said, I know that not everyone's got that option to go find a school that is awesome. However, a couple of things I would encourage you to do is look around in your town just to see if there's any other schools that are popping up that maybe could focus a little bit more on helping kids find that passion and interest. There are microschools coming up all over the country. Also tell you what I did as a mom was I made sure to kind of pack the time when I did have my kids at home with other things.
+
+So for example, we ran after school science clubs where I would invite the neighborhood kids and friends from my daughter's class to come over and we'd do just random experiments. And that was anything from like we're baking blueberry muffins to we're doing something we saw on the internet. Sometimes I would have an expert come in who was maybe another parent. I remember I had a teacher show up one time and the goal was just to make like fun experiments. I also think so many of the life skills that our kids learn are from the cool extracurricular activities that we do.
+
+But here's the key thing that I would just encourage any parent to focus on. Make sure you're connecting kids with things that they truly have a passion and interest in. Not just the things that like, hey, everybody in our neighborhood signs up for soccer. So we're doing soccer. I remember my oldest daughter, she did one season of soccer.
+
+It was quite clear she did not like soccer. And you know what, I didn't make her go do more soccer just because that's what all the kids were doing. Find those things. In fact, I have a friend who got into, her daughter was really interested, loved horses and loved archery because she'd done some archery during like a day camp she'd gone to. She ended up becoming a nationally ranked horseback archery person.
+
+I didn't even know it was a sport, but it's an example of something that is pretty cool that can be done. And so I totally feel for you. The other thing is there are some great apps that are out there where your kid could, maybe go find some things they're interested around applying math or whatever subject he's interested in. I remember when my daughter was in second grade, she got really interested in the Revolutionary War because her grandma had given her a book about the American Revolution. I had gone to the school and said, hey, could she work on a project in school?
+
+The teacher said, nope, she cannot. But I kept kind of going at it. And eventually what we did was we worked on a project at home and we got the teacher to give us 10 minutes, a whopping 10 minutes of time for her to present in front of the class, which was a fun thing for her to do as a second grader. So all that to say, I really hope we'll get an alpha to wherever you are. And in the meantime, just try to help that really brilliant kid of yours to just find things that he's interested in, excited about.
+
+Here's another thing that's actually pretty cool that I think sometimes people forget to do. YouTube is something that is such a fun thing for parents and kids to watch together. Like go watch these experiments that people do on YouTube, watch some of the challenges that they do, and do them together and then use those opportunities as a time to be able to maybe ask questions. Like, well, what would we do if we were trying to build a squirrel catching device like Mark Rober did? By the way, I got to talk with him the other day.
+
+That was pretty cool. He's gonna do some work with our science curriculum at Alpha, I know. Super exciting. He was here. He was here.
+
+I actually wanted to get him on a podcast, but I was busy and he was busy. All that to say, just find things that your kid's excited about and find ways that you and he can connect on going deeper into subjects, figuring out how to become an expert on that. Okay, this next question is from a student. And I love when I get student questions because I love the fact that there are kids out there who are saying, hey, how can I take ownership and control over my education? And so this question actually is, how can I become a student who is able to make decisions for their education on their own?
+
+Okay, I'm gonna give you a couple of examples. So at Alpha High School, we have high schools popping up throughout the country, but Austin, Texas is where our main high school is. And we've had at least four students who have reached out to me directly on Instagram and said, hey, I want to become a student at your school. And those students have gotten full scholarships. They absolutely came in and said, I'll figure this out.
+
+Let me work on this, let me get to know. They went through the interview process, they did everything. And I said, what about your parents? Do they care? And he's like, I'll work on my parents.
+
+And so their parents kind of came in towards the end of that experience. But I love the fact that I had students who reached out directly to me and just said, I want to be in an environment that helps us and how can I make that happen? And I think that's a great thing to do. And so the best thing you can do is arm yourself with research. When you're thinking about what is it that you want to do in terms of your education, maybe you're going to the local public high school and you want to transfer into another district school or you want to try one of these micro schools or maybe you want to do online or home school, come up with research that you can then present to your parents around, here's why I believe that this path is going to be best for me.
+
+And as part of that, figure out what are your priorities? What do you care about? What do you feel like you want to focus on? And I think when you present that in a way where your parents kind of understand this kid is really thoughtfully going about this decision and figuring out where the right environment is going to be for him, I think your parents will be willing to listen to you. Okay, here's another question I often get.
+
+How could I implement something like your school in my public school classrooms? So this comes from a teacher and teachers, you guys are awesome, you're absolute heroes. You know, I say it all the time, you're overworked, you're underpaid and you're underappreciated. So I love when I hear from teachers saying, how can I bring a little bit of the alpha spirit into my classroom? And I'm gonna give you a few tips of things that you can do.
+
+So first of all, motivation, in our opinion, is 90% of what creates a great learner. It's being a motivated student. And so there's a lot of different motivation mechanisms and models that you can put into your classroom that can help kids get excited and they don't have to be expensive. They can be as simple as earning stickers. And I'm telling you, we even do a sticker motivation model in our high school and our high school students get excited.
+
+My daughter, who was a senior came to me and she's like, look at this amazing super cool Taylor Swift guitar sticker that I got when I earned all my points for the day. And I remember being like, you're 18 and you care and she's like, but you've never seen this Taylor Swift sticker. And it was, it was really cool to see. And so you can do a lot of different things, earning time to go do things, earning the privilege of how you work. Maybe you create a classroom where you've got like a really cool space, beanbags or something that's comfortable.
+
+And as kids get their work done and earn their privileges, they get to earn time to go work in that area. That's something we absolutely incorporate a lot. And so I think motivation is something that unfortunately traditional schools don't pay any attention to. And what are the things that you can do for individual or group motivation type of projects? That's something that I would absolutely encourage that you implement.
+
+You can even do an in-school currency. We pay our students, you can do an in-school currency. And then maybe that money that kids earn at the end earns them the ability to go do a volleyball game in the park on a Saturday morning altogether. And you figure out how to get maybe parents to chip in to bring a pizza or something like that. So there are ways to do it.
+
+It does require some creativity and extra work, which I know that you teachers already have so much of. But there's things you can do there. Here's a question from somebody who has started their own micro school. And the question is I'd love to use more AI in my micro school, but I don't know where to start. So there's two uses of AI that we're doing within our schools.
+
+The first use of AI is that we're using AI to create individualized lesson plans and provide assessment and direction for students when it comes to their academics. And we're using a lot of adaptive apps to do that. So that might be something you're thinking about trying to implement. I do have good news for you. Our time back learning platform is going to be putting out more and more software and apps that you will be able to use and download from the app store.
+
+So keep an eye out for that because it's coming. But the other way that we use AI is part of our afternoons. We're teaching kids how to use AI tools to do what we say is give them superpowers. So for example, we do public speaking workshops where our students are working on public speaking. I was just in our four year old class yesterday.
+
+We were having a parent meeting talking about some of the upcoming workshops. And we were talking about the public speaking workshop where these four year olds in six weeks are gonna be able to speak in front of an audience of 40 plus people that they don't know. And we're gonna be using some AI tools to help them with feedback on their projection and their eye contact and how they're speaking and helping them memorize the speeches that they're gonna be giving. This is all wrapped up into like a about the world culture kind of learning thing that they're gonna be able to do research with their parents about maybe where their family's from or something like that. And so they're using tools like that.
+
+Here's another thing that we're doing. We're doing a growth mindset workshop with our four year olds as well. And the test to pass at the end of the workshop is that these students will be able to complete a Lego set for 11 year old plus kids. So these are four year olds. And where we're using AI there is we're using AI to record what they say to themselves as they're going through this Lego setup process and then be able to provide coaching around how we can implement more growth mindset stuff.
+
+So if they get frustrated or if they ask for help, what are the ways that we can coach them? That's some of the stuff we're doing within our classrooms to help with building out life skills. Then there's the other part of AI usage that we're teaching is that kids can learn to do things like vibe coding to create video games or movies and videos or building out graphic novels, building art through AI tools. That is something that is gonna be such an important skill for young people to have as they go out in the world is not just the ability to know about how to use AI tools now, but how to constantly be up to date on the newest and best technology. In fact, I'm seeing this in my own job is that a tool that wasn't good two weeks ago is now suddenly so much better.
+
+So we're always helping students kind of learn how they can use AI tools in really positive and healthy ways. And that's something that you can be doing. Now, part of that requires you to also become an expert in all the latest and greatest AI tools. Here's a question that I get a lot from parents who are really worried about screen time. And this question is, how can I balance recommendations for screen time limits for four and five year olds with AI learning?
+
+Let me tell you very clearly, there are lots of differences in types of screen time. Not all screen time is created equal. So letting your kid brain rot, watching YouTube videos by themselves or watching TikTok or as a four or five year old just watching cartoons endlessly, that is something very different than giving your four year old an ability to start working on math. So for example, our four year olds in our pre-K classrooms are using Mentava to do some reading lessons that they're working on. They're also working on math apps.
+
+And what's amazing actually, is in only the first half of our school year, our four year olds have already completed their pre-K content for both math and reading. So these kids are coming in so far ahead of the game and they've still got four months before the end of the school year when they'll then graduate to be kindergartners. And so you can have your kid do 15 minutes a day of math or 15 minutes of reading and phonics. Now, one thing I do want to provide as a disclaimer, for young children, four and five year olds especially, there is nothing better than human reading and connecting and reading with your kids, making sure that they're understanding how to use phonics. So we do a lot of that at that age group.
+
+You cannot just solely rely on an AI app to teach your four year old to read. It's really important that you have that human time. But the other thing is you can also do screen time with your kids where they're working on creative endeavors. Maybe they're looking at some sort of art project, something like that. So I think the thing that I would maybe recommend as a parent is just when you hand your kid an iPad or you put them in front of a computer screen, think about what it is that they're doing.
+
+Are they sitting passively where they're just consuming content or are they engaging actively in what it is that they're working on and are they learning? That's the thing I'll think. I do know it's a hard thing. I remember when my kids were young, that's right about the time that we started having phones come out that you could watch videos on. And it felt so easy to just say, here, take my phone.
+
+And it made having dinner a little bit easier, something like that at a restaurant. I never allowed screens at dinner at home, but I definitely fell victim to it at restaurants a lot. And so these are things that we just, there's a lot of balance. But again, not all screen time is equal. That wraps up part one of this episode, but don't worry, there's a part two coming soon.
+
+Thanks for listening to Mackenzie Price and the Future of Education podcast. If you haven't hit that subscribe button, now is the time to do it, so you can stay up to date on all our episodes. You can connect with Mackenzie on social media and be part of our daily conversation over on Instagram at futureofunderscoreeducation. Lastly, if you're loving what you're learning, please leave a review wherever you listen to podcasts. We'll be back in your feed soon, but until then, remember, kids are limitless and it's our job to unlock their potential.
+
+---
+
+## SOURCE: future-of-education-s2e308
+
+- Title: Future of Education — S2E308: MacKenzie's Advice Column: Answering Your Questions (Part 2)
+- Attribution: Tier A direct MacKenzie voice; audio-backed Whisper transcript
+- Status: usable draft corpus; needs audio spot-check before final lock
+- Source file: transcripts/future-of-education-podcast/cleaned/s2e308.mackenzie-only.md
+- Word count: 2491
+
+First of all, the idea that we do not use teachers to teach academic content to students in a teacher in front of a classroom model, and that is something that just feels so hard for people to get their heads around because we all grew up in that system and we've always been told like a great teacher is the key to learning something. Welcome to the future of Education Podcast, hosted by Mackenzie Price. Mackenzie is the founder of a revolutionary new school model that's disrupting education through AI. Join us as we discuss the latest in education innovation. This next question is from a parent that is super engaged and excited.
+
+The question is, what should I start with? I have a one-year-old. All right, mama or daddy of one-year-old, here's the best advice that I can give to you, play and love and read to your kid like nobody's business. That is the best thing. Get your kid out, getting dirty, let him go play in the mud, go explore, go find worms, go find tadpoles, do all that kind of cool stuff.
+
+I promise you all these AI tools are going to be around in a few years when your kid's getting a little bit older and you're going to be able to jump on the education train. But the best thing that you can do with your one-year-old is just love them like crazy, play with them like crazy, and read to them like crazy. Ooh, I really love this next question. What is the first and biggest mindset change that parents and children need to have in our schools? And here's what I always tell people, as a private school, families will apply for admission, but we don't actually base our admission on what kind of grades they had or where they scored in their transcripts or where they already were in their assessments.
+
+Our biggest thing that we focus on is philosophical alignment with our model of education. And so there's probably two things. First of all, they have to change their mind around the idea that the best way to learn is with a teacher in front of a classroom. And that's hard because we all grew up in that system. So I think that's kind of the biggest thing is parents need to understand like this is different, but it works.
+
+Now, the other big mindset change that parents and kids need to get really comfortable with is all around the idea of failure, that kids can be challenged, they can do hard things, and they can fail, and they can learn so much from that failure perspective. It actually ties in with one of our parent tenants, which is support, don't solve. We tell parents, hey, you can support your kid, but don't go in and solve their challenges for them. Allow them the opportunity to learn and struggle and fail. And we even say sometimes cry on their road to success.
+
+I'm going to combine two of these next questions that I got. The first was, do you have an alpha homeschool program? And the second was that they are looking for an online alpha based school for performing arts for their kid. And here's the good news. Yes, we do have a homeschool program.
+
+It's called Alpha Anywhere. It's currently for third grade through eighth grade. Those grades will be expanding over time, but right now we're at third grade through eighth grade. And so regarding the performing arts part of it, one of the things that our families in Alpha Anywhere are absolutely loving is the fact that they can spend two hours getting their academics done and then spend the rest of the day doing all these other things. So we have students who are interested in building out businesses.
+
+We've got kids who are doing really hardcore athletics. We've got kids who are doing performing arts and theater and music. And they're able to spend their afternoons doing that. But there's something else that's really exciting that's happening. In Texas, we are launching a virtual program for students to be able to do our alpha school either through Texas Sports Academy if your kid is interested in sports or our GT school program, which is for gifted and talented kids.
+
+And families as part of that program actually get money from the state to put towards the physical training that their kids are doing or the GT type academic training that they want to do in the afternoons. The reason we're able to do that just so you know is because of the school choice efforts that have happened in Texas. So we'll be rolling those out to other states that have that school choice opportunity. If you want more information on alpha anywhere, you go to alpha anywhere dot co. Oh, this is a great question that I really love to talk about.
+
+A lot of people will say is music like orchestra or band available at an alpha school? And here's the answer. Yes, we have so many awesome music opportunities, but they don't look quite like traditional school looks like. So for example, we've got kindergarteners who are doing a piano lab workshop where they're learning piano instruction on a keyboard and then they're creating their own songs and they're using AI to notate those songs and then perform them. We did the same thing with a great panel workshop with our fourth and fifth graders too.
+
+That was really fun to see our middle school students have been doing these awesome school of rock things where they're not only learning how to play musical instruments, writing original songs, learning how to play together, but then they have to market their band. They have to create the brand for their band and their hosting events. So they get to kind of combine some event management and some marketing management along with what they're doing. We actually have a student in Scottsdale. She's 10 years old.
+
+She released her own written song that was produced. It is called Feet on the Ground. It's called Feet on the Ground. It's on Spotify and it's so totally good, you guys. I'm serious.
+
+Ruby is a little star. I swear we're going to see her at the Grammys in a couple of years because she is fantastic. And so our students get a lot of opportunity to try out musical instruments and do things, but they're not doing traditional orchestra or band that you would see in traditional schools, but they get a ton of musical stuff. We've got great acting workshops that our students engage in where they're doing theater and things like that. We always tie in with our life skills workshops though, some other skill that they're doing.
+
+So, you know, with an acting workshop, it's obviously public speaking is one of the things. It may be building something out, writing their own play, writing their own music, things like that. Oh, and you know what? It turns out I just looked at my iPad and the next question was, do you do acting? Yeah, we do acting.
+
+In fact, I will tell you yesterday was the anniversary of my oldest daughter's debut as the lead Annie in one of the plays that we did. And it was back in 2015 and it was so cute. Here's an interesting question. I get a lot of people wondering about how we're going to expand our education system. And this question is, do you think that your education system would work in any country?
+
+The short answer is yes, I do believe it could work in any country. The longer answer is there's got to be philosophical alignment with a couple of key points around our model. First of all, the idea that we do not use teachers to teach academic content to students in a teacher in front of a classroom model. And that is something that just feels so hard for people to get their heads around because we all grew up in that system and we've always been told like a great teacher is the key to learning something. So you have to believe that now we believe a great teacher is key to our success as well.
+
+The difference is they're focusing on motivation and emotional support, not on conveying academic content. So that's one of the big things. The other big philosophy that you have to be okay with is the idea that it only takes a couple of hours to do the academic content when you do it in our model. And so you have to be willing to allow the rest of the day to be done differently. And so I've had conversations with school leaders from all over the United States and all over the world who say, wow, we'd love to take your two-hour learning program and use that in the morning.
+
+And then the rest of school day will still do more math, science, reading, language, because that's just what they believe is developed. For us, what we're doing is we're giving kids our most valuable resource, which is time back to go do all these other cool things and develop life skills. We're not trying to cram in more academic time. And that's something that just from a philosophy perspective, we have to do another kind of interesting thing around countries. So we've done a program in Malawi with refugee students.
+
+We've done a program in Eastern Europe with Ukrainian refugee students. So we have had this type of model work with great success in these other countries. And they've implemented so many of the motivation models that we use at Alpha. Obviously, though, we do need internet, you need computers, those types of things. I also got a few questions from you around the whole idea of college and how do we prepare kids to be successful in college.
+
+And we should actually do a totally separate podcast around college. And the philosophy that Alpha has around how our kids are getting into top tier universities. In fact, we just had two early acceptances to Stanford University, my alma mater. Pretty exciting go card. So that was fun to see.
+
+But here's the question that I wanted to address was, do extracurriculars make up for average academics when it comes to going to college? And I think one of the things that I noticed parents have is this very ingrained belief that in order to get into college these days, you have to have perfect grades and have taken as many AP courses as possible and have high SATs and just really, really focus on the academic part of it. And here's the thing, especially in top 20 universities, all of that academic stuff is table stakes now. Like lots of kids have taken a bunch of APs. Lots of kids are able to get great scores on their SATs.
+
+And so while it's important and what you need to be able to do is show that you have the ability to handle the academic rigor of a university by having that. The key thing is to really stand out in some other way. And that's often through extracurricular activities. Now extracurricular activities aren't the same as they used to be either. Back when I was in school and being the captain of the debate team or on the varsity tennis team, you know, those were the things we wanted.
+
+I think what universities are really wanting to see are the kinds of things that our students are able to do at Alpha. Something that's very unique, something where they've really taken an interest or a passion that they have and they've gone and become experts and done something big with it and made an impact. I also know, and I talked to university admissions people on a regular basis, they want to know how you as a student are going to impact the school's community. And so those are the things to think of. Last piece of advice that I'm going to give to parents listening to this, especially at the high school level.
+
+You cannot force your kids to do what you think is what they should be doing. Find the thing that they're excited about, that they're passionate about, and encourage them to go big. Now you can still have a high standard of excellence for it, and you can give them support for this, but you cannot make your kid go do things. I am on a college admissions Facebook page, and I'm amazed at how many parents are literally trying to live their children's life for them very blatantly against their children's even wishes. And please stop doing that if you're one of those parents.
+
+Don't do that. Instead, help your kid find the thing that they love and help them develop the desire to be self-driven because they're excited about their passion. Again, you can still have high standards for them, but help them go find the thing they love. So if you're a control freak, which I am too, by the way, channel that energy instead of saying like, you must do this, channel that energy into helping them find the thing that they're excited about and love. And it may take a few tries.
+
+It may take things. My daughter's a great example. My youngest daughter, she used social media as her main extracurricular. What person in the world would think, oh, I know. I think my daughter should just spend all her time on TikTok.
+
+Well, 2.3 million followers later and a lot of success. It turned out that she was able to channel this interest she had in this past time into something really, really helpful and really valuable. Okay, thank you so much for so many of the questions that you got. This was really fun. I loved watching these come in on my stories when I posted this on Instagram.
+
+And feel free to keep them coming too. We love getting to read the messages that you send. And we'll do another one of these if you guys liked it. So have a great one. Thanks for listening to Mackenzie Price and the Future of Education podcast.
+
+If you haven't hit that subscribe button, now is the time to do it. So you can stay up to date on all our episodes. You can connect with Mackenzie on social media and be part of our daily conversation over on Instagram at futureofunderscoreeducation. Lastly, if you're loving what you're learning, please leave a review wherever you listen to podcasts. We'll be back in your feed soon.
+
+But until then, remember, kids are limitless. And it's our job to unlock their potential.
+
+---
+
+## SOURCE: future-of-education-s2e331
+
+- Title: Future of Education — S2E331: Why We Don't Say the Pledge: Keeping Politics Out of Education
+- Attribution: Tier A direct MacKenzie voice; audio-backed Whisper transcript
+- Status: usable draft corpus; needs audio spot-check before final lock
+- Source file: transcripts/future-of-education-podcast/cleaned/s2e331.mackenzie-only.md
+- Word count: 3875
+
+My special guest today is yours truly. I wanted to have a conversation about something that has been coming up a lot recently, and I think it's important to kind of address what I think of as the elephant in the room, which is where does politics come into play when it comes to education? , hosted by Mackenzie Price. Mackenzie is the founder of a revolutionary new school model that's disrupting education through AI. Join us as we discuss the latest in education innovation.
+
+I have shown some videos on my future of education recently. For example, we had a student who was invited to attend the State of the Union address by the First Lady of the United States, and multiple people reached out and said, that is absolutely horrible. I'm unfollowing you. How dare you let your student do this? And my response, and I actually did engage in DMs with some of these people where I'm like, well, first of all, that's not my child.
+
+That is a child who goes to one of our schools. Her parents are the ones who have the ability to make a decision on this. And secondly, I also think it's kind of an honor to be invited to any State of the Union, no matter who's in power. And there's just things like that. I also often will get people saying, hey, you need to make this public.
+
+You need to make this product accessible for everybody. But then if I say, hey, I'm interacting with the Secretary of Education or speaking with the governor of Texas or something about that, people then say, oh my gosh, this is terrible. You can't do it. And what I really want this to serve as is sort of a call to action that we rise above, because I think that education should be a nonpartisan issue. If we really think about our fundamental goals, we want to unlock kids' potential.
+
+And that should be something that both sides of the aisle are willing to focus on and engage. So when people ask if my schools are partisan, and it often will come in like very direct ways. The one question will be like, are you one of those woke schools that's teaching these crazy things? Or they'll be like, are you a terrible MAGA running in the pocket of the Secretary of Education school? And it's like, whoa, whoa, whoa, whoa, whoa.
+
+Let's stop. Here's my answer every single time. We are all about kids loving school, learning twice as much in two hours a day by using AI apps and spending the rest of the day learning life skills. And here's the thing that we found as a result of that. The families that go to our schools come from all different ends of the political, religious, and social spectrum.
+
+But here's what unites them. They all have decided, you know what, I want my kid going to school in a place that is focused on delivering those three commitments. And I just love that, that we don't have to be a place that is trying to put our values into the students that come. We do believe that families should be the ones who are engaging in those discussions and shaping what values their children have. That should not be a school's place to do it.
+
+Now, here's what a school should do. A school should make sure that kids are well-educated from an academic perspective, because we believe that in order to be a great critical thinker, it is imperative that you have knowledge in your brain upon which to draw from. Because you know what critical thinking is without knowledge? Hallucination. Just like what we're concerned about when we think about, you know, AI doing something like that.
+
+That is super important. So that's why we say, okay, we're going to make sure kids are getting their academics not just done, but they're crushing their academics because that helps them as they're going out and making sense of the world. The other thing we believe is that there's a lot of life skills that are really important when it kind of comes into this world. For example, the idea of being able to discuss and have an engaged discussion with someone maybe that you disagree with. That is a skill that so many people would be really well-served to get a refresher course in.
+
+And so that is an important thing that we want our kids to be able to learn. Here's some examples of ways that we are teaching that ability to have those skills. We have something called both sides. This is where a kid will research and learn and put together some sort of a presentation or a pitch about something they feel really passionately about. And then we have them do the same level of research and understanding and pitch on the exact opposite side of things.
+
+And that way, if anybody is going to go up and stand for a cause that they believe in, they need to be able to relate and understand to what the other side might be thinking. A place where this often comes up as well is in our town halls. So every week in our levels, remember levels are basically grade bands, kindergarten and first grade, second and third grade, fourth and fifth grade, sixth, seventh and eighth grade, high school. We have something called town hall. Town hall is basically the way that our students are able to govern themselves.
+
+It's where they will come up with community standards, where they'll propose rules or changes to the culture, where they'll address things. And we use that philosophy of both sides when we're going to town hall. So maybe it's something super dramatic, like we shouldn't allow no shoes on. Maybe it's something super dramatic, like kids should never allow to have their shoes off. But then also they need to be able to present, well, here's some of the reasons that we see this could be beneficial to allow, you know, shoes to be off during these times.
+
+Or here's what we can do during free time. Here's how we decide who plays what games and be able to answer that. Anytime that you're having a debate or a conversation, it's so important to be able to relay what the other side would be seeing. You know what else that ends up doing? It ends up creating a space where people have empathy and understanding of each other, where we start to see each other as human beings, not as just the opponent.
+
+So that's something that we think is really important. We also think that being able to give and receive feedback in a way that is respectful and engaged and helpful. That is something that we think is important to teach. Those are all skills that end up helping kids as they're going out and formulating their opinions in the world. Here's another example of something that I received a complaint about.
+
+And this was from a prospective parent who was considering going to one of our schools. They said, why is it that your kids aren't doing the Pledge of Allegiance each day in school? You know, in general, shouldn't we be pro the United States and shouldn't we be teaching kids the Pledge of Allegiance? And I will say my first reaction was kind of like, huh, I don't know that we'd actually thought about it. We've been so busy doing our limitless launches and having our kids work on their academics and doing life skills workshops and building a culture around growth mindset and supporting each other and all that stuff that it was just like, huh, we don't like sit at the beginning of the school day and listen to school announcements and everybody stand for the Pledge of Allegiance.
+
+But then I thought about it a little bit deeper. And I was like, you know what we do? We're teaching kids civics. We're teaching history. We're teaching a lot of event information that is helping kids kind of develop and form their thoughts and opinions.
+
+Do I believe that, you know, people in our country should be respecting the country they live in? Sure, absolutely. Do I believe that saying the Pledge of Allegiance is what inspires kids to have that respect? I don't know. Probably not, since it's not something we've decided to really incorporate.
+
+I instead think that filling kids' minds with good information that allows them to then create their own ideas and thoughts and values is something that's important. There's actually an app that we have created that is teaching civics in a really fun, engaging way. It's something that we're going to be providing in the app store that people will be able to download. It's kind of almost think TikTok, but for civics. And I think that is kind of the way that we're combating.
+
+But I don't believe that just having kids recite a pledge every morning is truly teaching kids the honor, duty or whatever of the United States of America. It's just like, gosh, we have so many other things that we're doing that are really teaching. And, you know, I think that also sort of, it sort of points to the way I think about so much when it comes to education and school. When we built Alpha, we didn't build it with the idea of like, let's take everything in school and just like make a little tweak. We really said, okay, if we're going to blow up this whole traditional school model and we get to start over from the very bottom foundation, what are we going to build?
+
+You know, it came down to the fact that we believe kids are limitless, that school should be an environment that helps unlock their potential. And so what do you do as a result of that? And we really started, you know, from scratch saying, all right, what does that look like? And that's the way that our school day runs. So there's probably very few things that we really took from traditional school to say, well, we got to make sure we do this or we got to do this.
+
+You know, we got to have field day. We got to have, you know, whatever the heck. It's like, there's lots of things we just didn't do. So when I think about the idea of where politics comes in, I don't believe it should have a place in the school experience. Again, I think families are the ones who should be informing around those types of values.
+
+School should not be the place that we do that. Here's another example of that. Guide's purpose is to make sure kids are loving school, learning twice as much in two hours and building life skills. We have generally been able to figure out how to create a culture and environment where everyone looks and says, these are the values and the commitments that we're going to hold ourselves to. And the rest of it sort of falls away.
+
+Now, I understand there's a lot of other schools out there who do have different opinions about how these things come out. You know, I guess that's the beauty of having a lot of different choice to find a school that makes sense. But for us, I would say we definitely believe that families should be the ones kind of making those things. Now, let's kind of hop back. You know, the cool thing about me doing this podcast with myself is I get to go wherever I want.
+
+I don't have my producer, Jay, sort of guiding this. But let's jump back into the other thing, which is how do we make sure that this model of education could maybe expand? And, you know, where are we going to? Well, if we're going to really make a big difference, at some point we would need to look at going into the public sphere. And so far, that's generally been a place that I haven't had a lot of success in.
+
+You know, I applied for charter status in 10 states. And charter status, just for your understanding, would allow students to be able to attend our schools for free because it would come from public funding. We only had one state, Arizona, that was willing to take a bet on us. Shout out Unbound Academy. That's the school that has been in operation since the fall of 2025.
+
+And that is a school option that, again, Arizona residents get to access for free. Now, there's oversight that comes with that. And so at the end of our first year, we'll be showing our test results. We'll show how kids have done within the system, which, by the way, I think is really important to make sure that anything that's going to go out in the public world is going to have good results. And we believe that ours will.
+
+But we're going to need to also make sure that we're working with state, city, and maybe to some degree, you know, federal agencies to try and make this model work. And my opinion, again, is that I want to highlight our model and its effectiveness to anybody who will listen. And there's a lot of ways that I try to do that. I have been fortunate to be able to have conversations with politicians, actually on both sides of the aisle, both Republicans and Democrats, who have been interested in this. I have been invited to go on news shows from CNN to Fox.
+
+And I want to make sure that we're getting that out. Because again, I don't think that education should be a partisan issue. Now, there's a lot of other mud that goes into the politics side of things when it comes to education. There's everything from the idea of school choice, which generally has been something school choice basically allows government funds to go with a family to be able to send their kids to whatever school they want to. Generally, school choice is something that has been looked at as a more conservative kind of Republican platform.
+
+And often Democrats will say, hey, we don't, you know, we don't want this, support public schools. Again, I am family first in this situation. I think that families should be able to have funds available to find the model of education that works for them. I've tried a few other places in the public sphere to kind of get in. But you guys want to hear kind of a crazy one that happened.
+
+I've never talked about this before. But about a year and a half ago, there was a big vote happening in one of our local cities that was basically trying to get a bond passed that would go towards paying teachers better wages in the public system. And that's something I actually think is extremely important. I think that I always say teachers are overworked, they're underappreciated, and they are underpaid. And if we can make sure that money goes into their pockets, I think that only serves public interest well.
+
+And so one of the things that I did was I helped organize a group to raise money to support this thing. And it was literally called pay teachers more. It was like pay teachers very clearly, this is what the money that's going to raise. I actually reached out to the school district that was working on this and said, hey, I'd love to be able to help contribute to this and all with the goal of pay teachers more. And they refused to work with me.
+
+This was literally the whole goal was to pay their teachers more. And I wanted to help and I raised money for this cause and they were uninterested in working. Now I have to say, I think that is bonkers crazy. I can't understand how they can't get over, I guess, basically their issue of, you know, this is a private school system. And they look at that as competition, even when our goal was the same.
+
+I will tell you, I'm very happy that did pass. And so teachers were able to get a raise as part of it. While we're kind of spreading some of the maybe dark innards of things, I'll tell you another thing that's crazy. And maybe I've mentioned this before, but I can speak about this in Austin, Texas, which is where I live. The Austin Independent School District is constantly complaining that they have a budget crisis and that they've got a deficit and that they are needing more money.
+
+At the same time, they have a lot of school buildings that are empty. They're not using the school buildings anymore, either because of, you know, a lack of enrollment or the buildings aren't up to par at what they want. Those buildings are for sale or lease. They want to either sell those properties or they want to lease them out. Here's the kicker.
+
+We have tried to purchase or lease these properties from the Independent School District and they refuse to sell or lease to us. They absolutely refuse to do it. Now, why? I think they just are saying they don't want private school competition coming in. I think that's absolutely crazy because remember, taxpayers paid for those buildings.
+
+And when they paid for those buildings, they paid for them to be used for education purposes. And the fact that a school district would say, we would rather have these buildings sit empty and not collect the revenue than have kids be educated in them from some other way is crazy. They'd rather sell them to build condos or stores or whatever it is than allow those buildings to be used for education purposes. I think that's a really, really weird thing. I will tell you what I tried to do.
+
+This was in the spring of 2025. I got a bill and I was able to find some representatives who were willing to sponsor this bill to say that as long as the offer was at market value, fair market value, that first and best use for an empty building should go to education purposes. Unfortunately, that bill ended up dying on the floor and so we were never able to get that passed. But actually, I've talked to reporters and journalists and I've always said, if you want to do a story, you should do a story on that. And it's not just happening, by the way, in Austin, Texas.
+
+It's happening all over the country. So that's something that, you know, I think it's one of those just, hmm, things that make you go, hmm. Anyone know that song? You probably don't know that song. I'm here with my producer, Juliana.
+
+Things that make you go, hmm. Things that make you go, hmm. That was a song from when I was a kid. So some of you might remember that. And then a lot of you aren't.
+
+I'm dating myself here. But anyways, that's an example where unfortunately, I think politics does jump into things and it doesn't help the fact that kids aren't being served well and that we need to make education a higher priority. So those are a few of my thoughts when it comes to education and why I believe it should be a nonpartisan topic. And if there's any of you who are ever kind of watching any of my social media or see some news thing in what I do and you start to think, oh my gosh, I love the idea of this school, but I don't like it because somebody that I disagree with politically has either endorsed it or supported it or highlighted it, then here's what I would ask you to do. Maybe just take a minute and think, huh, what is the real goal here?
+
+What is the goal? If the goal is to educate people, maybe I should be a little bit more lenient and thoughtful around how we're pursuing these. Maybe the next time, you know, if you find yourself thinking that way, just take a second and reflect and think, huh, what is the goal here? If the goal is to help kids be well-educated, let's think about the best way to do that. If the goal is for us to make this education system more accessible, more scalable, that requires working in the public entity and in the public zone, there are going to be people on all sides of the aisle that are working towards this.
+
+I think it's an example of people just being very conforming to their identity politics. And I really think education needs to be something that transcends any sort of politics that we have and we need to focus. Now, I know this probably sounds a little bit like I'm trying to, you know, like, let's be above and beyond that. But I don't know. I feel like if we owe it to anyone, we owe it to our kids to try to come up with solutions that help across the board.
+
+So those are my thoughts when it comes to education and when it comes to politics, both in the classroom and relating to anything, you know, around school and education policy in general. And I really hope that this can be something that unites us across the board. So if you are still listening to this at this point, I'd love to hear your feedback. Send me a DM. Tell me how I should be thinking differently.
+
+I also like to understand both sides of any conversation. So tell me why maybe you think education should be a partisan issue or whatever it is. Also, if you have other topics that you think would be fun for me to just hop on, like this is kind of a cool podcast because I'm literally just sitting in the conference room at my Miami Alpha campus doing this on my phone. So I, you know, I actually am pretty good at randomly talking for unknown periods of time. So if you want more of that, shoot me a list of suggested topics and I'm happy to do it.
+
+Thank you so much. Thanks for listening to Mackenzie Price and the Future of Education podcast. If you haven't hit that subscribe button, now is the time to do it so you can stay up to date on all our episodes. You can connect with Mackenzie on social media and be part of our daily conversation over on Instagram at futureof underscore education. Lastly, if you're loving what you're learning, please leave a review wherever you listen to podcasts.
+
+We'll be back in your feed soon. But until then, remember, kids are limitless and it's our job to unlock their potential. We'll be back in your feed soon.

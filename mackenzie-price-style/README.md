@@ -4,6 +4,16 @@ Purpose: build a source-backed, reviewable drafting system for MacKenzie/Alpha-s
 
 Safety/product framing: this project should create drafts for review in a MacKenzie-inspired Alpha founder voice, not deceptive impersonation or unsupervised sending.
 
+
+## Current corpus version
+
+Status: **v0.2, expanded usable draft but not locked**.
+
+The v0.2 Tier A corpus contains **41,395 words** from **9 sources**, representing approximately **234 total minutes** of video/audio transcript material:
+
+- Modern Wisdom #981 video/podcast: 71 minutes
+- Future of Education podcast selected episodes: 163 minutes
+
 ## Corpus tiers
 
 - Tier A: direct MacKenzie voice (`direct-authored`, `spoken-transcript`, `approved-internal`)
