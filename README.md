@@ -1,5 +1,19 @@
 # MacKenzie Voice Tool
 
+Source-backed MacKenzie Price voice drafting and review-loop tooling for Alpha School communications.
+
+Status: **v0.2, expanded usable draft but not locked**.
+
+This repository contains:
+
+- a MacKenzie-only voice corpus
+- a first-pass MacKenzie voice guide
+- an installable AI skill
+- review-session materials for calibrating with MacKenzie
+- scripts for capturing feedback and turning it into training data
+
+The goal is not to impersonate MacKenzie or send unsupervised messages. The goal is to generate high-quality drafts for human review, then improve the drafting system from MacKenzie’s actual edits.
+
 ## Quick setup for Claude
 
 Clone the repo:
@@ -86,22 +100,6 @@ Draft in MacKenzie Price's voice only. Artifact: [email / short blog / social / 
 ```
 
 Research notes: Perplexity Spaces are the right target because they support project-specific custom instructions, uploaded files, and shared/collaborative threads. Third-party guides also note that Spaces are commonly used as Perplexity's closest equivalent to custom GPTs. See Perplexity Spaces references: <https://www.testingdocs.com/perplexity-templates-and-spaces/>, <https://airespo.com/resources/perplexity-spaces-explained-in-depth/>, and <https://mguhlin.org/2025/03/04/creating-custom-gpts-in-perplexity/>.
-
----
-
-Source-backed MacKenzie Price voice drafting and review-loop tooling for Alpha School communications.
-
-Status: **v0.2, expanded usable draft but not locked**.
-
-This repository contains:
-
-- a MacKenzie-only voice corpus
-- a first-pass MacKenzie voice guide
-- an installable AI skill
-- review-session materials for calibrating with MacKenzie
-- scripts for capturing feedback and turning it into training data
-
-The goal is not to impersonate MacKenzie or send unsupervised messages. The goal is to generate high-quality drafts for human review, then improve the drafting system from MacKenzie’s actual edits.
 
 
 ## Current corpus version
