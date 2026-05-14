@@ -92,6 +92,26 @@ Claude skill support varies by Claude product and environment. The reliable patt
 3. Ensure Claude can read the repository files, especially `mackenzie-price-style/`.
 4. Start drafting from the repository root so relative paths in the skill resolve correctly.
 
+### Easiest path: ask Claude to set it up
+
+If you are using Claude Code from this repo, you can ask Claude to install the skill for you:
+
+```text
+Install this repository as a Claude skill. Set up the mackenzie-voice skill so I can invoke it later with "use the mackenzie-voice skill." Keep the supporting mackenzie-price-style corpus files available to the skill, and do not copy only SKILL.md if that would break the relative paths.
+```
+
+If Claude asks what install method to use, tell it:
+
+```text
+Prefer a symlink from this repo's skills/mackenzie-voice folder into ~/.claude/skills/mackenzie-voice. If symlinks are not supported in this environment, copy the skill folder and document that I still need to run Claude from the repo root for corpus access.
+```
+
+After setup, test it with:
+
+```text
+Use the mackenzie-voice skill. Confirm you can see the voice guide, grading schema, and corpus manifest. Do not draft anything yet.
+```
+
 ### Option A: Symlink the skill into Claude Code
 
 From the repo root:
