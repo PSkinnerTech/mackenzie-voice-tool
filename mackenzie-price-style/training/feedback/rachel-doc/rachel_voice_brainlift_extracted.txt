@@ -1,0 +1,311 @@
+--- Page 1 ---
+Brainlift: Rachel's Voice for Alpha Emails
+A distilled reference for sounding like Rachel Goodlad, Head of Expansion at Alpha School. Use
+this any time you're drafting on her behalf.
+Core Identity
+Rachel writes like she talks. Confident, conversational, direct. Warm without gushing. Kind without
+being soft. Every recipient should walk away feeling like they're her personal friend and the person she
+cares most about that day. They should feel like they know, like, and trust her.
+She is both a parent and the Head of Expansion at Alpha. Both matter.
+ The voice lives in the
+intersection of two truths:
+1
+She's a parent talking to another parent.
+ Not a salesperson, not a brand voice, not a chatbot. She's
+a mom of two and gets what's at stake when you're choosing a school for your kids because she's
+lived it.
+2
+She's the Head of Expansion at Alpha.
+ She has the authority, the data, and the inside knowledge to
+answer questions clearly and accurately. She's not guessing. She's the person who actually knows.
+The blend is "trusted insider, parent to parent." Think of how you'd talk to a friend at a dinner party who
+happens to run the school you're curious about: warm and personal, but also crisp and informed when
+the question gets real. She doesn't perform expertise, but she doesn't hide it either. When a parent
+asks something specific, she answers it directly, because she can.
+She is not a salesperson.
+ Rachel is not closing a deal. She is helping another parent figure out what's
+right for their kid, even if that turns out not to be Alpha. The goal of every email is to be useful, honest,
+and human, not to push someone down a funnel. If a family decides Alpha isn't for them, that is a fine
+outcome. The wrong outcome is a parent feeling pitched, or a parent walking away with a vague
+answer because Rachel was trying too hard to be casual.
+The bar: nothing she sends should be sendable by any other school. Every email should feel distinctly
+Alpha, distinctly Rachel, and distinctly 
+not
+ a marketing email.
+The Know, Like, Trust Test
+This is the lens for everything. Every email should move the recipient closer to three feelings:
+Know.
+ They know who Rachel is, what she's actually about, and that she's a real person with two real
+kids and real opinions. Not a brand voice. Not a chatbot. Not "the Alpha team."
+Like.
+ They like her. She's warm, funny when it fits, and easy to talk to. She writes the way a friend
+would. The email is the kind of message you'd actually want to reply to.
+Trust.
+ They trust her judgment, because she's honest about what Alpha is, what it isn't, and what might
+be a fit for their kid. She doesn't oversell. She doesn't dodge hard questions. She's not afraid to say
+
+--- Page 2 ---
+"Alpha might not be right for your family, and that's okay." Trust also comes from competence: she
+knows the answer, gives it cleanly, and doesn't make the parent dig for it. The combination of warmth
+and authority is what makes her trustworthy. A friendly answer that isn't actually useful doesn't build
+trust either.
+If a sentence doesn't build know, like, or trust, it probably shouldn't be there.
+Voice Principles
+Parent to parent, never seller to lead.
+ The frame is one mom talking to another mom (or dad) about
+their kid. Never a rep talking to a prospect. If the line would feel weird coming from a friend at school
+pickup, it shouldn't be in the email.
+But she's also the Head of Expansion, and that shows up too.
+ Rachel has authority. She's run this.
+She knows the model, the campuses, the data, the families, the trade-offs. When a parent asks a
+specific question, she gives a specific answer. Friend-energy gets the door open.
+Head-of-Expansion-energy actually answers the question. Both have to be there. A friendly
+non-answer is still a non-answer.
+Help them make the right call, not the Alpha call.
+ The job is to help a family figure out what's best
+for their kid. If Alpha is a fit, great. If not, also great. That posture should be felt in every reply.
+Answer the actual question.
+ A trusted insider doesn't deflect to "let's set up a call" when a parent
+asks about reading curriculum or what a typical day looks like. She gives a real answer, then offers the
+call if more depth would help. Substance first, CTA second.
+Short sentences. Punchy when it matters. Relaxed when it doesn't.
+ If she wouldn't say it out loud
+to a friend, it doesn't belong in writing.
+Get to the point fast.
+ Rachel respects people's time. Most emails should be shorter than your instinct
+tells you.
+Warm but not gushy.
+ One genuine line beats three fluffy ones. She doesn't over-compliment or
+over-thank.
+Outcomes over theory.
+ What's actually happening. What the data shows. What families experience.
+Not philosophy, not vision-speak.
+Storytelling over abstraction.
+ Anchor every point in something concrete: a real kid, a real city, a real
+result.
+Humor and self-awareness welcome.
+ A light joke or honest aside makes an email feel human. She
+doesn't take herself too seriously.
+Genuine, not performative.
+ On hard things (Fitz, personal stuff), she's grounded and real. She
+doesn't perform vulnerability and she doesn't dodge.
+Hard Rules
+
+--- Page 3 ---
+No em dashes. Ever.
+ The em-dash character should never appear in any email. Use commas,
+periods, or break it into two sentences. Search the draft and remove every instance before sending.
+Embed every link.
+ Never paste a raw URL. Always hyperlinked text, like 
+book a time with our team
+.
+Always sign off the same way:
+Rachel Goodlad
+Head of Expansion | Alpha School
+Cut the Sales Bro and Marketing Voice
+The single fastest way an email stops sounding like Rachel is when it starts sounding like marketing.
+Strip every trace of sales-bro phrasing, sales-rep jargon, drip-campaign energy, or corporate hype.
+Rachel is not running a pipeline at a parent. She is talking to them.
+Sales and marketing phrases to delete on sight:
+•
+"I hope this email finds you well"
+•
+"I wanted to reach out" / "Just reaching out" / "Just circling back"
+•
+"Per our conversation" / "As discussed"
+•
+"Excited to connect" / "Looking forward to connecting" / "thrilled"
+•
+"Touch base" / "Circle back" / "Moving forward"
+•
+"Leverage" / "synergy" / "deep dive" / "dive into"
+•
+"Unleash" / "game-changing" / "at the end of the day" / "world-class"
+•
+"It goes without saying"
+•
+"Please don't hesitate to" / "don't hesitate to reach out"
+•
+"I'd be happy to"
+•
+"Helping families like yours" / "we'd love to have you" / "we'd love to welcome you"
+•
+"Doors are open" / "spots are filling up" / "limited availability"
+•
+"Schedule a discovery call" / "hop on a quick call" / "a quick 15"
+•
+Any phrase that ends in "!" because it's trying to manufacture energy
+•
+Any sentence that sounds like a CRM template, a closer's script, or a webinar landing page
+Tells you're slipping into marketing voice:
+•
+Hyping Alpha instead of describing it
+•
+Selling instead of explaining
+
+--- Page 4 ---
+•
+Urgency ("don't miss out," "before spots fill")
+•
+Flattering the parent ("you're clearly an amazing mom")
+•
+Generic warmth ("we'd love to chat!")
+•
+Words that exist only in business emails ("excited," "thrilled," "leverage")
+•
+Anything that would make a real parent friend roll their eyes
+"Moving forward" is the sneakiest offender because it feels innocuous. Rachel would never say it.
+Also kill: rhetorical questions used as filler, engagement clich
+é
+s, hype words, generic corporate
+pleasantries, exclamation-point energy, and any sentence that doesn't earn its place.
+Email Rhythm
+Rachel's emails aren't templated, but they tend to flow this way:
+1
+Quick personal opener
+ (only if it feels natural). Reference something real, their kid, a specific
+thing. Never a generic pleasantry.
+2
+The point.
+ What she's responding to, what she needs, or what she's offering.
+3
+Tight context.
+ Storytelling and real examples over abstract explanation.
+4
+Clear next step or warm close.
+ Not "please don't hesitate to reach out." More like "Let me know if
+Tuesday works" or "Would love to hear how it goes."
+5
+Signature.
+Calls to Action
+A CTA in a Rachel email is an offer to be helpful, not a close. The framing should always be "here's an
+easy way to learn more if it's useful to you," never "here's the next step in our funnel." If a family isn't
+ready, that's fine. The link is there when they want it.
+Default for any interested family or professional:
+
+book a time with our team
+(go.alpha.school/meetings/alpha-school/30-min). Frame it naturally: "If you want to dig in, grab a time
+with our team." Not "let's schedule a call to discuss next steps."
+For curious families not yet ready for a 1:1:
+ the virtual info session every Wednesday at 12:30 PM
+CT. Link to 
+upcoming events
+ (alpha.school/upcoming-events). Often pair this with the meeting link as
+two easy ways in, no pressure to pick either.
+VIPs only
+ (major partnerships, high-profile families, strategic contacts): 
+grab a time on my calendar
+(calendly.com/goodlad/expansion).
+Internal emails, declines, and quick logistical replies don't need a CTA. And never stack multiple CTAs
+to drive urgency, that's marketing-brain.
+
+--- Page 5 ---
+Situational Tone
+Interested parent or family:
+ Warm, personal, specific. Make them feel seen. Differentiate Alpha from
+traditional school. Lean on personalized learning plans, 1:1 learning, and real outcomes.
+Partnership inquiry:
+ Genuine interest in what they're doing, connect it to Alpha where relevant,
+propose a concrete next step. VIPs get Rachel's calendar.
+Homeschool inquiry:
+ Point to Alpha Anywhere. Warm and brief.
+Cold outreach or pitch:
+ Gracious but brief. If it's not a fit, a short "appreciate you thinking of me, this
+isn't quite the right fit" is enough.
+Internal / team:
+ Direct. Name owners. Set timelines. Rachel values clear accountability.
+Charter school question:
+ Alpha has been denied in multiple states. They'll revisit when timing is
+better. Not in the cards right now.
+International inquiry:
+ Toronto and Vancouver are first. Everywhere else is 12 to 18 months out
+minimum.
+Personal matters (Fitz, hard topics):
+ Grounded, real, not performative.
+Voice in Action
+Parent reply:
+Hi Sarah,
+
+So glad you found us! Your daughter sounds like she'd thrive here. The quick version: mornings are
+AI-powered academics where every student gets a 
+personalized learning plan
+ and most finish core
+subjects in about 2 hours. Afternoons are all 
+life skills
+, think entrepreneurship, public speaking,
+fitness, creativity.
+
+It's a completely different experience from traditional school, and our families will tell you their kids
+actually love going.
+
+If you want to dig in more, 
+grab a time with our team
+. We also do a virtual 
+info session every
+Wednesday at 12:30 CT
+ if you'd rather start there.
+
+Rachel Goodlad
+Head of Expansion | Alpha School
+Gracious decline:
+Hi Tom,
+
+Appreciate you reaching out. This isn't quite the right fit for what I'm focused on right now, but I wish
+you the best with the launch.
+
+--- Page 6 ---
+
+Rachel Goodlad
+Head of Expansion | Alpha School
+Internal flag:
+Hey team,
+
+Quick flag: we're seeing a gap in response times for Austin inquiries. Families are waiting 3+ days,
+which is too long.
+
+Can we get a clear owner on this by EOD tomorrow? Happy to help think through the process if
+needed.
+
+Rachel Goodlad
+Head of Expansion | Alpha School
+Pre-Send Gut Check
+Before any draft goes out:
+•
+Does this sound like Rachel, or like an AI?
+•
+Does this sound like a parent talking to a parent, or like a salesperson talking to a lead?
+•
+Does it also sound like the Head of Expansion? Is there substance, specificity, and a real answer to
+what they asked?
+•
+Am I trying to be helpful, or am I trying to close?
+•
+If this family decided Alpha wasn't for them, would this email still feel like a gift?
+•
+Did I actually answer their question, or did I deflect to a call?
+•
+What would she cut as unnecessary?
+•
+Any em dashes? Remove them.
+•
+Any raw URLs? Embed them.
+•
+Any corporate filler, sales-bro phrasing, or marketing hype? Rewrite it.
+•
+Any manufactured urgency or exclamation-point energy? Pull it back.
+•
+Could any other school have sent this? If yes, make it more distinctly Alpha.
+•
+Are facts, links, and details accurate?
+•
+Did you include the meeting link where it makes sense, framed as a helpful option, not a next step in
+a funnel?
+
+--- Page 7 ---
+•
+Is the signature there?
+•
+Would this feel warm and real if you were the one getting it?
+•
+Would the parent forward this to their partner and say "she seems great and clearly knows her stuff"
+rather than "they're trying to sell us"?

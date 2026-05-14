@@ -1,0 +1,856 @@
+1
+00:00:00,000 --> 00:00:08,240
+First of all, the idea that we do not use teachers to teach academic content to students
+
+2
+00:00:08,240 --> 00:00:13,360
+in a teacher in front of a classroom model, and that is something that just feels so hard
+
+3
+00:00:13,360 --> 00:00:18,280
+for people to get their heads around because we all grew up in that system and we've always
+
+4
+00:00:18,280 --> 00:00:25,940
+been told like a great teacher is the key to learning something.
+
+5
+00:00:25,940 --> 00:00:30,020
+Welcome to the future of Education Podcast, hosted by Mackenzie Price.
+
+6
+00:00:30,020 --> 00:00:34,820
+Mackenzie is the founder of a revolutionary new school model that's disrupting education
+
+7
+00:00:34,820 --> 00:00:35,820
+through AI.
+
+8
+00:00:35,820 --> 00:00:43,860
+Join us as we discuss the latest in education innovation.
+
+9
+00:00:43,860 --> 00:00:49,460
+This next question is from a parent that is super engaged and excited.
+
+10
+00:00:49,460 --> 00:00:51,540
+The question is, what should I start with?
+
+11
+00:00:51,540 --> 00:00:53,540
+I have a one-year-old.
+
+12
+00:00:54,100 --> 00:01:00,420
+All right, mama or daddy of one-year-old, here's the best advice that I can give to you,
+
+13
+00:01:01,140 --> 00:01:04,500
+play and love and read to your kid like nobody's business.
+
+14
+00:01:04,500 --> 00:01:06,100
+That is the best thing.
+
+15
+00:01:06,100 --> 00:01:13,860
+Get your kid out, getting dirty, let him go play in the mud, go explore, go find worms,
+
+16
+00:01:13,860 --> 00:01:17,620
+go find tadpoles, do all that kind of cool stuff.
+
+17
+00:01:17,620 --> 00:01:21,700
+I promise you all these AI tools are going to be around in a few years when your kid's
+
+18
+00:01:21,700 --> 00:01:26,580
+getting a little bit older and you're going to be able to jump on the education train.
+
+19
+00:01:26,580 --> 00:01:30,180
+But the best thing that you can do with your one-year-old is just love them like crazy,
+
+20
+00:01:30,180 --> 00:01:33,300
+play with them like crazy, and read to them like crazy.
+
+21
+00:01:33,940 --> 00:01:36,340
+Ooh, I really love this next question.
+
+22
+00:01:36,340 --> 00:01:44,500
+What is the first and biggest mindset change that parents and children need to have in our schools?
+
+23
+00:01:44,500 --> 00:01:51,140
+And here's what I always tell people, as a private school, families will apply for admission,
+
+24
+00:01:51,140 --> 00:01:56,660
+but we don't actually base our admission on what kind of grades they had or where they scored in
+
+25
+00:01:56,660 --> 00:01:59,700
+their transcripts or where they already were in their assessments.
+
+26
+00:02:00,340 --> 00:02:06,900
+Our biggest thing that we focus on is philosophical alignment with our model of education.
+
+27
+00:02:06,900 --> 00:02:09,140
+And so there's probably two things.
+
+28
+00:02:09,140 --> 00:02:14,180
+First of all, they have to change their mind around the idea that the best way to learn
+
+29
+00:02:14,180 --> 00:02:15,780
+is with a teacher in front of a classroom.
+
+30
+00:02:15,780 --> 00:02:19,700
+And that's hard because we all grew up in that system.
+
+31
+00:02:19,700 --> 00:02:23,780
+So I think that's kind of the biggest thing is parents need to understand like this is different,
+
+32
+00:02:23,780 --> 00:02:24,980
+but it works.
+
+33
+00:02:24,980 --> 00:02:30,740
+Now, the other big mindset change that parents and kids need to get really comfortable with
+
+34
+00:02:30,740 --> 00:02:37,140
+is all around the idea of failure, that kids can be challenged, they can do hard things,
+
+35
+00:02:37,140 --> 00:02:41,140
+and they can fail, and they can learn so much from that failure perspective.
+
+36
+00:02:41,140 --> 00:02:46,180
+It actually ties in with one of our parent tenants, which is support, don't solve.
+
+37
+00:02:46,180 --> 00:02:52,020
+We tell parents, hey, you can support your kid, but don't go in and solve their challenges for them.
+
+38
+00:02:52,020 --> 00:02:56,420
+Allow them the opportunity to learn and struggle and fail.
+
+39
+00:02:56,420 --> 00:03:00,820
+And we even say sometimes cry on their road to success.
+
+40
+00:03:00,820 --> 00:03:03,940
+I'm going to combine two of these next questions that I got.
+
+41
+00:03:03,940 --> 00:03:06,900
+The first was, do you have an alpha homeschool program?
+
+42
+00:03:06,900 --> 00:03:11,700
+And the second was that they are looking for an online alpha based school for performing arts for
+
+43
+00:03:11,700 --> 00:03:12,900
+their kid.
+
+44
+00:03:12,900 --> 00:03:14,340
+And here's the good news.
+
+45
+00:03:14,340 --> 00:03:17,060
+Yes, we do have a homeschool program.
+
+46
+00:03:17,060 --> 00:03:18,660
+It's called Alpha Anywhere.
+
+47
+00:03:18,660 --> 00:03:21,700
+It's currently for third grade through eighth grade.
+
+48
+00:03:21,700 --> 00:03:26,420
+Those grades will be expanding over time, but right now we're at third grade through eighth grade.
+
+49
+00:03:26,420 --> 00:03:31,460
+And so regarding the performing arts part of it, one of the things that our families in Alpha Anywhere
+
+50
+00:03:31,460 --> 00:03:36,980
+are absolutely loving is the fact that they can spend two hours getting their academics done
+
+51
+00:03:36,980 --> 00:03:39,700
+and then spend the rest of the day doing all these other things.
+
+52
+00:03:39,700 --> 00:03:43,780
+So we have students who are interested in building out businesses.
+
+53
+00:03:43,780 --> 00:03:46,660
+We've got kids who are doing really hardcore athletics.
+
+54
+00:03:46,660 --> 00:03:51,140
+We've got kids who are doing performing arts and theater and music.
+
+55
+00:03:51,140 --> 00:03:53,220
+And they're able to spend their afternoons doing that.
+
+56
+00:03:53,220 --> 00:03:56,260
+But there's something else that's really exciting that's happening.
+
+57
+00:03:56,260 --> 00:04:04,580
+In Texas, we are launching a virtual program for students to be able to do our alpha school
+
+58
+00:04:05,540 --> 00:04:11,700
+either through Texas Sports Academy if your kid is interested in sports or our GT school program,
+
+59
+00:04:11,700 --> 00:04:13,860
+which is for gifted and talented kids.
+
+60
+00:04:13,860 --> 00:04:21,060
+And families as part of that program actually get money from the state to put towards the physical
+
+61
+00:04:21,060 --> 00:04:26,420
+training that their kids are doing or the GT type academic training that they want to do in the
+
+62
+00:04:26,420 --> 00:04:27,140
+afternoons.
+
+63
+00:04:27,140 --> 00:04:30,980
+The reason we're able to do that just so you know is because of the school choice
+
+64
+00:04:31,620 --> 00:04:33,380
+efforts that have happened in Texas.
+
+65
+00:04:33,380 --> 00:04:38,100
+So we'll be rolling those out to other states that have that school choice opportunity.
+
+66
+00:04:38,100 --> 00:04:42,260
+If you want more information on alpha anywhere, you go to alpha anywhere dot co.
+
+67
+00:04:43,780 --> 00:04:47,700
+Oh, this is a great question that I really love to talk about.
+
+68
+00:04:47,700 --> 00:04:54,180
+A lot of people will say is music like orchestra or band available at an alpha school?
+
+69
+00:04:54,180 --> 00:04:55,540
+And here's the answer.
+
+70
+00:04:55,540 --> 00:05:02,100
+Yes, we have so many awesome music opportunities, but they don't look quite like traditional school
+
+71
+00:05:02,100 --> 00:05:02,500
+looks like.
+
+72
+00:05:02,500 --> 00:05:08,820
+So for example, we've got kindergarteners who are doing a piano lab workshop where they're
+
+73
+00:05:08,820 --> 00:05:14,980
+learning piano instruction on a keyboard and then they're creating their own songs and they're
+
+74
+00:05:14,980 --> 00:05:18,500
+using AI to notate those songs and then perform them.
+
+75
+00:05:19,060 --> 00:05:25,380
+We did the same thing with a great panel workshop with our fourth and fifth graders too.
+
+76
+00:05:25,380 --> 00:05:30,180
+That was really fun to see our middle school students have been doing these awesome school of
+
+77
+00:05:30,180 --> 00:05:35,700
+rock things where they're not only learning how to play musical instruments, writing original
+
+78
+00:05:35,700 --> 00:05:39,300
+songs, learning how to play together, but then they have to market their band.
+
+79
+00:05:39,300 --> 00:05:44,020
+They have to create the brand for their band and their hosting events.
+
+80
+00:05:44,020 --> 00:05:48,100
+So they get to kind of combine some event management and some marketing management
+
+81
+00:05:48,100 --> 00:05:49,620
+along with what they're doing.
+
+82
+00:05:49,620 --> 00:05:52,180
+We actually have a student in Scottsdale.
+
+83
+00:05:52,180 --> 00:05:53,620
+She's 10 years old.
+
+84
+00:05:53,620 --> 00:05:57,700
+She released her own written song that was produced.
+
+85
+00:05:57,700 --> 00:06:00,340
+It is called Feet on the Ground.
+
+86
+00:06:00,340 --> 00:06:01,700
+It's called Feet on the Ground.
+
+87
+00:06:01,700 --> 00:06:05,140
+It's on Spotify and it's so totally good, you guys.
+
+88
+00:06:05,140 --> 00:06:05,700
+I'm serious.
+
+89
+00:06:05,700 --> 00:06:06,980
+Ruby is a little star.
+
+90
+00:06:06,980 --> 00:06:12,020
+I swear we're going to see her at the Grammys in a couple of years because she is fantastic.
+
+91
+00:06:12,020 --> 00:06:16,180
+And so our students get a lot of opportunity to try out musical instruments and do things,
+
+92
+00:06:16,180 --> 00:06:24,180
+but they're not doing traditional orchestra or band that you would see in traditional schools,
+
+93
+00:06:24,180 --> 00:06:26,740
+but they get a ton of musical stuff.
+
+94
+00:06:26,740 --> 00:06:31,940
+We've got great acting workshops that our students engage in where they're doing theater
+
+95
+00:06:31,940 --> 00:06:32,980
+and things like that.
+
+96
+00:06:32,980 --> 00:06:38,020
+We always tie in with our life skills workshops though, some other skill that they're doing.
+
+97
+00:06:38,020 --> 00:06:42,980
+So, you know, with an acting workshop, it's obviously public speaking is one of the things.
+
+98
+00:06:42,980 --> 00:06:48,500
+It may be building something out, writing their own play, writing their own music, things like that.
+
+99
+00:06:49,220 --> 00:06:50,260
+Oh, and you know what?
+
+100
+00:06:50,260 --> 00:06:54,100
+It turns out I just looked at my iPad and the next question was, do you do acting?
+
+101
+00:06:54,100 --> 00:06:55,220
+Yeah, we do acting.
+
+102
+00:06:55,220 --> 00:07:01,940
+In fact, I will tell you yesterday was the anniversary of my oldest daughter's debut
+
+103
+00:07:01,940 --> 00:07:05,860
+as the lead Annie in one of the plays that we did.
+
+104
+00:07:05,860 --> 00:07:10,980
+And it was back in 2015 and it was so cute.
+
+105
+00:07:10,980 --> 00:07:12,100
+Here's an interesting question.
+
+106
+00:07:12,100 --> 00:07:16,340
+I get a lot of people wondering about how we're going to expand our education system.
+
+107
+00:07:16,340 --> 00:07:20,980
+And this question is, do you think that your education system would work in any country?
+
+108
+00:07:21,780 --> 00:07:26,100
+The short answer is yes, I do believe it could work in any country.
+
+109
+00:07:26,100 --> 00:07:32,100
+The longer answer is there's got to be philosophical alignment with a couple of key
+
+110
+00:07:32,100 --> 00:07:33,860
+points around our model.
+
+111
+00:07:33,860 --> 00:07:41,940
+First of all, the idea that we do not use teachers to teach academic content to students
+
+112
+00:07:41,940 --> 00:07:44,260
+in a teacher in front of a classroom model.
+
+113
+00:07:44,260 --> 00:07:48,420
+And that is something that just feels so hard for people to get their heads around
+
+114
+00:07:48,420 --> 00:07:54,260
+because we all grew up in that system and we've always been told like a great teacher
+
+115
+00:07:54,260 --> 00:07:56,900
+is the key to learning something.
+
+116
+00:07:56,900 --> 00:08:02,420
+So you have to believe that now we believe a great teacher is key to our success as well.
+
+117
+00:08:02,420 --> 00:08:05,940
+The difference is they're focusing on motivation and emotional support,
+
+118
+00:08:05,940 --> 00:08:08,420
+not on conveying academic content.
+
+119
+00:08:08,420 --> 00:08:09,540
+So that's one of the big things.
+
+120
+00:08:09,540 --> 00:08:15,540
+The other big philosophy that you have to be okay with is the idea that it only takes
+
+121
+00:08:15,540 --> 00:08:20,100
+a couple of hours to do the academic content when you do it in our model.
+
+122
+00:08:20,100 --> 00:08:25,380
+And so you have to be willing to allow the rest of the day to be done differently.
+
+123
+00:08:25,380 --> 00:08:30,180
+And so I've had conversations with school leaders from all over the United States
+
+124
+00:08:30,180 --> 00:08:35,620
+and all over the world who say, wow, we'd love to take your two-hour learning program
+
+125
+00:08:35,620 --> 00:08:36,980
+and use that in the morning.
+
+126
+00:08:36,980 --> 00:08:41,700
+And then the rest of school day will still do more math, science, reading, language,
+
+127
+00:08:41,700 --> 00:08:44,340
+because that's just what they believe is developed.
+
+128
+00:08:44,340 --> 00:08:48,260
+For us, what we're doing is we're giving kids our most valuable resource,
+
+129
+00:08:48,260 --> 00:08:52,580
+which is time back to go do all these other cool things and develop life skills.
+
+130
+00:08:52,580 --> 00:08:55,540
+We're not trying to cram in more academic time.
+
+131
+00:08:55,540 --> 00:08:58,580
+And that's something that just from a philosophy perspective,
+
+132
+00:08:59,140 --> 00:09:02,260
+we have to do another kind of interesting thing around countries.
+
+133
+00:09:02,260 --> 00:09:05,380
+So we've done a program in Malawi with refugee students.
+
+134
+00:09:05,380 --> 00:09:08,980
+We've done a program in Eastern Europe with Ukrainian refugee students.
+
+135
+00:09:09,700 --> 00:09:15,860
+So we have had this type of model work with great success in these other countries.
+
+136
+00:09:16,420 --> 00:09:20,740
+And they've implemented so many of the motivation models that we use at Alpha.
+
+137
+00:09:20,740 --> 00:09:25,380
+Obviously, though, we do need internet, you need computers, those types of things.
+
+138
+00:09:25,380 --> 00:09:31,620
+I also got a few questions from you around the whole idea of college and how do we prepare kids
+
+139
+00:09:31,620 --> 00:09:33,140
+to be successful in college.
+
+140
+00:09:33,140 --> 00:09:36,900
+And we should actually do a totally separate podcast around college.
+
+141
+00:09:36,900 --> 00:09:42,100
+And the philosophy that Alpha has around how our kids are getting into top tier universities.
+
+142
+00:09:42,100 --> 00:09:46,500
+In fact, we just had two early acceptances to Stanford University, my alma mater.
+
+143
+00:09:47,620 --> 00:09:48,740
+Pretty exciting go card.
+
+144
+00:09:49,300 --> 00:09:50,420
+So that was fun to see.
+
+145
+00:09:51,060 --> 00:09:54,180
+But here's the question that I wanted to address was,
+
+146
+00:09:54,180 --> 00:10:01,540
+do extracurriculars make up for average academics when it comes to going to college?
+
+147
+00:10:01,540 --> 00:10:06,660
+And I think one of the things that I noticed parents have is this very ingrained belief
+
+148
+00:10:07,140 --> 00:10:12,900
+that in order to get into college these days, you have to have perfect grades and have taken
+
+149
+00:10:12,900 --> 00:10:19,700
+as many AP courses as possible and have high SATs and just really, really focus on the academic
+
+150
+00:10:19,700 --> 00:10:20,500
+part of it.
+
+151
+00:10:20,500 --> 00:10:26,580
+And here's the thing, especially in top 20 universities, all of that academic stuff
+
+152
+00:10:27,220 --> 00:10:28,900
+is table stakes now.
+
+153
+00:10:29,460 --> 00:10:32,580
+Like lots of kids have taken a bunch of APs.
+
+154
+00:10:32,580 --> 00:10:36,420
+Lots of kids are able to get great scores on their SATs.
+
+155
+00:10:36,420 --> 00:10:41,780
+And so while it's important and what you need to be able to do is show that you have the ability
+
+156
+00:10:41,780 --> 00:10:46,100
+to handle the academic rigor of a university by having that.
+
+157
+00:10:46,100 --> 00:10:50,340
+The key thing is to really stand out in some other way.
+
+158
+00:10:50,340 --> 00:10:53,780
+And that's often through extracurricular activities.
+
+159
+00:10:53,780 --> 00:10:57,620
+Now extracurricular activities aren't the same as they used to be either.
+
+160
+00:10:57,620 --> 00:11:03,780
+Back when I was in school and being the captain of the debate team or on the varsity tennis team,
+
+161
+00:11:03,780 --> 00:11:05,620
+you know, those were the things we wanted.
+
+162
+00:11:05,620 --> 00:11:10,660
+I think what universities are really wanting to see are the kinds of things that our students are
+
+163
+00:11:10,660 --> 00:11:11,940
+able to do at Alpha.
+
+164
+00:11:11,940 --> 00:11:16,980
+Something that's very unique, something where they've really taken an interest or a passion that
+
+165
+00:11:16,980 --> 00:11:21,940
+they have and they've gone and become experts and done something big with it and made an impact.
+
+166
+00:11:21,940 --> 00:11:26,660
+I also know, and I talked to university admissions people on a regular basis,
+
+167
+00:11:26,660 --> 00:11:32,500
+they want to know how you as a student are going to impact the school's community.
+
+168
+00:11:32,500 --> 00:11:34,020
+And so those are the things to think of.
+
+169
+00:11:34,900 --> 00:11:37,940
+Last piece of advice that I'm going to give to parents listening to this,
+
+170
+00:11:37,940 --> 00:11:39,780
+especially at the high school level.
+
+171
+00:11:39,780 --> 00:11:45,060
+You cannot force your kids to do what you think is what they should be doing.
+
+172
+00:11:45,060 --> 00:11:48,260
+Find the thing that they're excited about, that they're passionate about,
+
+173
+00:11:48,260 --> 00:11:50,660
+and encourage them to go big.
+
+174
+00:11:50,660 --> 00:11:53,380
+Now you can still have a high standard of excellence for it,
+
+175
+00:11:53,380 --> 00:11:57,540
+and you can give them support for this, but you cannot make your kid go do things.
+
+176
+00:11:57,540 --> 00:12:01,220
+I am on a college admissions Facebook page,
+
+177
+00:12:01,220 --> 00:12:07,140
+and I'm amazed at how many parents are literally trying to live their children's life for them
+
+178
+00:12:07,140 --> 00:12:10,740
+very blatantly against their children's even wishes.
+
+179
+00:12:10,740 --> 00:12:13,620
+And please stop doing that if you're one of those parents.
+
+180
+00:12:13,620 --> 00:12:14,580
+Don't do that.
+
+181
+00:12:14,580 --> 00:12:19,620
+Instead, help your kid find the thing that they love and help them develop
+
+182
+00:12:19,620 --> 00:12:23,060
+the desire to be self-driven because they're excited about their passion.
+
+183
+00:12:23,060 --> 00:12:25,540
+Again, you can still have high standards for them,
+
+184
+00:12:25,540 --> 00:12:27,780
+but help them go find the thing they love.
+
+185
+00:12:27,780 --> 00:12:32,340
+So if you're a control freak, which I am too, by the way,
+
+186
+00:12:32,340 --> 00:12:35,460
+channel that energy instead of saying like, you must do this,
+
+187
+00:12:35,460 --> 00:12:39,380
+channel that energy into helping them find the thing that they're excited about and love.
+
+188
+00:12:39,380 --> 00:12:41,060
+And it may take a few tries.
+
+189
+00:12:41,060 --> 00:12:42,020
+It may take things.
+
+190
+00:12:42,020 --> 00:12:43,380
+My daughter's a great example.
+
+191
+00:12:43,380 --> 00:12:48,580
+My youngest daughter, she used social media as her main extracurricular.
+
+192
+00:12:48,580 --> 00:12:51,220
+What person in the world would think, oh, I know.
+
+193
+00:12:51,220 --> 00:12:54,020
+I think my daughter should just spend all her time on TikTok.
+
+194
+00:12:54,020 --> 00:12:59,220
+Well, 2.3 million followers later and a lot of success.
+
+195
+00:12:59,220 --> 00:13:03,540
+It turned out that she was able to channel this interest she had in this past time
+
+196
+00:13:03,540 --> 00:13:06,820
+into something really, really helpful and really valuable.
+
+197
+00:13:06,820 --> 00:13:09,540
+Okay, thank you so much for so many of the questions that you got.
+
+198
+00:13:09,540 --> 00:13:10,260
+This was really fun.
+
+199
+00:13:10,260 --> 00:13:14,100
+I loved watching these come in on my stories when I posted this on Instagram.
+
+200
+00:13:14,100 --> 00:13:16,500
+And feel free to keep them coming too.
+
+201
+00:13:16,500 --> 00:13:19,460
+We love getting to read the messages that you send.
+
+202
+00:13:19,460 --> 00:13:21,380
+And we'll do another one of these if you guys liked it.
+
+203
+00:13:21,380 --> 00:13:22,100
+So have a great one.
+
+204
+00:13:24,260 --> 00:13:28,420
+Thanks for listening to Mackenzie Price and the Future of Education podcast.
+
+205
+00:13:28,420 --> 00:13:31,220
+If you haven't hit that subscribe button, now is the time to do it.
+
+206
+00:13:31,220 --> 00:13:34,020
+So you can stay up to date on all our episodes.
+
+207
+00:13:34,020 --> 00:13:36,180
+You can connect with Mackenzie on social media
+
+208
+00:13:36,180 --> 00:13:39,060
+and be part of our daily conversation over on Instagram
+
+209
+00:13:39,060 --> 00:13:42,020
+at futureofunderscoreeducation.
+
+210
+00:13:42,020 --> 00:13:44,020
+Lastly, if you're loving what you're learning,
+
+211
+00:13:44,020 --> 00:13:47,220
+please leave a review wherever you listen to podcasts.
+
+212
+00:13:47,220 --> 00:13:48,580
+We'll be back in your feed soon.
+
+213
+00:13:48,580 --> 00:13:50,980
+But until then, remember, kids are limitless.
+
+214
+00:13:50,980 --> 00:13:52,900
+And it's our job to unlock their potential.
+

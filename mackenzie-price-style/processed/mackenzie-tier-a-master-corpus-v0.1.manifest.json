@@ -1,0 +1,30 @@
+{
+  "version": "v0.1",
+  "total_words": 16803,
+  "sources": [
+    {
+      "id": "modern-wisdom-981",
+      "title": "Modern Wisdom #981 \u2014 MacKenzie Price: Alpha School: A New Approach To Education",
+      "tier": "Tier A direct MacKenzie voice; transcript mirror cleaned and speaker-labeled",
+      "status": "usable draft corpus; verify against YouTube/audio before final lock",
+      "path": "transcripts/modern-wisdom-981/modern-wisdom-981.mackenzie-only.md",
+      "words": 11262
+    },
+    {
+      "id": "future-of-education-s2e307",
+      "title": "Future of Education S2E307 \u2014 MacKenzie's Advice Column: Answering Your Questions (Part 1)",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e307.mackenzie-only.md",
+      "words": 3050
+    },
+    {
+      "id": "future-of-education-s2e308",
+      "title": "Future of Education S2E308 \u2014 MacKenzie's Advice Column: Answering Your Questions (Part 2)",
+      "tier": "Tier A direct MacKenzie voice; audio-backed Whisper transcript",
+      "status": "usable draft corpus; needs audio spot-check before final lock",
+      "path": "transcripts/future-of-education-podcast/cleaned/s2e308.mackenzie-only.md",
+      "words": 2491
+    }
+  ]
+}

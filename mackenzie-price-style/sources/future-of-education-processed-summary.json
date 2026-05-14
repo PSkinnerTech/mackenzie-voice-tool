@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "s2e307",
+    "title": "S2E307: MacKenzie's Advice Column: Answering Your Questions (Part 1)",
+    "words": 3050,
+    "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e307.cleaned.md",
+    "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e307.mackenzie-only.md"
+  },
+  {
+    "slug": "s2e308",
+    "title": "S2E308: MacKenzie's Advice Column: Answering Your Questions (Part 2)",
+    "words": 2491,
+    "cleaned": "transcripts/future-of-education-podcast/cleaned/s2e308.cleaned.md",
+    "mackenzie_only": "transcripts/future-of-education-podcast/cleaned/s2e308.mackenzie-only.md"
+  }
+]

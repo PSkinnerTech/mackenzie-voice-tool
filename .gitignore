@@ -1,0 +1,6 @@
+.DS_Store
+*.mp3
+.openclaw/
+MEMORY.md
+memory/
+vendor/

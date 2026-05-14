@@ -1,0 +1,87 @@
+# Future of Education Podcast feed
+
+- Feed: https://rss.art19.com/future-of-education
+- Episodes parsed: 307
+- Apple artist: MacKenzie Price
+
+## Recent episodes
+- **S2E331: Why We Don't Say the Pledge: Keeping Politics Out of Education** — Tue, 12 May 2026 12:30:00 -0000 — 00:19:56
+  - audio: https://rss.art19.com/episodes/06edb0da-13b7-45ba-a63e-2b9c2518b2ef.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E330: The Secret to Solving Behavioral Issues at School** — Fri, 08 May 2026 12:00:00 -0000 — 00:23:34
+  - audio: https://rss.art19.com/episodes/42386a68-fe72-46dd-9866-b0bdb3b2167e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E329: The 9 Senses: Interpreting Your Child’s Unique Nervous System** — Tue, 05 May 2026 12:30:00 -0000 — 00:46:13
+  - audio: https://rss.art19.com/episodes/8bbceaad-018a-4f27-a073-92a678e6d6ac.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E328: I Hate Reading: Dealing with Reading Resistance** — Fri, 01 May 2026 05:00:00 -0000 — 00:28:07
+  - audio: https://rss.art19.com/episodes/af9d86ba-2109-4ab0-9984-f87efad6896a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E327: When Grit Looks Like Crying** — Wed, 29 Apr 2026 05:00:00 -0000 — 00:28:09
+  - audio: https://rss.art19.com/episodes/5006fabc-004a-47ae-9e2a-e8d0f58ab4aa.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E326: The End of "Because I Said So": An Unfiltered Look at Student Self-Governance In Action** — Fri, 24 Apr 2026 12:00:00 -0000 — 00:15:42
+  - audio: https://rss.art19.com/episodes/0ac4e50f-1cae-4915-8709-6b1361249c65.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E325: What Happens When You Let Kids Decide Their Own Rules, Rewards, and Punishments...** — Wed, 22 Apr 2026 12:00:00 -0000 — 00:14:10
+  - audio: https://rss.art19.com/episodes/b8b6a082-d73c-40f5-bc47-ed7b2f492d66.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E324: The Wealthy Student Myth, Our 'iPhone-Style' Updates, and Screen Time Truths** — Fri, 17 Apr 2026 13:30:00 -0000 — 00:15:06
+  - audio: https://rss.art19.com/episodes/2058c52a-ba3a-488d-81cc-a16a6cd46e23.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E323: Why We Treat Every Student Like They Have an IEP** — Wed, 15 Apr 2026 13:30:00 -0000 — 00:15:01
+  - audio: https://rss.art19.com/episodes/be3be6f8-e1bb-4cd9-b697-1797bf466059.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E322: Challenging the ADHD Epidemic: The Tragedy of Mislabeling Movement-Starved Students** — Thu, 09 Apr 2026 12:30:00 -0000 — 00:23:37
+  - audio: https://rss.art19.com/episodes/fa572f89-91c9-407c-8b35-743e8e2159d7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E321: How Neglecting the Brain Body Connection Is Holding Your Kids Back** — Tue, 07 Apr 2026 12:30:00 -0000 — 00:18:47
+  - audio: https://rss.art19.com/episodes/a255a005-c92b-4e97-ab54-6bf631a6115b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E320: School Choice in Action: How Educational Savings Accounts Grant Free Access to Alpha** — Thu, 02 Apr 2026 12:30:00 -0000 — 00:18:47
+  - audio: https://rss.art19.com/episodes/eda08ea8-d58d-405f-b4de-b0149bb35927.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E319: Non-Traditional Arts Explained: How Alpha Encourages Arts Without the Classics** — Tue, 31 Mar 2026 12:30:00 -0000 — 00:30:27
+  - audio: https://rss.art19.com/episodes/03f1a972-d930-4700-8513-6c8f905620dc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E318: The 5 Strategies Your Child’s School Can’t Survive Without** — Fri, 27 Mar 2026 05:00:00 -0000 — 00:18:41
+  - audio: https://rss.art19.com/episodes/ea2df613-c4ae-4f3a-9a55-0682e94144a8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E317: An Anthropologist's Lens on Education Reform** — Tue, 24 Mar 2026 05:00:00 -0000 — 00:15:30
+  - audio: https://rss.art19.com/episodes/011a4e8a-9189-4a9f-8a18-3e88ada50278.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E316: How to Build a Child Who Doesn't Quit: Growth Mindset Strategies That Anchor Motivation** — Fri, 20 Mar 2026 17:00:00 -0000 — 00:25:47
+  - audio: https://rss.art19.com/episodes/9070c36e-7dfb-4a88-af59-7e859895f04b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E315: The Death of the Gold Star: How To Build Unique Reward Systems for Every Kid** — Tue, 17 Mar 2026 16:30:00 -0000 — 00:21:43
+  - audio: https://rss.art19.com/episodes/210f2e83-4787-42b4-99e9-cfef9d8e9210.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E314: Superintendents, Salaries, and Scandals: The "Adult-First" Corruption Coming to Your City** — Thu, 12 Mar 2026 12:00:00 -0000 — 00:27:27
+  - audio: https://rss.art19.com/episodes/cde5eb2b-0256-4048-b88f-572be5787e63.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E313: Exposing Baltimore's Public School Catastrophic Failure: Lead Investigative Reporter Tells All** — Tue, 10 Mar 2026 20:00:00 -0000 — 00:29:14
+  - audio: https://rss.art19.com/episodes/9677d5dc-8bfc-446d-adac-5c3a23d97802.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E312: Why Traditional Youth Sports Needs Reimagining: Texas Sports Academy's Unconventional Approach (Part 2)** — Thu, 05 Mar 2026 13:00:00 -0000 — 00:20:23
+  - audio: https://rss.art19.com/episodes/0ab33b22-202d-48e4-8f33-f1dc637ae870.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E311: Mastery on the Court and in the Classroom at Texas Sports Academy** — Tue, 03 Mar 2026 16:30:00 -0000 — 00:24:47
+  - audio: https://rss.art19.com/episodes/46ca4322-4f28-4c82-b87e-e66cff88d326.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E310: The Resilience Playbook: How to Coach Your Kids Through Failure Without Coddling** — Fri, 27 Feb 2026 13:00:00 -0000 — 00:25:30
+  - audio: https://rss.art19.com/episodes/8f60e9d5-ece8-4260-99b5-84e34577165e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E309: This One Phrase is the Most Dangerous Threat to Your Kids' Resilience** — Wed, 25 Feb 2026 14:00:00 -0000 — 00:33:32
+  - audio: https://rss.art19.com/episodes/9d270679-e620-459e-b496-0ac8483f738f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E308: MacKenzie's Advice Column: Answering Your Questions (Part 2)** — Sat, 21 Feb 2026 14:00:00 -0000 — 00:13:56
+  - audio: https://rss.art19.com/episodes/167a4146-b2c8-4f78-bcd2-4753fe292d43.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E307: MacKenzie's Advice Column: Answering Your Questions (Part 1)** — Thu, 19 Feb 2026 00:30:00 -0000 — 00:15:53
+  - audio: https://rss.art19.com/episodes/d2c237ee-6080-4849-9bad-4c897042e3f8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E306: Inside Alpha High (Part 2): Real Classroom Examples With Guide Cameron** — Fri, 13 Feb 2026 15:30:00 -0000 — 00:20:20
+  - audio: https://rss.art19.com/episodes/a2265ed0-3c94-4d3a-a966-6f5b9f92b570.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E305: Audience Pick: Real Examples From a Day at Alpha High, With Guide Cameron (Part 1)** — Wed, 11 Feb 2026 17:00:00 -0000 — 00:20:32
+  - audio: https://rss.art19.com/episodes/b093c9b8-bfaf-469e-92ec-53ca98e0b443.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E304: Alpha's "Brain Lift" Research Project Explained by Alpha High Schooler Sloka (Part 2)** — Fri, 06 Feb 2026 13:30:00 -0000 — 00:14:32
+  - audio: https://rss.art19.com/episodes/3aa497e9-9dca-4027-8ad7-5a0f7ec65d8f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E303: Unlocking Deep Expertise With Alpha's "Brain Lift"- Explained by Alpha High Schooler Sloka (Part 1)** — Tue, 03 Feb 2026 21:00:00 -0000 — 00:20:50
+  - audio: https://rss.art19.com/episodes/177d4953-3858-47e3-8c5e-700956a63d44.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E302: Red Flags Parents Shouldn’t Ignore: Signs Your Child May Need Something Different (Part 2)** — Fri, 30 Jan 2026 17:30:00 -0000 — 00:15:20
+  - audio: https://rss.art19.com/episodes/f4916c2a-6758-4160-84b7-1e44e67ddeb4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E301: Red Flags Parents Shouldn’t Ignore: Signs Your Child May Need Something Different** — Tue, 27 Jan 2026 22:30:00 -0000 — 00:22:12
+  - audio: https://rss.art19.com/episodes/fe5b79f8-2842-4367-a1f7-19425569311e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E300: Inside the Alpha Admissions Office (Part 2), With Admissions Director Cara Wilkinson** — Fri, 23 Jan 2026 14:00:00 -0000 — 00:18:32
+  - audio: https://rss.art19.com/episodes/52556cd2-5f01-4df6-8117-1884b950e06b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E299: Inside the Admissions Office: What Thousands of Family Conversations Reveal, With Alpha Admissions Director Cara Wilkinson** — Wed, 21 Jan 2026 06:00:00 -0000 — 00:21:46
+  - audio: https://rss.art19.com/episodes/02f50553-ad3c-4204-b84f-396d5ca11206.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E298: Live Episode: The Science of Motivating Young People with David Yeager, Ph.D. (Part 2)** — Mon, 19 Jan 2026 06:00:00 -0000 — 00:42:46
+  - audio: https://rss.art19.com/episodes/e427d9ff-bb00-4d75-b92a-6e5c58c5aecf.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E297: Live Episode: The Science of Motivating Young People with David Yeager, Ph.D. (Part 1)** — Fri, 16 Jan 2026 06:00:00 -0000 — 00:35:00
+  - audio: https://rss.art19.com/episodes/6a3e1b7f-a599-44b5-95a5-ef49da0c4801.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E296: What Parents Are Really Saying: Alpha’s End-of-Year Survey Results** — Tue, 13 Jan 2026 06:00:00 -0000 — 00:40:39
+  - audio: https://rss.art19.com/episodes/f9b14156-2e09-42c5-abd6-d2df455f4699.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E295: Launching Into Adulthood: Alpha Student Alex’s Real-World Test (Part 2)** — Sun, 11 Jan 2026 06:00:00 -0000 — 00:15:23
+  - audio: https://rss.art19.com/episodes/59f10a76-4e93-4887-8d94-64a7232a382e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E294: Why This Alpha High Schooler Is Living Alone in a New City for 8 Weeks** — Wed, 07 Jan 2026 06:00:00 -0000 — 00:17:51
+  - audio: https://rss.art19.com/episodes/52afc3a9-ac95-4350-9911-d7ca982ec22d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E293: Fixing Education at the State Level, Part 2: From Policy to Practice** — Sat, 03 Jan 2026 06:00:00 -0000 — 00:18:52
+  - audio: https://rss.art19.com/episodes/3f34653d-7346-4bcc-aa2d-3eac150c6c58.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94
+- **S2E292: Inside Education Reform With Governor Kevin Stitt and Policy Expert Jon Schnur** — Wed, 31 Dec 2025 06:00:00 -0000 — 00:19:55
+  - audio: https://rss.art19.com/episodes/ed543e15-c2e2-46bf-a4d2-02de9a0d44ea.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94

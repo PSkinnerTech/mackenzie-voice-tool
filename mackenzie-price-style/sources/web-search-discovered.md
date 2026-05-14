@@ -1,0 +1,113 @@
+# Web search discovered MacKenzie source candidates
+
+- **Alpha School: A New Approach To Education - MacKenzie Price (Transcript ...** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://singjupost.com/alpha-school-a-new-approach-to-education-mackenzie-price-transcript/
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **Alpha School: A New Approach To Education - MacKenzie Price** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://www.youtube.com/watch?v=enXA7xepu2U
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **A.I. School Is in Session: Two Takes on the Future of Education** (C, search-result-context, 0.30)
+  - https://www.nytimes.com/2025/09/05/podcasts/hardfork-education-alpha-school.html
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **#981 - MacKenzie Price - Alpha School: A New Approach To Education** (B, macKenzie-adjacent, 0.60)
+  - https://podwise.ai/dashboard/episodes/4957690
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **#981 - MacKenzie Price - Alpha School: A New Approach To Education** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://metacast.app/podcast/modern-wisdom/89DLZTaM/981---mackenzie-price---alpha-school-a-new-approach-to-education/6c19BH12
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **Transcript of Interview with MacKenzie Price on AI Learning** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://www.johnathanbi.com/p/transcript-of-interview-with-mackenzie-price
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **"In 6 Months, We'll Start Losing Jobs to AI" — Alpha School Founder ...** (C, search-result-context, 0.30)
+  - https://open.spotify.com/episode/26BLFGckgjQAZne7iEFNWc
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **#981 - MacKenzie Price - Alpha… - Modern Wisdom - Apple Podcasts** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://podcasts.apple.com/us/podcast/981-mackenzie-price-alpha-school-a-new-approach-to/id1347973549?i=1000722170688
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **#981 - MacKenzie Price - Alpha School: A New Approach To Education** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://www.shortform.com/podcast/episode/modern-wisdom-2025-08-16-episode-summary-981-mackenzie-price-alpha-school-a-new-approach-to-education
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **#981 - MacKenzie Price - Alpha School: A New Approach To Education** (B, macKenzie-adjacent, 0.60)
+  - https://share.snipd.com/episode/0ff5b443-ae9c-4b50-bc46-a8f2aed6e364
+  - query: `MacKenzie Price Alpha School interview podcast article founder`
+- **Modern Wisdom - #981 - Mackenzie Price - Alpha School: A New Approach ...** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://podscripts.co/podcasts/modern-wisdom/981-mackenzie-price-alpha-school-a-new-approach-to-education
+  - query: `MacKenzie Price Alpha School transcript`
+- **Who is MacKenzie Price? Inside the $65,000-a-year school some are ...** (B, macKenzie-adjacent, 0.60)
+  - https://www.tomsguide.com/ai/have-you-heard-of-mackenzie-price-why-the-co-founder-of-the-usd65k-a-year-alpha-school-is-being-called-the-elon-musk-of-ai-education
+  - query: `MacKenzie Price Alpha School transcript`
+- **PDF Transcript: The AI Behind Alpha School** (C, search-result-context, 0.30)
+  - https://classdisrupted.wordpress.com/wp-content/uploads/2026/02/transcript_-the-ai-behind-alpha-school.pdf
+  - query: `MacKenzie Price Alpha School transcript`
+- **MacKenzie Price: Meet the Founder of 2 Hour Learning & Alpha Schools** (B, macKenzie-adjacent, 0.60)
+  - https://2hourlearning.com/founder/
+  - query: `MacKenzie Price Alpha School transcript`
+- **Alpha School: A New Approach To Education - MacKenzie Price** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://glasp.co/youtube/enXA7xepu2U
+  - query: `MacKenzie Price Alpha School transcript`
+- **MacKenzie Price - Alpha School: A New Approach To Educati...** (B, macKenzie-adjacent, 0.60)
+  - https://wisdomsparks.com/modern-wisdom/mackenzie-price-981/
+  - query: `MacKenzie Price Alpha School transcript`
+- **#981 - MacKenzie Price - Alpha School: A New Approach To Education** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://mcaneff.github.io/podcasts-to-books/chris-williamson/981-mackenzie-price-alpha-school-a-new-approach-to-education/
+  - query: `MacKenzie Price Alpha School transcript`
+- **Alpha School: A New Approach To Education - MacKenzie Price** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://www.texthub.space/transcripts/chris-williamson/alpha-school-a-new-approach-to-education-mackenzie-price
+  - query: `MacKenzie Price Alpha School transcript`
+- **#981 - Mackenzie Price - Alpha School: A New Approach To Education** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://podpulse.ai/podcast/modern-wisdom/modern-wisdom-981-mackenzie-price-alpha-school-a-new-approach-to-education
+  - query: `MacKenzie Price Alpha School Modern Wisdom 981 transcript`
+- **#981 - MacKenzie Price - Alpha School: A New Approach To Education** (B, macKenzie-adjacent, 0.60)
+  - https://skipclips.com/episode/jKZkg3uv
+  - query: `MacKenzie Price Alpha School Modern Wisdom 981 transcript`
+- **#981 - MacKenzie Price - Alpha School: A New Approach To Education** (A-candidate, spoken-transcript-candidate, 0.75)
+  - https://www.iheart.com/podcast/256-modern-wisdom-30936734/episode/981-mackenzie-price-alpha-289704188/
+  - query: `MacKenzie Price Alpha School Modern Wisdom 981 transcript`
+- **#981 - MacKenzie Price - Alpha School: A New Approach To Education** (B, macKenzie-adjacent, 0.60)
+  - https://open.spotify.com/episode/56Zq3V4jzzPwaw3hfusIgg
+  - query: `MacKenzie Price Alpha School Modern Wisdom 981 transcript`
+- **A.I. School Is in Session: Two Takes on the Future of Education** (C, search-result-context, 0.30)
+  - https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **Hard Fork Podcast - A.I. School Is in Session: Two Takes on ... - Podbean** (C, search-result-context, 0.30)
+  - https://www.podbean.com/media/share/dir-mk3xd-2754ceb3
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **A.I. School Is in Session: Two Takes on the Future of Education - Hard ...** (C, search-result-context, 0.30)
+  - https://podscan.fm/podcasts/hard-fork/episodes/ai-school-is-in-session-two-takes-on-the-future-of-education
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **A.I. School Is in Session: Two Takes on the Future of Education - Hard ...** (C, search-result-context, 0.30)
+  - https://www.iheart.com/podcast/326-hard-fork-71510947/episode/ai-school-is-in-session-two-292480347/
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **A.I. School Is in Session: Two…-Hard Fork - Apple Podcasts** (C, search-result-context, 0.30)
+  - https://podcasts.apple.com/cv/podcast/a-i-school-is-in-session-two-takes-on-the-future-of-education/id1528594034?i=1000725137275
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **A.I. School Is in Session: Two Takes on the Future of Education - Hard Fork** (C, search-result-context, 0.30)
+  - https://www.feiyanpod.com/episode/565431
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **How Alpha School Is Bringing A.I. to the Classroom | EP 152** (C, search-result-context, 0.30)
+  - https://www.youtube.com/watch?v=X-KzyPRdcmc
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **A.I. School Is in Session: Two Takes on the Future of Education | Hard ...** (C, search-result-context, 0.30)
+  - https://music.amazon.com/podcasts/7c7fe198-e6a8-41a8-b0fe-1d46b976dcd8/episodes/2be484d6-b4f8-4ed8-a970-67b6536edb6a/hard-fork-a-i-school-is-in-session-two-takes-on-the-future-of-education
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **A.I. School Is in Session: Two Takes on the Future of Education** (C, search-result-context, 0.30)
+  - https://www.listennotes.com/podcasts/hard-fork/ai-school-is-in-session-two-Ufh4GFot0jq/
+  - query: `MacKenzie Price Alpha School Hard Fork podcast`
+- **Alpha School - The Future of School Live Stream** (C, search-result-context, 0.30)
+  - https://alpha.school/the-future-of-school-live-stream/
+  - query: `MacKenzie Price Alpha School YouTube interview`
+- **Inside Alpha Schools: How AI is transforming the traditional education ...** (C, search-result-context, 0.30)
+  - https://www.foxbusiness.com/video/6391639428112
+  - query: `MacKenzie Price Alpha School YouTube interview`
+- **This episode features Mackenzie Price, the co-founder of Alpha School ...** (B, macKenzie-adjacent, 0.60)
+  - https://www.facebook.com/watch/?v=1196185352289077
+  - query: `MacKenzie Price Alpha School YouTube interview`
+- **This AI-Powered School Teaches 2 Hours a Day—and Outperforms the Nation** (C, search-result-context, 0.30)
+  - https://www.prageru.com/videos/this-ai-powered-school-teaches-2-hours-a-day-and-outperforms-the-nation
+  - query: `MacKenzie Price Alpha School YouTube interview`
+- **Video How is AI shaping the future of education? - ABC News** (C, search-result-context, 0.30)
+  - https://abcnews.com/video/129860135/
+  - query: `MacKenzie Price Alpha School YouTube interview`
+- **Alpha Schools reimagine education through AI - CBS Los Angeles** (C, search-result-context, 0.30)
+  - https://www.cbsnews.com/losangeles/video/alpha-schools-reimagine-education-through-ai/
+  - query: `MacKenzie Price Alpha School YouTube interview`
