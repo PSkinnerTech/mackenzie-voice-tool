@@ -4,6 +4,8 @@ Source-backed MacKenzie Price voice drafting and review-loop tooling for Alpha S
 
 Status: **v0.2, expanded usable draft but not locked**.
 
+Current training base: **~234 total minutes of video/audio transcript material** across 9 source-backed examples, with the corpus designed to be updated regularly as new MacKenzie-approved material and feedback becomes available.
+
 This repository contains:
 
 - a MacKenzie-only voice corpus
