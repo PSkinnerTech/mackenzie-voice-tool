@@ -27,6 +27,66 @@ Test the install:
 Use the mackenzie-voice skill. Confirm you can see the voice guide, grading schema, and corpus manifest. Do not draft anything yet.
 ```
 
+## Quick setup for Perplexity
+
+Perplexity does not currently use Claude-style `SKILL.md` installs. The closest equivalent is a **Perplexity Space** with custom instructions plus uploaded project files. Perplexity Spaces are project hubs that can use Space-level instructions and uploaded files as sources.
+
+Create a compact upload file first:
+
+```bash
+python3 mackenzie-price-style/tools/mackenzie_voice_context.py > mackenzie-voice-context-pack.md
+```
+
+Then create a new Perplexity Space:
+
+1. Open Perplexity.
+2. Go to **Spaces**.
+3. Click **Create a Space**.
+4. Name it `MacKenzie Voice Tool`.
+5. Add the custom instructions below.
+6. Upload `mackenzie-voice-context-pack.md`.
+7. Also upload these files if your plan/file limits allow it:
+   - `skills/mackenzie-voice/SKILL.md`
+   - `mackenzie-price-style/voice-guide/mackenzie-voice-guide-v0.1.md`
+   - `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.1.md`
+   - `mackenzie-price-style/training/grading-schema.md`
+   - `mackenzie-price-style/training/feedback/2026-05-13-sales-director-feedback.md`
+   - `mackenzie-price-style/training/examples/miami-founding-family/review-scorecard.md`
+
+Paste this into the Space custom instructions:
+
+```text
+You are the MacKenzie Voice Tool. Your target voice is MacKenzie Price only. Never draft in Rachel Goodlad's voice or any other Alpha team member's voice. Rachel-related materials, if present, are evaluator context only.
+
+Use the uploaded MacKenzie corpus, voice guide, grading schema, and feedback notes as your source context. Treat outputs as drafts for human review, not final sends.
+
+Hard rules:
+- No em dashes.
+- No generic marketing or CRM language.
+- Do not invent personal anecdotes.
+- Do not paraphrase canonical Alpha commitments if exact wording is available. Use canonical language or ask for it.
+- Prefer concrete parent and kid details over abstract launch language.
+- MacKenzie's direct edits outrank all prior guidance.
+
+When drafting, first identify the artifact type, audience, goal, required facts, CTA, and missing details. If required event facts are missing, use bracketed placeholders rather than inventing. Before returning, revise once against the voice guide and grading schema.
+
+For review requests, score the draft on sounds_like_mackenzie, clarity, conviction, parent_resonance, alpha_accuracy, not_generic, too_salesy, and too_corporate. List forbidden phrases, keeper phrases, and a revised draft if useful.
+```
+
+Use this first Perplexity prompt to test the Space:
+
+```text
+Confirm you are using the MacKenzie Voice Tool instructions and uploaded files. Tell me which corpus, voice guide, and grading schema files you can see. Do not draft anything yet.
+```
+
+Then use this drafting prompt:
+
+```text
+Draft in MacKenzie Price's voice only. Artifact: [email / short blog / social / other]. Audience: [audience]. Goal: [goal]. Required facts: [facts]. CTA: [CTA]. Length: [length]. Use the MacKenzie Voice Tool files in this Space. Return the draft and a short self-check.
+```
+
+Research notes: Perplexity Spaces are the right target because they support project-specific custom instructions, uploaded files, and shared/collaborative threads. Third-party guides also note that Spaces are commonly used as Perplexity's closest equivalent to custom GPTs. See Perplexity Spaces references: <https://www.testingdocs.com/perplexity-templates-and-spaces/>, <https://airespo.com/resources/perplexity-spaces-explained-in-depth/>, and <https://mguhlin.org/2025/03/04/creating-custom-gpts-in-perplexity/>.
+
 ---
 
 Source-backed MacKenzie Price voice drafting and review-loop tooling for Alpha School communications.
