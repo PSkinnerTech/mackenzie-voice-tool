@@ -103,6 +103,153 @@ Draft in MacKenzie Price's voice only. Artifact: [email / short blog / social / 
 
 Research notes: Perplexity Spaces are the right target because they support project-specific custom instructions, uploaded files, and shared/collaborative threads. Third-party guides also note that Spaces are commonly used as Perplexity's closest equivalent to custom GPTs. See Perplexity Spaces references: <https://www.testingdocs.com/perplexity-templates-and-spaces/>, <https://airespo.com/resources/perplexity-spaces-explained-in-depth/>, and <https://mguhlin.org/2025/03/04/creating-custom-gpts-in-perplexity/>.
 
+## Quick setup for Spiral
+
+Use Spiral when you want a reusable trained writing style that any AI draft can be routed through from the terminal.
+
+The Spiral training PDF is included in this repo:
+
+~~~text
+docs/mackenzie-voice-spiral-training-pack.pdf
+~~~
+
+That PDF is the recommended source file for creating the Spiral MacKenzie style.
+
+### 1. Create a Spiral account
+
+1. Open Spiral in your browser.
+2. Create an account or sign in.
+3. Create or choose the workspace where you want the MacKenzie voice style to live.
+
+Keep the workspace open. You will use it again to connect the CLI and create the style.
+
+### 2. Download and test the Spiral CLI
+
+The easiest setup is to run the CLI with bunx, which downloads the current CLI package when needed:
+
+~~~bash
+bunx @every-env/spiral-cli --help
+~~~
+
+If bun is not available in your environment, use pnpm:
+
+~~~bash
+pnpm dlx @every-env/spiral-cli --help
+~~~
+
+You should see commands such as write, personalize, humanize, styles, workspaces, and auth.
+
+### 3. Authenticate the CLI
+
+In Spiral, open the agent or CLI connection flow and copy the pairing code. Then run:
+
+~~~bash
+bunx @every-env/spiral-cli setup --pairing-code YOUR_PAIRING_CODE
+~~~
+
+If Spiral gives you an API key instead of a pairing code, authenticate with:
+
+~~~bash
+bunx @every-env/spiral-cli auth login --token YOUR_SPIRAL_API_KEY
+~~~
+
+Verify the CLI is connected:
+
+~~~bash
+bunx @every-env/spiral-cli auth status
+~~~
+
+### 4. Create the MacKenzie style
+
+In the Spiral web app:
+
+1. Go to the workspace you want to use.
+2. Create a new writing style.
+3. Name it MacKenzie.
+4. Upload docs/mackenzie-voice-spiral-training-pack.pdf as the training/source document.
+5. Let Spiral analyze the document and save the style.
+
+The style boundary matters: this style is for draft generation and review only. It is not permission to impersonate MacKenzie or send unsupervised messages.
+
+After saving the style, list your available workspaces and styles:
+
+~~~bash
+bunx @every-env/spiral-cli workspaces --json
+bunx @every-env/spiral-cli styles --json
+~~~
+
+Copy the workspace ID and style ID for the MacKenzie style. Use them in CLI calls so the right trained style is selected every time:
+
+~~~bash
+export SPIRAL_WORKSPACE_ID="your-workspace-id"
+export SPIRAL_MACKENZIE_STYLE_ID="your-mackenzie-style-id"
+~~~
+
+### 5. Use Spiral to write with the trained style
+
+Use write when you want Spiral to draft from a prompt:
+
+~~~bash
+bunx @every-env/spiral-cli write \
+  "Write an email from MacKenzie Price to current Alpha families about summer access to TimeBack. Use bracketed placeholders for missing dates, links, and support contacts. No em dashes." \
+  --instant \
+  --style "$SPIRAL_MACKENZIE_STYLE_ID" \
+  --workspace "$SPIRAL_WORKSPACE_ID"
+~~~
+
+Use personalize when another AI has already written a draft and you want Spiral to rewrite it in the trained MacKenzie style:
+
+~~~bash
+bunx @every-env/spiral-cli personalize "$(cat draft-email.md)" \
+  --style "$SPIRAL_MACKENZIE_STYLE_ID" \
+  --workspace "$SPIRAL_WORKSPACE_ID"
+~~~
+
+Use humanize when a draft sounds too generic or AI-written:
+
+~~~bash
+bunx @every-env/spiral-cli humanize "$(cat draft-email.md)" \
+  --style "$SPIRAL_MACKENZIE_STYLE_ID" \
+  --workspace "$SPIRAL_WORKSPACE_ID"
+~~~
+
+For tool integrations, add --json so another agent or script can parse the result:
+
+~~~bash
+bunx @every-env/spiral-cli write \
+  "Draft a concise parent email from MacKenzie Price about [topic]. Required facts: [facts]. CTA: [cta]." \
+  --instant \
+  --json \
+  --style "$SPIRAL_MACKENZIE_STYLE_ID" \
+  --workspace "$SPIRAL_WORKSPACE_ID"
+~~~
+
+### 6. Use Spiral with any AI tool
+
+The most reliable workflow is:
+
+1. Ask any AI tool to create a plain baseline draft with the facts, audience, CTA, and constraints.
+2. Save that draft locally, for example draft-email.md.
+3. Run the draft through Spiral with personalize or humanize.
+4. Review the Spiral output against the MacKenzie Voice Tool rules before sending.
+
+Example prompt for another AI:
+
+~~~text
+Draft a parent email. Audience: [audience]. Goal: [goal]. Required facts: [facts]. CTA: [cta]. Use bracketed placeholders for missing operational details. Keep it concise. Do not invent anecdotes.
+~~~
+
+Then run:
+
+~~~bash
+bunx @every-env/spiral-cli personalize "$(cat draft-email.md)" \
+  --json \
+  --style "$SPIRAL_MACKENZIE_STYLE_ID" \
+  --workspace "$SPIRAL_WORKSPACE_ID"
+~~~
+
+Always do a final human review. Spiral can still introduce phrases or punctuation that violate this repo's rules.
+
 
 ## Current corpus version
 
@@ -141,6 +288,9 @@ Do **not** copy only `SKILL.md` and expect full performance. The skill instructi
 
 - `mackenzie-price-style/training/examples/miami-founding-family/`
   Seed drafts and scorecard for the first review.
+
+- docs/mackenzie-voice-spiral-training-pack.pdf
+  PDF training pack for creating the Spiral MacKenzie writing style.
 
 - `mackenzie-price-style/tools/mackenzie_voice_context.py`
   Prints a compact context pack for use in Claude, ChatGPT, or other tools.
