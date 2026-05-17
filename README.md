@@ -124,29 +124,32 @@ Do **not** copy only `SKILL.md` and expect full performance. The skill instructi
 
 ## Key artifacts
 
-- `skills/mackenzie-voice/SKILL.md`  
+- `skills/mackenzie-voice/SKILL.md`
   The skill definition and workflow.
 
-- `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.2.md`  
+- `mackenzie-price-style/processed/mackenzie-tier-a-master-corpus-v0.2.md`
   The v0.2 Tier A MacKenzie corpus.
 
-- `mackenzie-price-style/voice-guide/mackenzie-voice-guide-v0.1.md`  
+- `mackenzie-price-style/voice-guide/mackenzie-voice-guide-v0.1.md`
   The current voice guide.
 
-- `mackenzie-price-style/training/grading-schema.md`  
+- `mackenzie-price-style/training/grading-schema.md`
   Review rubric for MacKenzie/user feedback.
 
-- `mackenzie-price-style/training/review-sessions/2026-05-14-mackenzie-review-plan.md`  
+- `mackenzie-price-style/training/review-sessions/2026-05-14-mackenzie-review-plan.md`
   Tomorrow’s calibration plan.
 
-- `mackenzie-price-style/training/examples/miami-founding-family/`  
+- `mackenzie-price-style/training/examples/miami-founding-family/`
   Seed drafts and scorecard for the first review.
 
-- `mackenzie-price-style/tools/mackenzie_voice_context.py`  
+- `mackenzie-price-style/tools/mackenzie_voice_context.py`
   Prints a compact context pack for use in Claude, ChatGPT, or other tools.
 
-- `mackenzie-price-style/tools/capture_mackenzie_feedback.py`  
+- `mackenzie-price-style/tools/capture_mackenzie_feedback.py`
   Appends structured review feedback to the feedback ledger.
+
+- `mackenzie-price-style/tools/compare_spiral_outputs.py`
+  Generates a local side-by-side comparison report between a saved MacKenzie Voice Tool baseline draft and one Spiral CLI output.
 
 ## Safety / voice boundary
 
@@ -179,6 +182,17 @@ Print the context pack:
 ```bash
 python3 mackenzie-price-style/tools/mackenzie_voice_context.py
 ```
+
+Run a Spiral comparison against an existing baseline draft:
+
+```bash
+python3 mackenzie-price-style/tools/compare_spiral_outputs.py \\
+  --mode humanize \\
+  --prompt "Draft an email from MacKenzie Price to founding families at Alpha Miami announcing a first-day meetup." \\
+  --baseline-file mackenzie-price-style/training/examples/miami-founding-family/v0.1-email.md
+```
+
+The script defaults to `bunx @every-env/spiral-cli`, writes reports under `mackenzie-price-style/training/review-sessions/spiral-comparisons/`, and preserves raw stdout, stderr, and metadata for every run. If Spiral is not authenticated, the report records that as the comparison result instead of crashing.
 
 Use that output as the setup/context for Claude, ChatGPT, or another AI tool if native skill loading is not available.
 

@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-05-16-204948",
+  "mode": "humanize",
+  "runner": "bunx @every-env/spiral-cli",
+  "command": [
+    "bunx",
+    "@every-env/spiral-cli",
+    "humanize",
+    "# Draft v0.1: Alpha Miami founding family first-day meetup email\n\n**Subject:** Alpha Miami founding families, first day meetup details\n\nHi Alpha Miami Founding Families,\n\nWe are almost there.\n\nI remember the feeling of sending my own kids into a new school year. There is excitement, of course, but there are also all the parent questions running in the background. Will they make friends? Will they feel known? Will they be challenged in the right way? Will they come home happy?\n\nThat is why I\u2019m especially excited to bring our founding Alpha Miami families together before the first day of school.\n\n**Founding Family First Day Meetup**  \n**Date:** [DATE]  \n**Time:** [TIME]  \n**Location:** [LOCATION]\n\nThis will be a chance for your kids to meet each other, for families to connect, and for you to spend time with the Alpha Miami team before the school year begins.\n\nBeing a founding family is special. You are helping create the culture of this campus from the very beginning. The friendships, the standards, the joy, the courage to do school differently, all of that starts with this first group of families.\n\nI\u2019m so grateful you\u2019re part of it, and I can\u2019t wait for your kids to experience what school can feel like when they are known, challenged, and excited to walk through the doors.\n\nSee you soon,\n\nMacKenzie",
+    "--json"
+  ],
+  "prompt_file": null,
+  "baseline_file": "mackenzie-price-style/training/examples/miami-founding-family/v0.1-email.md",
+  "context_pack": null,
+  "output_files": {
+    "report": "/Users/SuperBuilder/.openclaw/workspace/mackenzie-voice-tool/mackenzie-price-style/training/review-sessions/spiral-comparisons/2026-05-16-204948-humanize-comparison.md",
+    "stdout": "/Users/SuperBuilder/.openclaw/workspace/mackenzie-voice-tool/mackenzie-price-style/training/review-sessions/spiral-comparisons/2026-05-16-204948-humanize-spiral.stdout.txt",
+    "stderr": "/Users/SuperBuilder/.openclaw/workspace/mackenzie-voice-tool/mackenzie-price-style/training/review-sessions/spiral-comparisons/2026-05-16-204948-humanize-spiral.stderr.txt",
+    "metadata": "/Users/SuperBuilder/.openclaw/workspace/mackenzie-voice-tool/mackenzie-price-style/training/review-sessions/spiral-comparisons/2026-05-16-204948-humanize-metadata.json"
+  },
+  "result": {
+    "timed_out": false,
+    "elapsed_seconds": 2.556,
+    "exit_code": 0,
+    "stdout_json_valid": true,
+    "hard_constraints": [
+      "- em dash: 0",
+      "- en dash: 1",
+      "- phrase 'that matters': 0",
+      "- phrase 'the energy this moment deserves': 0",
+      "- phrase 'journey': 0",
+      "- phrase 'unlock potential': 0"
+    ]
+  }
+}
